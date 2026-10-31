@@ -1,0 +1,16 @@
+{
+  "name": "aistw-inbox",
+  "description": "9 Inbox skills from AI Setups That Work. Triage email, draft replies, and turn messages into action lists.",
+  "version": "1.0.0",
+  "author": {
+    "name": "AI Setups That Work",
+    "url": "https://aisetupsthatwork.com"
+  },
+  "homepage": "https://aisetupsthatwork.com/library/",
+  "repository": "https://github.com/justinfredette/aisetupsthatwork-skills",
+  "keywords": [
+    "small-business",
+    "productivity",
+    "aisetupsthatwork"
+  ]
+}
