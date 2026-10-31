@@ -1,0 +1,16 @@
+{
+  "name": "aistw-leads",
+  "description": "23 Leads skills from AI Setups That Work. Capture leads, follow up on quotes, and win back cold prospects.",
+  "version": "1.0.0",
+  "author": {
+    "name": "AI Setups That Work",
+    "url": "https://aisetupsthatwork.com"
+  },
+  "homepage": "https://aisetupsthatwork.com/library/",
+  "repository": "https://github.com/justinfredette/aisetupsthatwork-skills",
+  "keywords": [
+    "small-business",
+    "productivity",
+    "aisetupsthatwork"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "aistw-operations",
+  "description": "20 Operations skills from AI Setups That Work. Status updates, call summaries, SOPs, and day-to-day business admin.",
+  "version": "1.0.0",
+  "author": {
+    "name": "AI Setups That Work",
+    "url": "https://aisetupsthatwork.com"
+  },
+  "homepage": "https://aisetupsthatwork.com/library/",
+  "repository": "https://github.com/justinfredette/aisetupsthatwork-skills",
+  "keywords": [
+    "small-business",
+    "productivity",
+    "aisetupsthatwork"
+  ]
+}
