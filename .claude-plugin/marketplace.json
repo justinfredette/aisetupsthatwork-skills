@@ -6,14 +6,14 @@
   },
   "metadata": {
     "description": "Claude skills for small business, work and home, one plugin per job. Each skill is a step-by-step setup from aisetupsthatwork.com.",
-    "version": "1.0.1"
+    "version": "1.0.2"
   },
   "plugins": [
     {
       "name": "aistw-leads",
       "source": "./plugins/aistw-leads",
       "description": "23 Leads skills from AI Setups That Work. Capture leads, follow up on quotes, and win back cold prospects.",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "category": "productivity",
       "homepage": "https://www.aisetupsthatwork.com/library/"
     },
@@ -21,7 +21,7 @@
       "name": "aistw-invoicing",
       "source": "./plugins/aistw-invoicing",
       "description": "24 Invoicing & money skills from AI Setups That Work. Chase late invoices, sort bills and receipts, and track spend.",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "category": "productivity",
       "homepage": "https://www.aisetupsthatwork.com/library/"
     },
@@ -29,7 +29,7 @@
       "name": "aistw-inbox",
       "source": "./plugins/aistw-inbox",
       "description": "9 Inbox skills from AI Setups That Work. Triage email, draft replies, and turn messages into action lists.",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "category": "productivity",
       "homepage": "https://www.aisetupsthatwork.com/library/"
     },
@@ -37,7 +37,7 @@
       "name": "aistw-scheduling",
       "source": "./plugins/aistw-scheduling",
       "description": "14 Scheduling skills from AI Setups That Work. Appointment reminders, meeting prep, and calendar cleanup.",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "category": "productivity",
       "homepage": "https://www.aisetupsthatwork.com/library/"
     },
@@ -45,7 +45,7 @@
       "name": "aistw-operations",
       "source": "./plugins/aistw-operations",
       "description": "20 Operations skills from AI Setups That Work. Status updates, call summaries, SOPs, and day-to-day business admin.",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "category": "productivity",
       "homepage": "https://www.aisetupsthatwork.com/library/"
     },
@@ -53,7 +53,7 @@
       "name": "aistw-life",
       "source": "./plugins/aistw-life",
       "description": "51 Life admin skills from AI Setups That Work. Household paperwork, weekly briefs, trips, and personal admin.",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "category": "productivity",
       "homepage": "https://www.aisetupsthatwork.com/library/"
     },
@@ -61,7 +61,7 @@
       "name": "aistw-research",
       "source": "./plugins/aistw-research",
       "description": "56 Research & content skills from AI Setups That Work. Research briefs, comparisons, and content drafts with sources.",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "category": "productivity",
       "homepage": "https://www.aisetupsthatwork.com/library/"
     },
@@ -69,7 +69,7 @@
       "name": "aistw-reviews",
       "source": "./plugins/aistw-reviews",
       "description": "18 Reviews skills from AI Setups That Work. Ask for reviews, reply to them, and spot patterns in feedback.",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "category": "productivity",
       "homepage": "https://www.aisetupsthatwork.com/library/"
     }
