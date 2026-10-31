@@ -1,13 +1,14 @@
 {
   "name": "aistw-reviews",
   "description": "18 Reviews skills from AI Setups That Work. Ask for reviews, reply to them, and spot patterns in feedback.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": {
     "name": "AI Setups That Work",
-    "url": "https://aisetupsthatwork.com"
+    "url": "https://www.aisetupsthatwork.com"
   },
-  "homepage": "https://aisetupsthatwork.com/library/",
+  "homepage": "https://www.aisetupsthatwork.com/library/",
   "repository": "https://github.com/justinfredette/aisetupsthatwork-skills",
+  "license": "SEE LICENSE IN LICENSE",
   "keywords": [
     "small-business",
     "productivity",
