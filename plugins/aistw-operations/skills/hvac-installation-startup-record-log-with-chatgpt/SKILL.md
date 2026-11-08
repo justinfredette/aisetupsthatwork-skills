@@ -1,6 +1,6 @@
 ---
 name: hvac-installation-startup-record-log-with-chatgpt
-description: "HVAC Startup Record Log, ChatGPT. Here's how I'd set this up in ChatGPT or Claude. By default I'd run it on made-up example rows. From made-up installation rows, ChatGPT or Claude builds one log that keeps each installation, startup step and reading as its own dated recorded entry by job ID and equipment label, keeps installed, started and reading recorded as separate states, and never says a system is commissioned, sized correctly, efficient or compliant. Use when the user asks for help with this job."
+description: "HVAC Startup Record Log, ChatGPT. Here's how I'd set this up in ChatGPT or Claude. By default I'd run it on made-up example rows. From made-up installation rows, ChatGPT or Claude builds one log."
 ---
 
 # HVAC Startup Record Log, ChatGPT

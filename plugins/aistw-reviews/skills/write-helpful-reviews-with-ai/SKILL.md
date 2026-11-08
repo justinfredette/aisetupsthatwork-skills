@@ -1,6 +1,6 @@
 ---
 name: write-helpful-reviews-with-ai
-description: "Write Reviews That Actually Help People. Jot what happened: what you ordered, what stood out, one honest caveat. Let AI shape it into a clear, fair review. Specific beats gushing. Use when the user asks for help with this job."
+description: "Write Reviews That Actually Help People. Jot what happened: what you ordered, what stood out, one honest caveat. Let AI shape it into a clear, fair review. Specific beats gushing."
 ---
 
 # Write Reviews That Actually Help People

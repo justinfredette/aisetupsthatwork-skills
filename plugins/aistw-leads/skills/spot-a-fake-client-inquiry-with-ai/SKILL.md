@@ -1,6 +1,6 @@
 ---
 name: spot-a-fake-client-inquiry-with-ai
-description: "Spot a fake client inquiry with AI. Paste the inquiry and have the AI list red flags, such as a check for more than the price with a request to send money back, a fee to get started, or a rush to move off-platform. The FTC says paying to get a job and depositing a check to send money back are signs of scams. Use when the user asks for help with this job."
+description: "Spot a fake client inquiry with AI. Paste the inquiry and have the AI list red flags, such as a check for more than the price with a request to send money back, a fee to get started, or a rush to."
 ---
 
 # Spot a fake client inquiry with AI
@@ -17,6 +17,11 @@ Freelancers, designers and small service businesses getting new-client emails th
 4. Ask the safe questions it suggests before you start work or accept any payment.
 5. Never send money back from a payment that has not fully cleared, and never pay to start a job.
 6. If it is a scam, report it to the FTC at ReportFraud.ftc.gov and to the platform it came through.
+
+## What to ask the user for
+
+- PASTE, WITH MY DETAILS REMOVED
+- E.G. LOGO DESIGN, $600
 
 ## Prompt
 

@@ -1,6 +1,6 @@
 ---
 name: team-review-response-playbook
-description: "A Review Response Playbook Your Whole Team Can Follow. Write a one-page voice guide: tone, length, sign-off, escalation list, banned phrases. Make it the system prompt for AI drafts so everyone who replies sounds like one business. Use when the user asks for help with this job."
+description: "A Review Response Playbook Your Whole Team Can Follow. Write a one-page voice guide: tone, length, sign-off, escalation list, banned phrases. Make it the system prompt for AI drafts so everyone who."
 ---
 
 # A Review Response Playbook Your Whole Team Can Follow

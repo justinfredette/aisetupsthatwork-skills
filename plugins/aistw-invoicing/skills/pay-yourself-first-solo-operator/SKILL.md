@@ -1,6 +1,6 @@
 ---
 name: pay-yourself-first-solo-operator
-description: "Pay yourself first as a solo operator. Give the AI your monthly revenue and it splits every payment into profit, owner pay, tax, and expense accounts using Profit First percentages, so you get paid like an employee. Use when the user asks for help with this job."
+description: "Pay yourself first as a solo operator. Give the AI your monthly revenue and it splits every payment into profit, owner pay, tax, and expense accounts using Profit First percentages, so you get paid."
 ---
 
 # Pay yourself first as a solo operator
@@ -18,6 +18,11 @@ A solo operator whose business makes money but who never seems to take home a st
 5. Pay your personal bills only from Owner Pay. Business bills only from Operating Expenses.
 6. Each quarter, take half the Profit account as a bonus to yourself. Leave the rest as a buffer.
 7. Adjust percentages as revenue grows. The system scales with you.
+
+## What to ask the user for
+
+- AMOUNT
+- EXAMPLE
 
 ## Prompt
 

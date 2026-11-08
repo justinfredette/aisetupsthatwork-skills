@@ -1,6 +1,6 @@
 ---
 name: gym-facility-cleaning-log-with-chatgpt
-description: "Gym Cleaning Log, ChatGPT. Here's how I'd set this up in ChatGPT or Claude. By default I'd run it on made-up example rows: area labels with cleaning events exactly as recorded - date, time and timezone, what was done, product used, who by role - out comes one log that keeps each event its own fact, calls coverage unassessable without the underlying usage records, and never declares any area clean. Real records go in only if the business has explicitly authorized this environment for them. Use when the user asks for help with this job."
+description: "Gym Cleaning Log, ChatGPT. Here's how I'd set this up in ChatGPT or Claude. By default I'd run it on made-up example rows: area labels with cleaning events exactly as recorded - date, time and."
 ---
 
 # Gym Cleaning Log, ChatGPT

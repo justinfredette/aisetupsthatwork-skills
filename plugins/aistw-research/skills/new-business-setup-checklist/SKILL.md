@@ -1,6 +1,6 @@
 ---
 name: new-business-setup-checklist
-description: "Start a Business: LLC or Sole Proprietor Setup Checklist. This is not legal or tax advice. A sole proprietorship is the easiest to form but leaves you personally responsible for business debts; an LLC separates business and personal liabilities. Either way you need a tax ID, any required licenses, and a separate bank account. Use when the user asks for help with this job."
+description: "Start a Business: LLC or Sole Proprietor Setup Checklist. This is not legal or tax advice. A sole proprietorship is the easiest to form but leaves you personally responsible for business debts; an."
 ---
 
 # Start a Business: LLC or Sole Proprietor Setup Checklist

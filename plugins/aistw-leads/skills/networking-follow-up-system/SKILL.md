@@ -1,6 +1,6 @@
 ---
 name: networking-follow-up-system
-description: "Never drop a networking contact again. After every event, dump your notes on who you met into the AI. It drafts a personal follow-up for each one and reminds you who needs a second touch. Use when the user asks for help with this job."
+description: "Never drop a networking contact again. After every event, dump your notes on who you met into the AI. It drafts a personal follow-up for each one and reminds you who needs a second touch."
 ---
 
 # Never drop a networking contact again
@@ -18,6 +18,17 @@ Solo operators and freelancers who collect business cards and then never follow 
 5. Send the messages yourself the same day or the next morning.
 6. Mark sent in the tracker. Set a reminder for one gentle nudge in 10 to 14 days for the important ones.
 7. After the nudge, stop. Respectful silence beats a third chase.
+
+## What to ask the user for
+
+- EVENT NAME
+- DATE
+- WHAT YOU DO
+- NAME
+- TOPIC
+- THING, or "nothing specific"
+- THEIR CHALLENGE OR INTEREST
+- ADD MORE
 
 ## Prompt
 

@@ -1,6 +1,6 @@
 ---
 name: check-etsy-listings-against-the-new-ai-rules
-description: "Check Etsy listings against the new AI rules. Etsy now requires at least one unedited photo of the actual item on a real background, photos that match what the buyer gets, an AI disclosure in the description when AI made the item, and no AI-generated patterns, recipes or instructions. Paste each listing and have the AI check it against those rules, then fix it yourself. Use when the user asks for help with this job."
+description: "Check Etsy listings against the new AI rules. Etsy now requires at least one unedited photo of the actual item on a real background, photos that match what the buyer gets, an AI disclosure in the."
 ---
 
 # Check Etsy listings against the new AI rules
@@ -17,6 +17,13 @@ Etsy sellers who used AI anywhere in a listing, from photos and mockups to descr
 4. If AI helped create the item itself, add a plain disclosure in the description. Etsy says seller-prompted AI creations must be disclosed there.
 5. If you sell patterns, recipes or instructions, make sure the instructions are your own work and show a real result. Etsy no longer allows AI-generated functional guides.
 6. Check the exceptions on Etsy's Listing Image Requirements page for your item type before changing photos.
+
+## What to ask the user for
+
+- E.G. PHYSICAL CANDLES / DIGITAL PLANNER / KNITTING PATTERN
+- PASTE
+- E.G. 1 unedited on table, 2 AI background, 3 mockup
+- YES/NO, HOW
 
 ## Prompt
 

@@ -1,6 +1,6 @@
 ---
 name: weekly-home-reset-checklist
-description: "Weekly Home Reset Checklist (A Plan You Will Actually Follow). Tell ChatGPT your rooms, how many minutes you have each day, and who helps. You get a Monday-to-Sunday plan with short daily tasks plus a 10-minute nightly reset. You still do the cleaning. The AI just decides what happens when. Use when the user asks for help with this job."
+description: "Weekly Home Reset Checklist (A Plan You Will Actually Follow). Tell ChatGPT your rooms, how many minutes you have each day, and who helps. You get a Monday-to-Sunday plan with short daily tasks plus."
 ---
 
 # Weekly Home Reset Checklist (A Plan You Will Actually Follow)

@@ -1,6 +1,6 @@
 ---
 name: move-your-ai-memory-to-a-new-assistant
-description: "Move your AI memory to a new assistant. Claude's help center says you can bring memory from another AI service by running an export prompt there, then pasting the result into Settings > Your Claude > Start import. Claude calls memory imports experimental, so check what it kept. Use when the user asks for help with this job."
+description: "Move your AI memory to a new assistant. Claude's help center says you can bring memory from another AI service by running an export prompt there, then pasting the result into Settings > Your Claude."
 ---
 
 # Move your AI memory to a new assistant
@@ -18,6 +18,10 @@ Anyone switching or adding an AI assistant who is tired of re-explaining their j
 5. In Claude, go to Settings > Your Claude and select Start import. Paste the list into the text box and click Add to memory.
 6. Click See what Claude learned about you and read the answer. Fix anything wrong with the Tell Claude what to change or remove box, or ask in chat.
 7. Grok Bot: import steps are Not stated in sources. Paste the cleaned list into its instructions by hand and check the result.
+
+## What to ask the user for
+
+- PRIVATE
 
 ## Prompt
 

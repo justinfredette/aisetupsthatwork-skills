@@ -1,6 +1,6 @@
 ---
 name: make-a-promo-reel-with-ai-from-code
-description: "Make a promo reel with AI, from code. Ask a coding AI to draw every frame as a function of time in one HTML file, screenshot each frame with a headless browser, then join the frames and a music track with FFmpeg. Check still frames before the full render, and time the scenes to the music, not the other way round. Use when the user asks for help with this job."
+description: "Make a promo reel with AI, from code. Ask a coding AI to draw every frame as a function of time in one HTML file, screenshot each frame with a headless browser, then join the frames and a music."
 ---
 
 # Make a promo reel with AI, from code
@@ -18,6 +18,17 @@ Small business owners and builders who can run a command in a terminal, or who h
 5. Pick the take whose drops land closest to your cuts. If it has vocals, transcribe it and retime the scenes so each line lands on its words. Move the video to the music, not the music to the video.
 6. Add captions for the lyrics or voiceover. Many people scroll with the sound off, and without captions the reel says nothing.
 7. Render all frames, join them with the track in FFmpeg, and watch the whole MP4 with sound before you post. Pick a cover frame that shows the problem, like the biggest number.
+
+## What to ask the user for
+
+- WHAT YOU SELL, ONE LINE
+- ONE JOB, E.G. CHASES LATE INVOICES
+- ONE SENTENCE
+- WHAT GROWS, E.G. INVOICES UNPAID
+- NUMBER
+- E.G. 12 OF 12 REMINDED
+- TEXT AND URL
+- 2 OR 3 HEX CODES
 
 ## Prompt
 
@@ -55,6 +66,12 @@ Build it like this:
 - Text that types in can still be mid-word when the scene cuts. Speed up the typing or give the scene more time.
 - Only use music you made or have the rights to. Do not borrow a track from someone else's video.
 - Download the MP4 and play it with sound before deciding the audio is missing.
+
+## Tested
+
+Ran with Claude Code, Nov 1, 2026: a 45-second vertical reel drawn in HTML, 1,350 frames rendered and joined with FFmpeg, set to an ElevenLabs track picked from 4 takes and retimed to its sung words. Nothing was posted.
+
+The full receipt is on https://www.aisetupsthatwork.com/setups/make-a-promo-reel-with-ai-from-code/
 
 ## Source
 

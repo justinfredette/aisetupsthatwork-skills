@@ -1,6 +1,6 @@
 ---
 name: chase-late-payments-with-ai
-description: "Chase late payments without the awkward email. Tell the AI the invoice details and how late it is. It writes a firm but polite reminder email. You read it, fix anything that sounds off, and send it yourself. Use when the user asks for help with this job."
+description: "Chase late payments without the awkward email. Tell the AI the invoice details and how late it is. It writes a firm but polite reminder email. You read it, fix anything that sounds off, and send it."
 ---
 
 # Chase late payments without the awkward email
@@ -17,7 +17,18 @@ A freelancer or small business owner with an overdue invoice who hates awkward m
 4. Read the draft carefully. Fix anything that does not sound like you.
 5. Attach the original invoice to your email. People pay faster when they do not have to hunt for it.
 6. Send it yourself from your own email. Never let the AI send anything on your behalf.
-7. If there is no reply in a week, ask the AI to write the firmer second notice using the same facts.
+7. If there is no reply in a week, ask the AI to write the firmer second notice. Give it the updated days-late count and a new pay-by date.
+
+## What to ask the user for
+
+- YOUR NAME
+- BUSINESS NAME
+- CLIENT NAME
+- INVOICE NUMBER
+- AMOUNT
+- DUE DATE
+- BRIEF DESCRIPTION
+- DATE
 
 ## Prompt
 
@@ -38,6 +49,13 @@ Write a late-payment reminder email. Facts: my name is [YOUR NAME], my business 
 - The tone comes out too aggressive for a first reminder. Say "friendly nudge" explicitly in the prompt.
 - The draft uses the wrong amount or date. You typed them, but double-check anyway.
 - Sending the email without the invoice attached. The draft cannot attach files for you.
+- Every draft said the invoice was attached. Attach it before you send, or cut that line.
+
+## Tested
+
+Ran on Claude in a Claude Code session, Nov 5, 2026: 2 made-up overdue invoices got a friendly and a firm reminder, then a firmer second notice, all under 150 words with no late fee invented. The week with no reply was simulated, and nothing was attached or sent.
+
+The full receipt is on https://www.aisetupsthatwork.com/setups/chase-late-payments-with-ai/
 
 ## Source
 

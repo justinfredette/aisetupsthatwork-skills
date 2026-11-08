@@ -1,6 +1,6 @@
 ---
 name: turn-messy-draft-into-polite-work-email
-description: "Turn a messy draft into a clear, polite work email. Paste your rough or frustrated draft, name the recipient and tone, and ask ChatGPT or Claude for a concise rewrite under a word cap. Keeping your facts only, with no new deadlines or promises. Review for passive-aggressive phrasing, then paste into mail yourself; never grant send access for this job. Use when the user asks for help with this job."
+description: "Turn a messy draft into a clear, polite work email. Paste your rough or frustrated draft, name the recipient and tone, and ask ChatGPT or Claude for a concise rewrite under a word cap. Keeping your."
 ---
 
 # Turn a messy draft into a clear, polite work email
@@ -17,6 +17,10 @@ Anyone who types a vent in Notes first, then stalls before sending a professiona
 4. Read the draft aloud; fix anything that sounds stiff, fake-urgent, or passive-aggressive.
 5. Optional second pass: ask it to flag phrases that could read as snark or “as per my last email” energy.
 6. Paste into Gmail, Outlook, or Slack yourself. Keep send and post permissions off in any connected agent.
+
+## What to ask the user for
+
+- 120
 
 ## Prompt
 

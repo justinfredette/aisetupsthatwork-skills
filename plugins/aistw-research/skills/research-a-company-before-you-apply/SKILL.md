@@ -1,6 +1,6 @@
 ---
 name: research-a-company-before-you-apply
-description: "Research a company before you apply. Paste the job post and the company's website into an AI with web search, and ask for a one-page brief: what they sell, who pays, recent launches or hires, and the problems this role is probably there to solve. Open every source link before you use a fact in an application. Use when the user asks for help with this job."
+description: "Research a company before you apply. Paste the job post and the company's website into an AI with web search, and ask for a one-page brief: what they sell, who pays, recent launches or hires, and."
 ---
 
 # Research a company before you apply
@@ -17,6 +17,11 @@ Job seekers who want applications and interviews that show they understand the c
 4. Open the links for anything you plan to mention. Drop any fact you cannot confirm.
 5. Keep the brief next to your resume; the problems list tells you which results to put at the top.
 6. Reuse the brief for outreach and interview prep.
+
+## What to ask the user for
+
+- NAME, WEBSITE
+- PASTE
 
 ## Prompt
 

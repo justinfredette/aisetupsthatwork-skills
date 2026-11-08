@@ -1,6 +1,6 @@
 ---
 name: write-a-services-page-that-converts
-description: "Write a services page that converts. Feed the AI your services, your best customers, and the questions they always ask. It drafts a page built on benefits and proof, not a list of features. Use when the user asks for help with this job."
+description: "Write a services page that converts. Feed the AI your services, your best customers, and the questions they always ask. It drafts a page built on benefits and proof, not a list of features."
 ---
 
 # Write a services page that converts
@@ -18,6 +18,17 @@ Small business owners whose website lists services like a menu and gets inquirie
 5. Read the draft and cut anything that sounds like every competitor. Keep what sounds like you.
 6. Check the call to action on every service block. Each one should tell the reader exactly what to do next.
 7. Publish one page per main service if you can, not one long page for everything.
+
+## What to ask the user for
+
+- BUSINESS NAME
+- WHAT YOU DO, WHERE
+- SERVICE
+- WHO IT IS FOR
+- SECOND PROOF ITEM
+- QUESTION 1
+- QUESTION 2
+- QUESTION 3
 
 ## Prompt
 

@@ -1,6 +1,6 @@
 ---
 name: retirement-planning-questions-with-ai
-description: "Ask Better Retirement Questions With AI. This is not financial advice. AI can help you list the right questions about savings rate, Social Security timing, and withdrawals, and organize your numbers. A registered financial professional makes the actual calls. Use when the user asks for help with this job."
+description: "Ask Better Retirement Questions With AI. This is not financial advice. AI can help you list the right questions about savings rate, Social Security timing, and withdrawals, and organize your."
 ---
 
 # Ask Better Retirement Questions With AI

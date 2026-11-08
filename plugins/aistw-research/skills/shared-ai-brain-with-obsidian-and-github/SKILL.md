@@ -1,6 +1,6 @@
 ---
 name: shared-ai-brain-with-obsidian-and-github
-description: "Shared AI brain: Obsidian and GitHub. Keep the notes in an Obsidian vault and back it up to a private GitHub repository with the Obsidian Git plugin. Claude Code reads CLAUDE.md files at the start of each session. Whether ChatGPT, Grok or Muse can read and write the folder: Not stated in sources. Use when the user asks for help with this job."
+description: "Shared AI brain: Obsidian and GitHub. Keep the notes in an Obsidian vault and back it up to a private GitHub repository with the Obsidian Git plugin. Claude Code reads CLAUDE.md files at the start."
 ---
 
 # Shared AI brain: Obsidian and GitHub
@@ -18,6 +18,10 @@ Small teams that already use Obsidian and want more than one assistant working f
 5. Claude Code reads CLAUDE.md files at the start of every session, per Anthropic's docs. Put a pointer to the rules file in CLAUDE.md so it follows the same rules.
 6. For ChatGPT, Grok Bot and Muse, reading or writing the folder directly is Not stated in sources. Paste the rules file into each one's instructions by hand.
 7. Back up on purpose. Obsidian's help says syncing is not a backup, so keep the GitHub copy as the backup and review what changed before you accept it.
+
+## What to ask the user for
+
+- FOLDER NAME
 
 ## Prompt
 

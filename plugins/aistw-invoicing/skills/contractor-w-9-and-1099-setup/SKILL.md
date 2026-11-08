@@ -1,6 +1,6 @@
 ---
 name: contractor-w-9-and-1099-setup
-description: "Set Up Contractor W-9s and 1099s Without the Scramble. Collect a signed Form W-9 from every contractor before you pay them, then file Form 1099-NEC by January 31 for anyone you paid $600 or more. This is not tax or legal advice: check with a licensed professional, and never paste SSNs or account numbers into a chatbot. Use when the user asks for help with this job."
+description: "Set Up Contractor W-9s and 1099s Without the Scramble. Collect a signed Form W-9 from every contractor before you pay them, then file Form 1099-NEC by January 31 for anyone you paid $600 or more."
 ---
 
 # Set Up Contractor W-9s and 1099s Without the Scramble

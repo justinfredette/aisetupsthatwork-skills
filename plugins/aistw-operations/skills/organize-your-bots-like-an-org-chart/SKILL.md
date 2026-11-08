@@ -1,6 +1,6 @@
 ---
 name: organize-your-bots-like-an-org-chart
-description: "Organize your bots like an org chart. Draw it like a small company: one coordinator bot that takes requests and hands them to specialist bots, each with one job and one set of tools. You approve anything that leaves the business. Start with one job done well, then add roles. Use when the user asks for help with this job."
+description: "Organize your bots like an org chart. Draw it like a small company: one coordinator bot that takes requests and hands them to specialist bots, each with one job and one set of tools. You approve."
 ---
 
 # Organize your bots like an org chart
@@ -17,6 +17,11 @@ Owners with several bots that overlap, step on each other or leave jobs half don
 4. Tell the coordinator how to hand off: the task, the deadline, and where the result goes.
 5. Put yourself at the top: anything that sends, posts, pays or changes records comes to you.
 6. Start with one working job end to end before adding more roles. Grok Bot group owners running many bots said the same.
+
+## What to ask the user for
+
+- LIST
+- JOBS
 
 ## Prompt
 

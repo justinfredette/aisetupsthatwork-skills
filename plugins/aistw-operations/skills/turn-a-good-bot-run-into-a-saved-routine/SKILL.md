@@ -1,6 +1,6 @@
 ---
 name: turn-a-good-bot-run-into-a-saved-routine
-description: "Turn a good bot run into a saved routine. Right after a run that worked, ask the bot to write down exactly what it did as a step-by-step routine. Test that routine on a different input. If it works twice, schedule it, and keep anything that sends, buys, deletes or publishes behind approval. Use when the user asks for help with this job."
+description: "Turn a good bot run into a saved routine. Right after a run that worked, ask the bot to write down exactly what it did as a step-by-step routine. Test that routine on a different input. If it works."
 ---
 
 # Turn a good bot run into a saved routine
@@ -45,6 +45,12 @@ Under 200 words. Do not schedule it yet.
 - Scheduling after one lucky run.
 - Vague done-looks-like, so results drift.
 - Scheduled routines that send without approval.
+
+## Tested
+
+Ran on Grok Bot, Nov 2, 2026: a good lead-sweep run was written up as a 193-word routine and re-run on new sample emails against a real Google Sheet. It worked, but missed a customer saying yes and re-drafted old leads, so it was fixed and not scheduled.
+
+The full receipt is on https://www.aisetupsthatwork.com/setups/turn-a-good-bot-run-into-a-saved-routine/
 
 ## Source
 

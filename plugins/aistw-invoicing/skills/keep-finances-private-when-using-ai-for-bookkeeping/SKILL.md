@@ -1,6 +1,6 @@
 ---
 name: keep-finances-private-when-using-ai-for-bookkeeping
-description: "Keep finances private when using AI for books. Turn off the setting that lets your chats train the model, strip account numbers, names and tax IDs before pasting, and work from summaries or exports with only the columns you need. Keep originals in your accounting software. Use when the user asks for help with this job."
+description: "Keep finances private when using AI for books. Turn off the setting that lets your chats train the model, strip account numbers, names and tax IDs before pasting, and work from summaries or exports."
 ---
 
 # Keep finances private when using AI for books
@@ -17,6 +17,11 @@ Owners who want AI help categorizing transactions or reading statements but worr
 4. Use the prompt below so the AI works only from what you pasted and flags anything it is unsure about.
 5. Keep the official record in your accounting software; use AI output as a draft you check.
 6. Write a never-paste list: passwords, full card numbers, tax IDs and login codes.
+
+## What to ask the user for
+
+- LIST
+- PASTE
 
 ## Prompt
 

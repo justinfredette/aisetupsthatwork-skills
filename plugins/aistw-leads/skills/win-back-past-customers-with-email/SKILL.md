@@ -1,6 +1,6 @@
 ---
 name: win-back-past-customers-with-email
-description: "Win back past customers with email. Past customers are your cheapest leads. The AI drafts a short win-back sequence: a check-in, a useful update, and one honest offer. Use when the user asks for help with this job."
+description: "Win back past customers with email. Past customers are your cheapest leads. The AI drafts a short win-back sequence: a check-in, a useful update, and one honest offer."
 ---
 
 # Win back past customers with email
@@ -17,6 +17,13 @@ Service businesses with a list of old customers they have not talked to in month
 4. Paste a group plus the prompt below into the AI. Get three short emails back.
 5. Personalize the first line of each email with the customer name and their last job.
 6. Send email one yourself. Wait a week between touches. Stop after three if there is no reply.
+
+## What to ask the user for
+
+- BUSINESS NAME
+- WHAT YOU DO
+- ONE-TIME / LAPSED REPEAT / SEASONAL
+- YOUR NAME
 
 ## Prompt
 

@@ -1,6 +1,6 @@
 ---
 name: monthly-bookkeeping-one-sitting
-description: "Do a month of bookkeeping in one sitting. Once a month, export your transactions and let the AI categorize them, flag the odd ones, and summarize the month. You review and approve everything. Use when the user asks for help with this job."
+description: "Do a month of bookkeeping in one sitting. Once a month, export your transactions and let the AI categorize them, flag the odd ones, and summarize the month. You review and approve everything."
 ---
 
 # Do a month of bookkeeping in one sitting

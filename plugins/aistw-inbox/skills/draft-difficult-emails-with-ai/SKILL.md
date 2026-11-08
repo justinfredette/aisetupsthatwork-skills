@@ -1,6 +1,6 @@
 ---
 name: draft-difficult-emails-with-ai
-description: "Draft the Hard Emails: Saying No and Following Up Twice. AI drafts polite declines and firm follow-ups in seconds: thank them, say no clearly, offer an alternative. You always review and rewrite in your own voice before sending. Use when the user asks for help with this job."
+description: "Draft the Hard Emails: Saying No and Following Up Twice. AI drafts polite declines and firm follow-ups in seconds: thank them, say no clearly, offer an alternative. You always review and rewrite in."
 ---
 
 # Draft the Hard Emails: Saying No and Following Up Twice
@@ -18,6 +18,10 @@ A professional who dreads saying no to meetings and lets follow-ups die from awk
 5. Rewrite it yourself. Change at least a few sentences. AI drafts sound fine but generic, and your own phrasing is what keeps relationships intact.
 6. For a second follow-up with no reply, use the follow-up variant of the prompt. Two follow-ups is the honest limit before you let it go or pick up the phone.
 7. Send it yourself. Never let AI send anything on your behalf without your review.
+
+## What to ask the user for
+
+- BOSS, PEER, CLIENT, VENDOR
 
 ## Prompt
 

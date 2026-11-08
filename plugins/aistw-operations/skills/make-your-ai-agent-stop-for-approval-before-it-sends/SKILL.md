@@ -1,6 +1,6 @@
 ---
 name: make-your-ai-agent-stop-for-approval-before-it-sends
-description: "Make your AI agent stop for approval. Tell the agent, in its standing instructions, to finish every outgoing action as a draft and show it to you with a one-line summary, then wait. Keep the tool's own approval setting on as a second lock, and test it with a fake send before trusting it. Use when the user asks for help with this job."
+description: "Make your AI agent stop for approval. Tell the agent, in its standing instructions, to finish every outgoing action as a draft and show it to you with a one-line summary, then wait. Keep the tool's."
 ---
 
 # Make your AI agent stop for approval

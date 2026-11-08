@@ -1,6 +1,6 @@
 ---
 name: build-a-business-knowledge-base-your-ai-answers-from
-description: "Build a knowledge base your AI answers from. Create one project, upload your real documents (prices, policies, service areas, how-tos), and add instructions that it must answer only from those files and say when the answer is not there. Test it with five questions you already know the answers to. Use when the user asks for help with this job."
+description: "Build a knowledge base your AI answers from. Create one project, upload your real documents (prices, policies, service areas, how-tos), and add instructions that it must answer only from those files."
 ---
 
 # Build a knowledge base your AI answers from
@@ -17,6 +17,10 @@ Owners and small teams who keep answering the same internal questions, or who wa
 4. Paste the instructions from the prompt below so it answers only from your files and names the file it used.
 5. Test it with five questions you already know the answers to, including one that is not in the files. It should say it does not know.
 6. When a price or policy changes, replace the file the same day. Old files are the main source of wrong answers.
+
+## What to ask the user for
+
+- BUSINESS NAME
 
 ## Prompt
 

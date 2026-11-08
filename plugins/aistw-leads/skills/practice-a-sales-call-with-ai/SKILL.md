@@ -1,6 +1,6 @@
 ---
 name: practice-a-sales-call-with-ai
-description: "Practice a sales call with AI. Use ChatGPT Voice or Claude voice mode to role-play a customer who pushes back on price, then ask for a written recap. Both help centers describe spoken conversations. The score is the assistant's opinion, not a measure. Use when the user asks for help with this job."
+description: "Practice a sales call with AI. Use ChatGPT Voice or Claude voice mode to role-play a customer who pushes back on price, then ask for a written recap. Both help centers describe spoken conversations."
 ---
 
 # Practice a sales call with AI
@@ -18,6 +18,11 @@ Owners and sales staff who freeze when a customer says the price is too high. Us
 5. Say 'stop and recap'. Read the written recap on screen. OpenAI notes ChatGPT can make mistakes, so treat the notes as ideas, not a verdict.
 6. Pick one thing to change and run the same objection again. Compare how it felt.
 7. Do this once a week for the objections that cost you jobs.
+
+## What to ask the user for
+
+- PRODUCT OR SERVICE
+- PRICE AND WHAT IT INCLUDES
 
 ## Prompt
 

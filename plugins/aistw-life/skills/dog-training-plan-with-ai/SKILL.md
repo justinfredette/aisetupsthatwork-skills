@@ -1,6 +1,6 @@
 ---
 name: dog-training-plan-with-ai
-description: "Build a Dog Training Plan With AI. Describe the specific behavior and your dog's age and temperament, and get a week-by-week plan built on positive reinforcement: short sessions, rewards within seconds, and one new behavior at a time. Consistency beats intensity every time. Use when the user asks for help with this job."
+description: "Build a Dog Training Plan With AI. Describe the specific behavior and your dog's age and temperament, and get a week-by-week plan built on positive reinforcement: short sessions, rewards within."
 ---
 
 # Build a Dog Training Plan With AI

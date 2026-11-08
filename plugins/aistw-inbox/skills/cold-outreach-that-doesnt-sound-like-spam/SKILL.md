@@ -1,6 +1,6 @@
 ---
 name: cold-outreach-that-doesnt-sound-like-spam
-description: "Write Cold Outreach That Does Not Sound Like Spam. Start with real notes about one prospect. Ask AI to draft a short email with one specific observation, a clear offer and one simple ask. Check every claim and edit the tone before sending. If the research is too thin, gather more instead of inventing a personal connection. Use when the user asks for help with this job."
+description: "Write Cold Outreach That Does Not Sound Like Spam. Start with real notes about one prospect. Ask AI to draft a short email with one specific observation, a clear offer and one simple ask. Check."
 ---
 
 # Write Cold Outreach That Does Not Sound Like Spam

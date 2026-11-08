@@ -1,6 +1,6 @@
 ---
 name: estimate-to-invoice-in-quickbooks
-description: "Estimate to invoice in QuickBooks. QuickBooks Online converts an accepted estimate into an invoice and copies the details across, so nothing gets retyped or dropped. Draft the estimate wording with the prompt below, then convert from the Estimates list once the customer accepts. Use when the user asks for help with this job."
+description: "Estimate to invoice in QuickBooks. QuickBooks Online converts an accepted estimate into an invoice and copies the details across, so nothing gets retyped or dropped. Draft the estimate wording with."
 ---
 
 # Estimate to invoice in QuickBooks
@@ -18,6 +18,12 @@ Contractors and service businesses quoting jobs in QuickBooks Online. Check the 
 5. When the estimate shows Accepted, or you mark it accepted after a verbal yes, open it from the Estimates list and select Convert to invoice.
 6. Choose the whole amount or a percentage for progress invoicing, per Intuit's guide.
 7. Check every line and rate on the invoice, then save and send.
+
+## What to ask the user for
+
+- NAME, trade
+- WHAT, WHERE
+- RATE PER LINE or RANGE
 
 ## Prompt
 

@@ -1,6 +1,6 @@
 ---
 name: onboard-your-first-employees
-description: "Onboard your first employees. Before day one, prepare the paperwork list, a written role description with first-90-day expectations, and a simple training plan. Good onboarding is mostly preparation, not charisma. Use when the user asks for help with this job."
+description: "Onboard your first employees. Before day one, prepare the paperwork list, a written role description with first-90-day expectations, and a simple training plan. Good onboarding is mostly."
 ---
 
 # Onboard your first employees
@@ -17,6 +17,11 @@ First-time employers hiring employee number one (or two) with no HR department.
 4. Write a two-week training plan that mixes shadowing you, small solo tasks, and a go-to person for questions.
 5. Schedule a weekly 15-minute check-in for the first month. Feedback early beats corrections late.
 6. File the state new hire report on time and keep copies of everything signed.
+
+## What to ask the user for
+
+- ROLE
+- TYPE OF BUSINESS
 
 ## Prompt
 

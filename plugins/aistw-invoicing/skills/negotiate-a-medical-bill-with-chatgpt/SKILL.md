@@ -1,6 +1,6 @@
 ---
 name: negotiate-a-medical-bill-with-chatgpt
-description: "Negotiate a Medical Bill with ChatGPT. Here's how I'd set this up in ChatGPT or Claude (not run by us yet). I'd ask the hospital for an itemized bill, upload it with my ID and account numbers blacked out, have the chat flag charges to question and find the hospital's posted prices, then make the billing call myself with a short script. Use when the user asks for help with this job."
+description: "Negotiate a Medical Bill with ChatGPT. Here's how I'd set this up in ChatGPT or Claude (not run by us yet). I'd ask the hospital for an itemized bill, upload it with my ID and account numbers."
 ---
 
 # Negotiate a Medical Bill with ChatGPT

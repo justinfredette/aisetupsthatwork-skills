@@ -1,6 +1,6 @@
 ---
 name: turn-your-day-into-a-build-in-public-post
-description: "Turn your day into a build-in-public post. At the end of the day, dump rough notes: what you shipped, what broke, one number. Have the AI turn them into a short post in your own voice that leads with the most interesting true thing, failures included. You edit and post it yourself. Use when the user asks for help with this job."
+description: "Turn your day into a build-in-public post. At the end of the day, dump rough notes: what you shipped, what broke, one number. Have the AI turn them into a short post in your own voice that leads."
 ---
 
 # Turn your day into a build-in-public post
@@ -17,6 +17,11 @@ Founders and side-hustlers building an app or business who know they should post
 4. Edit until it sounds like you, and check every number.
 5. Post it yourself. One founder who built an app in public advises sharing successes and failures so people get to know the person behind it.
 6. Save the notes; a month of them is your launch story.
+
+## What to ask the user for
+
+- 5 ROUGH LINES
+- PASTE
 
 ## Prompt
 

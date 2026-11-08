@@ -1,6 +1,6 @@
 ---
 name: build-a-reading-ladder-for-a-complex-topic
-description: "Build a reading ladder to learn a complex topic fast. Tell the AI the topic and your current level, and ask for a sequenced reading ladder: accessible explainers first, then the real sources. You learn in the right order instead of drowning in the hardest paper first. Use when the user asks for help with this job."
+description: "Build a reading ladder to learn a complex topic fast. Tell the AI the topic and your current level, and ask for a sequenced reading ladder: accessible explainers first, then the real sources. You."
 ---
 
 # Build a reading ladder to learn a complex topic fast
@@ -18,6 +18,11 @@ Professionals who need to get smart on a hard topic quickly and cannot afford to
 5. Read rung one, then explain it back to the AI in your own words. If you cannot, do not climb yet.
 6. Ask the AI for check questions after each rung before moving up.
 7. Keep a one-page running summary as you climb. At the top, you should be able to brief someone else.
+
+## What to ask the user for
+
+- SPECIFIC TOPIC
+- DATE
 
 ## Prompt
 

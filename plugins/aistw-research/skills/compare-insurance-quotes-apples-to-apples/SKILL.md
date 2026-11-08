@@ -1,6 +1,6 @@
 ---
 name: compare-insurance-quotes-apples-to-apples
-description: "Compare insurance quotes apples to apples. Give the AI your current declarations page and each new quote, and ask it to line up identical coverage, limits, and deductibles. You find out which quote is actually cheaper for the same protection. Use when the user asks for help with this job."
+description: "Compare insurance quotes apples to apples. Give the AI your current declarations page and each new quote, and ask it to line up identical coverage, limits, and deductibles. You find out which quote."
 ---
 
 # Compare insurance quotes apples to apples
@@ -19,6 +19,13 @@ Anyone shopping insurance who has three quotes and no idea which one actually co
 6. Check the financial strength rating (AM Best) and complaint index (NAIC) of any unfamiliar carrier before you switch.
 7. This is not financial advice, and do not paste full medical records into a chatbot. Type only the plan's public numbers into your comparison: premium, deductible, copays, coinsurance, and out-of-pocket maximum.
 8. For each plan, calculate two numbers: the expected year (premium times 12 plus your likely care costs) and the worst year (premium times 12 plus the full out-of-pocket maximum). Compare those two numbers across plans, not the premium alone.
+
+## What to ask the user for
+
+- PASTE DECLARATIONS PAGE DETAILS
+- CARRIER
+- PASTE QUOTE DETAILS
+- ADD MORE QUOTES AS NEEDED
 
 ## Prompt
 

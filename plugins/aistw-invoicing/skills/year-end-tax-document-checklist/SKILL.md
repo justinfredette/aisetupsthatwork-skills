@@ -1,6 +1,6 @@
 ---
 name: year-end-tax-document-checklist
-description: "Build your year-end tax document checklist. Tell the AI your business type and the AI builds a document checklist, then tracks what you have gathered and what is still missing as tax season approaches. Use when the user asks for help with this job."
+description: "Build your year-end tax document checklist. Tell the AI your business type and the AI builds a document checklist, then tracks what you have gathered and what is still missing as tax season."
 ---
 
 # Build your year-end tax document checklist
@@ -19,6 +19,10 @@ A small business owner who scrambles for documents every March
 6. Hand the organized package to your accountant. Organized clients get faster, cheaper returns.
 7. This is not tax advice, and a chatbot cannot be your tax preparer. Do not paste your SSN, account numbers, or full tax forms into it. Anything it tells you must be checked against IRS sources or a licensed professional.
 8. Use the AI as an organizer and explainer, not a filer: it can summarize what a form is for, draft questions for your preparer, and sort your document list. It gets less reliable on complex situations and recent law changes, so ask it to name the IRS publication for each claim and open that publication yourself.
+
+## What to ask the user for
+
+- QuickBooks / spreadsheet / shoebox
 
 ## Prompt
 

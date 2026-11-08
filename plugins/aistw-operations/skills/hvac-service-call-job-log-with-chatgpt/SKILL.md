@@ -1,6 +1,6 @@
 ---
 name: hvac-service-call-job-log-with-chatgpt
-description: "HVAC Service Call Log, ChatGPT. Here's how I'd set this up in ChatGPT or Claude. By default I'd run it on made-up example rows. From made-up call rows, ChatGPT or Claude builds one log that keeps each service call, dispatch, arrival and work note as its own dated recorded entry by job ID, keeps requested, dispatched, arrived and completed as separate states, and never diagnoses equipment, recommends a repair or says a job was done correctly. Use when the user asks for help with this job."
+description: "HVAC Service Call Log, ChatGPT. Here's how I'd set this up in ChatGPT or Claude. By default I'd run it on made-up example rows. From made-up call rows, ChatGPT or Claude builds one log that keeps."
 ---
 
 # HVAC Service Call Log, ChatGPT

@@ -1,6 +1,6 @@
 ---
 name: calculate-salon-commission-pay-with-ai
-description: "Calculate salon commission pay with AI. Have the AI build a weekly pay sheet: hours, hourly rate, service sales, service commission rate, retail sales and retail commission rate, with formulas. Paste in the week's numbers from your booking system, check two stylists by hand, and send the totals to your payroll provider. Ask your accountant how commissions affect overtime. Use when the user asks for help with this job."
+description: "Calculate salon commission pay with AI. Have the AI build a weekly pay sheet: hours, hourly rate, service sales, service commission rate, retail sales and retail commission rate, with formulas."
 ---
 
 # Calculate salon commission pay with AI

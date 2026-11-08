@@ -1,6 +1,6 @@
 ---
 name: appeal-property-tax-assessment
-description: "Appeal a property tax assessment. Who hears appeals, the deadline and the form vary by state and often by local office, so confirm yours first. As examples only, Washington's Department of Revenue says its deadline is the later of July 1 or 30 days after the notice, and Illinois says a formal appeal goes to the county board of review in writing. Collect your evidence and draft the appeal. You file it. Use when the user asks for help with this job."
+description: "Appeal a property tax assessment. Who hears appeals, the deadline and the form vary by state and often by local office, so confirm yours first. As examples only, Washington's Department of Revenue."
 ---
 
 # Appeal a property tax assessment

@@ -1,6 +1,6 @@
 ---
 name: pricing-sheet-that-answers-objections
-description: "Build a pricing sheet that answers objections. List your packages, then add the objections you hear every week with calm answers. The AI drafts the sheet so price shoppers sell themselves. Use when the user asks for help with this job."
+description: "Build a pricing sheet that answers objections. List your packages, then add the objections you hear every week with calm answers. The AI drafts the sheet so price shoppers sell themselves."
 ---
 
 # Build a pricing sheet that answers objections
@@ -20,6 +20,17 @@ Service businesses tired of the "that is too expensive" conversation happening w
 7. Send it with quotes and keep a copy on your phone for in-person conversations.
 8. Decide the new price, the start date, and whether it applies to current clients or only new ones. Paste those three facts plus one plain reason into the prompt. Never let the AI invent the numbers.
 9. Ask for a short notice in your normal voice: name the old price and new price, the effective date, and the reason, then invite questions. Read it out loud before sending. If it sounds like a press release, rewrite it.
+
+## What to ask the user for
+
+- BUSINESS NAME
+- PACKAGE NAME
+- PRICE OR RANGE
+- LIST
+- OBJECTION, e.g. That is more than I expected
+- YOUR HONEST ANSWER
+- OBJECTION
+- ADD MORE AS NEEDED
 
 ## Prompt
 

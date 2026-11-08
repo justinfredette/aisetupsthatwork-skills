@@ -1,6 +1,6 @@
 ---
 name: set-a-backup-approver-when-you-are-away
-description: "Set a backup approver when you are away. Decide in advance who approves what while you are away, what simply waits, and what the customer hears in the meantime. Put it in the agent's instructions, keep money and refunds with a named person, and have the agent send a holding message instead of going silent. Use when the user asks for help with this job."
+description: "Set a backup approver when you are away. Decide in advance who approves what while you are away, what simply waits, and what the customer hears in the meantime. Put it in the agent's instructions."
 ---
 
 # Set a backup approver when you are away
@@ -17,6 +17,12 @@ Owners who approve their agent's drafts and worry about refunds, quotes or repli
 4. Use the prompt below to turn your choices into an away plan, and paste it into the agent's instructions before you leave.
 5. Test it: send yourself a fake refund request and check the agent sends the holding message, not a decision.
 6. When you are back, ask the agent for a list of everything that waited.
+
+## What to ask the user for
+
+- DATES
+- NAME, ROLE
+- CHOICE
 
 ## Prompt
 

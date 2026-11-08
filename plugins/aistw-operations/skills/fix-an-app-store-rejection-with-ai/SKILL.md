@@ -1,6 +1,6 @@
 ---
 name: fix-an-app-store-rejection-with-ai
-description: "Fix an App Store rejection with AI. Copy the full rejection message and the guideline number it cites. Have the AI quote that guideline, explain in plain words what App Review wants, and list the smallest changes that address it. Then draft a short, factual reply. Check every claim against your app before you resubmit. Use when the user asks for help with this job."
+description: "Fix an App Store rejection with AI. Copy the full rejection message and the guideline number it cites. Have the AI quote that guideline, explain in plain words what App Review wants, and list the."
 ---
 
 # Fix an App Store rejection with AI
@@ -17,6 +17,12 @@ First-time app builders, often building with AI tools, whose app keeps getting r
 4. Make the smallest changes that address the rule. Do not argue with the reviewer in the app itself.
 5. Edit the drafted reply so every statement is true, then send it from App Store Connect.
 6. Keep a log of each rejection, the rule and the fix. One founder reported 6 rejections before approval; a log stops repeats.
+
+## What to ask the user for
+
+- PASTE
+- PASTE FROM APPLE'S PAGE
+- DESCRIPTION
 
 ## Prompt
 

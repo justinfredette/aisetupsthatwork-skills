@@ -1,6 +1,6 @@
 ---
 name: find-warm-leads-from-job-posts-with-ai
-description: "Find warm leads from job posts with AI. Search job listings for roles your service can cover, open the ones that have been up a while, and paste the responsibilities into an AI to name the likely problems. Then write a short first message that mentions their specific situation and only claims results you can prove. You send each one yourself. Use when the user asks for help with this job."
+description: "Find warm leads from job posts with AI. Search job listings for roles your service can cover, open the ones that have been up a while, and paste the responsibilities into an AI to name the likely."
 ---
 
 # Find warm leads from job posts with AI
@@ -17,6 +17,11 @@ Freelancers, agencies and service businesses that sell to other companies, such 
 4. Paste it into the prompt below with what you actually offer and results you can prove.
 5. Check the draft. The FTC says advertising claims must be truthful, not deceptive and evidence-based, so delete any number or result you cannot back up.
 6. Send each message yourself to the right person, log it, and follow up once. Browse and send by hand; don't scrape the site.
+
+## What to ask the user for
+
+- ONE SENTENCE
+- E.G. CUT DISPATCH CALLS FOR A 12-PERSON HVAC SHOP
 
 ## Prompt
 

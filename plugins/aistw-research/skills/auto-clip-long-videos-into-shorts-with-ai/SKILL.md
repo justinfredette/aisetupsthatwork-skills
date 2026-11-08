@@ -1,6 +1,6 @@
 ---
 name: auto-clip-long-videos-into-shorts-with-ai
-description: "Clip long videos into shorts. OpusClip's help center says you import a long video, add optional instructions, and get clips back on a results page. Review every clip, then schedule it in YouTube Studio. The tool can publish with one click. This setup does not use that. Use when the user asks for help with this job."
+description: "Clip long videos into shorts. OpusClip's help center says you import a long video, add optional instructions, and get clips back on a results page. Review every clip, then schedule it in YouTube."
 ---
 
 # Clip long videos into shorts
@@ -18,6 +18,12 @@ Small businesses and creators with a long video or recording, such as a webinar 
 5. Watch each clip fully. Delete any that cut a sentence in half, change the meaning, or show something private. Captions and editing options: check OpusClip's own pages, not stated in the pages read.
 6. Draft a title and description for each approved clip with the prompt below, and fix any claim you cannot back up.
 7. Upload to YouTube Studio and use the Schedule card to set the date, time and time zone. YouTube's help says the video must be set to scheduled or private first. You approve each one by scheduling it.
+
+## What to ask the user for
+
+- TOPIC
+- WHO WATCHES
+- CHECK
 
 ## Prompt
 

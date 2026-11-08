@@ -1,6 +1,6 @@
 ---
 name: costco-price-adjustment-watch
-description: "Costco price adjustment watch. Costco's price match page for costco.com orders says a purchase that drops in price within 30 days can be eligible, for non-resale members. For a warehouse purchase it only says to ask at the Returns counter and gives no rule. Log purchases, check prices weekly, and ask early. Use when the user asks for help with this job."
+description: "Costco price adjustment watch. Costco's price match page for costco.com orders says a purchase that drops in price within 30 days can be eligible, for non-resale members. For a warehouse purchase it."
 ---
 
 # Costco price adjustment watch
@@ -16,6 +16,10 @@ Costco members who buy electronics, appliances or other big items and want a sim
 3. Each week, look up the current price of every item still inside its window, in the warehouse or on costco.com, and tell the chat what you found. The chat cannot check live prices for you.
 4. If a price is lower, ask the chat to draft the request. For a costco.com purchase, Costco's page points you to its price match request form. For a warehouse purchase, it says to inquire at the Returns counter at the warehouse where you bought the item. The page gives no eligibility rule for warehouse purchases, so the answer is up to the warehouse.
 5. Log the request date. For costco.com requests, Costco says credits are typically issued within 5 to 10 business days to the original form of payment. If the window has passed, Costco's page says requests made after a promotion ends may be denied.
+
+## What to ask the user for
+
+- DATE
 
 ## Prompt
 

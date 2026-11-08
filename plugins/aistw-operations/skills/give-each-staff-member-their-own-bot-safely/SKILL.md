@@ -1,6 +1,6 @@
 ---
 name: give-each-staff-member-their-own-bot-safely
-description: "Give each staff member their own bot safely. One person, one bot, one set of sign-ins. Never let a bot use a colleague's login. Give everyone the same starter rulebook and routines, let each person add their own, and check monthly which accounts each bot can reach. Use when the user asks for help with this job."
+description: "Give each staff member their own bot safely. One person, one bot, one set of sign-ins. Never let a bot use a colleague's login. Give everyone the same starter rulebook and routines, let each person."
 ---
 
 # Give each staff member their own bot safely
@@ -17,6 +17,11 @@ Owners giving bots to a team, especially after a bot signed in with another pers
 4. Use the prompt below to write the starter rulebook once.
 5. Let each person add routines for their own job, within the rulebook.
 6. Monthly: list which accounts each bot can reach and remove anything that is not that person's.
+
+## What to ask the user for
+
+- ONE LINE
+- LIST
 
 ## Prompt
 
@@ -43,6 +48,12 @@ Under 250 words, 4 headings: May do, Ask first, Never, If unsure. Add the rule: 
 - One shared bot computer for the whole team.
 - Signing in a teammate's account to get a bot working.
 - No list of what each bot can reach.
+
+## Tested
+
+Ran on Grok Bot, Nov 2, 2026: a 132-word starter rulebook with the 4 headings, and a real access check on one bot that flagged 6 account groups it did not need. No human staff; other bots' access lists were not checked.
+
+The full receipt is on https://www.aisetupsthatwork.com/setups/give-each-staff-member-their-own-bot-safely/
 
 ## Source
 

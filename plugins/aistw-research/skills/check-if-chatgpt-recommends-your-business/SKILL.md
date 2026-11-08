@@ -1,6 +1,6 @@
 ---
 name: check-if-chatgpt-recommends-your-business
-description: "Check if ChatGPT recommends your business. Ask the AI assistants the exact questions a customer would, such as best roofer near Rutland, and write down who gets named and which pages they cite. Then check that your site lets their search crawlers in and that your business details are clear and consistent. Use when the user asks for help with this job."
+description: "Check if ChatGPT recommends your business. Ask the AI assistants the exact questions a customer would, such as best roofer near Rutland, and write down who gets named and which pages they cite. Then."
 ---
 
 # Check if ChatGPT recommends your business
@@ -17,6 +17,14 @@ Local and small businesses wondering whether AI assistants mention them when cus
 4. Compare your pages with the pages that got cited: do they state services, area, hours and prices plainly?
 5. Make your business details clear and consistent. Google documents LocalBusiness structured data with name and address required.
 6. Re-run the same 5 questions monthly and compare.
+
+## What to ask the user for
+
+- NAME
+- SERVICE
+- TOWN, STATE
+- URL
+- NAMES
 
 ## Prompt
 

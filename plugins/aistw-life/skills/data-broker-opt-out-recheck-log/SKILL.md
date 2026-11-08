@@ -1,6 +1,6 @@
 ---
 name: data-broker-opt-out-recheck-log
-description: "Data broker opt-out recheck log. This is not legal advice. Keep a log of each people search site and data broker you opted out of, with dates, and recheck it on a schedule you set. The FTC says your information can reappear when public records change. The sources give no recheck interval. California residents can also use the state's free DROP request. Use when the user asks for help with this job."
+description: "Data broker opt-out recheck log. This is not legal advice. Keep a log of each people search site and data broker you opted out of, with dates, and recheck it on a schedule you set. The FTC says your."
 ---
 
 # Data broker opt-out recheck log
@@ -16,6 +16,10 @@ People who get scam calls or texts with their real details in them and want a re
 3. Opt out on each site. The FTC says most people search sites have a way to opt out, you can do it one by one for free or pay a service, and some will ask for information to verify your identity.
 4. If you live in California, also submit one request in DROP, the state's free Delete Request and Opt-out Platform. One request goes to over 600 registered data brokers. Brokers began processing requests August 1, 2026, and must check DROP at least every 45 days. Status updates can take up to 90 days.
 5. On each recheck date you set, search your name again on the sites in your log and update it. The FTC says information can reappear for sale if your public records change, and can still show in relatives' or neighbors' reports. Re-submit any listing that came back.
+
+## What to ask the user for
+
+- DATE
 
 ## Prompt
 

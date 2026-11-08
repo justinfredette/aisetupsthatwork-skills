@@ -1,6 +1,6 @@
 ---
 name: find-your-first-customers-with-ai-research
-description: "Find your first customers with AI research. Pick one narrow kind of customer, have the AI research where they gather online and what they complain about, then draft a short, specific first message for each place. You check every fact and send it yourself, one person at a time. Use when the user asks for help with this job."
+description: "Find your first customers with AI research. Pick one narrow kind of customer, have the AI research where they gather online and what they complain about, then draft a short, specific first message."
 ---
 
 # Find your first customers with AI research
@@ -17,6 +17,11 @@ Solo founders and new small businesses who have something to sell but no list of
 4. Pick the 2 places that fit best and read real posts there for 15 minutes.
 5. Ask the AI to draft a short first message that answers a real complaint you saw. No pitch in the first message.
 6. Send 5 by hand, follow each community's rules, and log replies. Adjust the message after every 5.
+
+## What to ask the user for
+
+- ONE SENTENCE
+- E.G. INDEPENDENT DOG GROOMERS IN VERMONT
 
 ## Prompt
 

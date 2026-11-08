@@ -1,6 +1,6 @@
 ---
 name: write-a-eulogy-or-toast-with-ai
-description: "Write a Eulogy or Toast With AI Without Losing Your Voice. Use AI for structure and feedback only: an opening, two or three specific stories, and a closing. The stories, details, and voice must be yours. Aim for 3 to 7 minutes, about 400 to 900 spoken words. Use when the user asks for help with this job."
+description: "Write a Eulogy or Toast With AI Without Losing Your Voice. Use AI for structure and feedback only: an opening, two or three specific stories, and a closing. The stories, details, and voice must be."
 ---
 
 # Write a Eulogy or Toast With AI Without Losing Your Voice
@@ -17,6 +17,10 @@ Anyone asked to speak at a funeral or wedding who is staring at a blank page.
 4. Ask AI for feedback only: where it drags, where the emotion lands, whether the closing earns its weight. No AI-written sentences in the final version.
 5. Read every draft aloud. Rewrite anything that stumbles. Your ear is the editor.
 6. Print in large font, number the pages, bring water and tissues, and name a backup reader in case you cannot finish.
+
+## What to ask the user for
+
+- 2-3 specific memories, in my own words
 
 ## Prompt
 

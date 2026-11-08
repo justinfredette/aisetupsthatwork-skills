@@ -1,6 +1,6 @@
 ---
 name: plan-facebook-ads-with-ai-and-cap-the-spend
-description: "Plan Facebook ads with AI and cap the spend. Let AI do the drafting: 3 angles from your real customer reviews, copy for each, and a simple test plan. You launch in Meta Ads Manager with an account spending limit set first. Each week, paste the results back and ask what to cut and what to keep. Use when the user asks for help with this job."
+description: "Plan Facebook ads with AI and cap the spend. Let AI do the drafting: 3 angles from your real customer reviews, copy for each, and a simple test plan. You launch in Meta Ads Manager with an account."
 ---
 
 # Plan Facebook ads with AI and cap the spend
@@ -17,6 +17,12 @@ Small businesses who want Facebook ads to work but do not want a bot spending mo
 4. After 7 days, paste the Ads Manager results into the same chat and ask what to keep, cut or change.
 5. Make changes yourself. Do not give an agent your ad account login.
 6. Keep a one-line log per week: angle, spend, result.
+
+## What to ask the user for
+
+- DESCRIPTION
+- PASTE 10
+- AMOUNT
 
 ## Prompt
 

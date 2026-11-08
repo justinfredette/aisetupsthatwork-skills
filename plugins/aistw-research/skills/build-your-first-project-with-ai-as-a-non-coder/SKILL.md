@@ -1,6 +1,6 @@
 ---
 name: build-your-first-project-with-ai-as-a-non-coder
-description: "Build your first project with AI as a non-coder. Pick one tiny, useful outcome and describe it to an AI app builder in plain words. Then run a loop: test what it built, ask for one focused fix at a time, and stop before adding features. Use when the user asks for help with this job."
+description: "Build your first project with AI as a non-coder. Pick one tiny, useful outcome and describe it to an AI app builder in plain words. Then run a loop: test what it built, ask for one focused fix at a."
 ---
 
 # Build your first project with AI as a non-coder
@@ -17,7 +17,8 @@ Non-coders who want to build something real with AI help and keep the scope smal
 4. Ask for one focused improvement at a time. "The button does nothing when I click it" beats "make it better."
 5. Repeat the loop: prompt, build, test, refine. Replit’s docs name this the core loop and deliberately postpone anything production-grade to later.
 6. When it works, stop adding features. Publishing and sharing is a separate later step, per Replit’s guide.
-7. Write down what confused you. freeCodeCamp’s community advice for first projects: start from the requirements, build slowly, and treat confusion as the actual lesson, not a failure.
+7. Review everything it builds before you rely on it.
+8. Write down what confused you. freeCodeCamp’s community advice for first projects: start from the requirements, build slowly, and treat confusion as the actual lesson, not a failure.
 
 ## Prompt
 
@@ -35,7 +36,7 @@ Rules:
 - Build the smallest version that works first. Ask me before adding anything I did not request.
 - When something breaks, tell me what you think went wrong in one sentence, then fix it.
 
-Review everything it builds before you rely on it. I approve each step.
+I approve each step before it moves on.
 ```
 
 ## Guardrails
@@ -48,6 +49,14 @@ Review everything it builds before you rely on it. I approve each step.
 - Asking for too much in the first prompt. The AI builds a sprawling half-working thing instead of one working thing. Boundaries fix this.
 - Accepting broken output because you cannot tell it is broken. Test every button and reload the page; that is the whole QA process.
 - Tutorial-following instead of building. One commenter’s caution from the freeCodeCamp thread: copying tutorials step by step teaches less than discovering your own mistakes.
+- The first reply may only show a plan and ask to go ahead, because the prompt says you approve each step. Say yes to start the build.
+- Also try blank and space-only entries, not just the working test. The first version saved a title of only spaces as a blank row.
+
+## Tested
+
+Ran on Claude in a Claude Code session, Nov 5, 2026: the page's example book list was built as one HTML file that kept 3 books after a reload, and one fix stopped blank titles. Replit was not used, and a script in a headless browser did the clicking.
+
+The full receipt is on https://www.aisetupsthatwork.com/setups/build-your-first-project-with-ai-as-a-non-coder/
 
 ## Source
 

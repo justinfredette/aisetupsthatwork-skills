@@ -1,6 +1,6 @@
 ---
 name: say-no-to-scope-creep-without-losing-the-client
-description: "Say no to scope creep without losing the client. When a client asks for \"one more thing,\" pause and name it as new work instead of folding it in for free. A short script plus a written change order keeps the relationship warm while protecting your time. Use when the user asks for help with this job."
+description: "Say no to scope creep without losing the client. When a client asks for \"one more thing,\" pause and name it as new work instead of folding it in for free. A short script plus a written change order."
 ---
 
 # Say no to scope creep without losing the client
@@ -17,6 +17,11 @@ Freelancers and solo service businesses whose clients keep adding extras to a fi
 4. Send the client two options: do the extra work for a stated price, or swap it for something already in scope.
 5. End every call with a three-bullet recap email (decisions, owners, dates) so verbal add-ons do not quietly become scope.
 6. Save your best scripts. Reused pushback takes minutes instead of dread.
+
+## What to ask the user for
+
+- DESCRIBE THE NEW REQUEST
+- PASTE SCOPE
 
 ## Prompt
 

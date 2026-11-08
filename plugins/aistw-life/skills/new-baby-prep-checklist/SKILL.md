@@ -1,6 +1,6 @@
 ---
 name: new-baby-prep-checklist
-description: "New Baby Prep Checklist (The Short List That Actually Matters). Tell ChatGPT your due date, living situation, and what you already own. You get a trimester-by-trimester prep plan: the real essentials, what to skip, and the logistics (pediatrician, car seat, freezer meals) people forget until week 38. Use when the user asks for help with this job."
+description: "New Baby Prep Checklist (The Short List That Actually Matters). Tell ChatGPT your due date, living situation, and what you already own. You get a trimester-by-trimester prep plan: the real."
 ---
 
 # New Baby Prep Checklist (The Short List That Actually Matters)
@@ -18,6 +18,10 @@ Expecting parents, especially first-timers, who want a calm plan instead of a ma
 5. Handle logistics by week 36: pediatrician chosen, car seat installed and checked, hospital bag packed.
 6. Batch-cook freezer meals in the last month. Future you will be grateful.
 7. Set up the support plan: who helps in weeks one and two, and what they will actually do.
+
+## What to ask the user for
+
+- 36 weeks
 
 ## Prompt
 

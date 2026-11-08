@@ -1,6 +1,6 @@
 ---
 name: follow-up-on-quotes-gone-cold
-description: "Follow up on quotes that went cold. Use ChatGPT or Claude plus a sheet to draft quote follow-ups you approve. For quote follow up automation, compare your quoting tool's built-in reminders with Zapier or Make when systems must share status. Before every reminder, check for replies, disputes, acceptance or payment. These AI drafts never auto-send; final notices stay human. Use when the user asks for help with this job."
+description: "Follow up on quotes that went cold. Use ChatGPT or Claude plus a sheet to draft quote follow-ups you approve. For quote follow up automation, compare your quoting tool's built-in reminders with."
 ---
 
 # Follow up on quotes that went cold
@@ -18,6 +18,16 @@ Service businesses that send quotes and then never hear back, and hate the awkwa
 5. Send the first follow-up yourself. Set reminders for the next three, not auto-sends.
 6. Stop as soon as the customer replies, books, says no, or asks you to stop.
 7. If the day 21 message gets no reply, close the quote and free up the calendar slot.
+
+## What to ask the user for
+
+- NAME
+- DATE
+- AMOUNT
+- SCOPE
+- PHOTO / TIMELINE / WARRANTY NOTE / CASE DETAIL
+- YOUR NAME
+- BUSINESS
 
 ## Prompt
 
@@ -52,6 +62,13 @@ Subject lines for each. Sign as [YOUR NAME], [BUSINESS].
 - Sending all four emails on a rigid schedule when the customer already opened the quote six times. If they are engaging, call instead.
 - Copy-pasting the AI draft without adding the one personal detail. Generic follow-ups read as generic.
 - If email 2 mentions a photo or file, attach it before sending.
+- ChatGPT may put the wrong calendar date on "day 2, 7, 14, 21". Work the dates out from the send date yourself.
+
+## Tested
+
+Ran on Grok Bot, Oct 30, 2026: one sample $3,400 deck quote turned into 4 follow-ups (day 2, 7, 14, 21), each under 120 words, with no invented figures. Nothing sent.
+
+The full receipt is on https://www.aisetupsthatwork.com/setups/follow-up-on-quotes-gone-cold/
 
 ## Source
 

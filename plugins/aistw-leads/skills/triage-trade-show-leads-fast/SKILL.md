@@ -1,6 +1,6 @@
 ---
 name: triage-trade-show-leads-fast
-description: "Sort trade show leads before they go cold. Photograph the business cards with your notes, sort leads into hot, warm, and cold the same night, and let the AI draft the right first message for each tier. Use when the user asks for help with this job."
+description: "Sort trade show leads before they go cold. Photograph the business cards with your notes, sort leads into hot, warm, and cold the same night, and let the AI draft the right first message for each."
 ---
 
 # Sort trade show leads before they go cold
@@ -18,6 +18,20 @@ Small businesses that exhibit at trade shows and home shows, then let the lead p
 5. Message every hot lead personally within 3 days. Reference the actual conversation, not the show.
 6. Send warm leads the short sequence: what you promised, then one useful addition a week later.
 7. File the cold tier with no active follow-up. They cost you nothing to keep and nothing to chase.
+
+## What to ask the user for
+
+- SHOW NAME
+- DATES
+- WHAT YOU DO
+- NAME, COMPANY
+- SPECIFIC THING
+- WHAT I SAID I WOULD SEND
+- ADD MORE
+- WHAT THEY WERE INTERESTED IN
+- YOUR NAME
+- BUSINESS
+- PHONE
 
 ## Prompt
 

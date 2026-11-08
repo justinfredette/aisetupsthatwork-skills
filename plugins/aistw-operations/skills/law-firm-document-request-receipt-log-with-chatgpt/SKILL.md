@@ -1,6 +1,6 @@
 ---
 name: law-firm-document-request-receipt-log-with-chatgpt
-description: "Law Firm Document Request Log, ChatGPT. Here's how I'd set this up in ChatGPT or Claude. By default I'd run it on made-up example rows. From made-up request rows, ChatGPT or Claude builds one log that keeps each document request, receipt and review step as its own dated recorded entry by internal matter ID and document label, keeps requested, received and reviewed as separate states, never takes document contents, and never says anything is complete, privileged or sufficient. Use when the user asks for help with this job."
+description: "Law Firm Document Request Log, ChatGPT. Here's how I'd set this up in ChatGPT or Claude. By default I'd run it on made-up example rows. From made-up request rows, ChatGPT or Claude builds one log."
 ---
 
 # Law Firm Document Request Log, ChatGPT

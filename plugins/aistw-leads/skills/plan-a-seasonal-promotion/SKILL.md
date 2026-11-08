@@ -1,6 +1,6 @@
 ---
 name: plan-a-seasonal-promotion
-description: "Plan a seasonal promotion without the scramble. Pick the season, check your margins, and let the AI draft the offer, the emails, and the posts in one sitting. No more rushing a sale the week before. Use when the user asks for help with this job."
+description: "Plan a seasonal promotion without the scramble. Pick the season, check your margins, and let the AI draft the offer, the emails, and the posts in one sitting. No more rushing a sale the week before."
 ---
 
 # Plan a seasonal promotion without the scramble
@@ -18,6 +18,15 @@ Small businesses that do a holiday or seasonal push every year and always start 
 5. Get back: the announcement email, the launch-day email, the last-chance reminder, and a week of social posts.
 6. Read everything. Fix anything that promises what you cannot deliver.
 7. Schedule it all at least two weeks before the season starts, then focus on serving customers.
+
+## What to ask the user for
+
+- BUSINESS NAME
+- WHAT YOU SELL OR DO
+- START DATE
+- END DATE
+- PRICE
+- COST
 
 ## Prompt
 

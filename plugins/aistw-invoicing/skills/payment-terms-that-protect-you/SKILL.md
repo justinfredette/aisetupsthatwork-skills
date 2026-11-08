@@ -1,6 +1,6 @@
 ---
 name: payment-terms-that-protect-you
-description: "Write payment terms that actually protect you. Describe how you bill and the AI drafts payment terms covering deposits, due dates, late fees, and what happens if a project stalls. You put them on every quote and invoice. Use when the user asks for help with this job."
+description: "Write payment terms that actually protect you. Describe how you bill and the AI drafts payment terms covering deposits, due dates, late fees, and what happens if a project stalls. You put them on."
 ---
 
 # Write payment terms that actually protect you
@@ -18,6 +18,12 @@ A freelancer or small business owner who has been burned by vague payment agreem
 5. Check late-fee rules for your state. Some states cap them or restrict surcharges.
 6. Put the final terms on your quotes, your contracts, and your invoices. All three.
 7. When a client pushes back, negotiate scope or timing, not the existence of terms.
+
+## What to ask the user for
+
+- FREELANCER / CONTRACTOR / SERVICE BUSINESS
+- TYPE OF WORK
+- AMOUNT
 
 ## Prompt
 

@@ -1,6 +1,6 @@
 ---
 name: turn-book-notes-into-decisions
-description: "Turn book notes into decisions instead of a highlight graveyard. Paste your book notes into the AI and ask it to extract the three to five ideas worth acting on, each as a concrete next step. Your reading starts paying rent. Use when the user asks for help with this job."
+description: "Turn book notes into decisions instead of a highlight graveyard. Paste your book notes into the AI and ask it to extract the three to five ideas worth acting on, each as a concrete next step. Your."
 ---
 
 # Turn book notes into decisions instead of a highlight graveyard
@@ -18,6 +18,11 @@ Readers with a notes app full of highlights that never changed anything.
 5. Ask for a one-page reference: the idea, why it matters to you, and the action. Save it where you will see it.
 6. Schedule a 30-day review. Ask the AI to turn your notes into review questions for that date.
 7. Delete or archive the rest. A highlight you will never act on is clutter with good branding.
+
+## What to ask the user for
+
+- TITLE AND AUTHOR
+- PASTE NOTES
 
 ## Prompt
 

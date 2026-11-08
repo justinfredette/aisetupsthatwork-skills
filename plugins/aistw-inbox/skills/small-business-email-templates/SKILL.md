@@ -1,6 +1,6 @@
 ---
 name: small-business-email-templates
-description: "Build a Template Bank for Repeat Business Emails. Most small business emails are repeats: quote follow-ups, payment nudges, booked-out replies, review requests. Write each one once with AI, save it in your email templates or a text expander, then personalize one line before sending. Use when the user asks for help with this job."
+description: "Build a Template Bank for Repeat Business Emails. Most small business emails are repeats: quote follow-ups, payment nudges, booked-out replies, review requests. Write each one once with AI, save it."
 ---
 
 # Build a Template Bank for Repeat Business Emails
@@ -19,6 +19,12 @@ A plumber, contractor, or freelancer who sends the same quote follow-ups and pay
 6. Before each send, fill in the brackets and add one personal line about the actual job. That one line is what makes it feel real.
 7. List your 10-15 most repeated support questions and group them into four buckets: acknowledge (ticket received), update (still working on it), resolve (fixed - here is what to check), and follow up (did it stick).
 8. Ask AI to draft one short reply per bucket, with [bracketed] spots for name, ticket number, dates, and next steps. Show output first. Keep each reply to 3-4 sentences in your own tone, and store them where you already answer messages: saved replies in your helpdesk, a text expander, or a shared doc.
+
+## What to ask the user for
+
+- BRACKETS
+- TIMEFRAME
+- DATE
 
 ## Prompt
 

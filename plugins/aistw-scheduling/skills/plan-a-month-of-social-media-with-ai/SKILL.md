@@ -1,6 +1,6 @@
 ---
 name: plan-a-month-of-social-media-with-ai
-description: "Plan a month of social media on one calendar. AI builds a month-long content calendar from your business pillars: what to post, where, and when. You create everything in one or two batch sessions, schedule it, and stop thinking about social media every day. Use when the user asks for help with this job."
+description: "Plan a month of social media on one calendar. AI builds a month-long content calendar from your business pillars: what to post, where, and when. You create everything in one or two batch sessions."
 ---
 
 # Plan a month of social media on one calendar

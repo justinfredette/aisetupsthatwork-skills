@@ -1,6 +1,6 @@
 ---
 name: gym-membership-check-in-register-with-chatgpt
-description: "Gym Check-in Register, ChatGPT. Here's how I'd set this up in ChatGPT or Claude. By default I'd run it on made-up example rows: member labels with facts exactly as recorded - membership status facts, check-in events with dates and times - out comes one register that keeps every status its own fact, never treats a membership as access used, and never decides who may enter. Real records go in only in a specifically authorized, safeguarded environment - member labels only. Use when the user asks for help with this job."
+description: "Gym Check-in Register, ChatGPT. Here's how I'd set this up in ChatGPT or Claude. By default I'd run it on made-up example rows: member labels with facts exactly as recorded - membership status."
 ---
 
 # Gym Check-in Register, ChatGPT

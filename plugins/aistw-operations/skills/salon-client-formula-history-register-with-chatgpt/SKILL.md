@@ -1,6 +1,6 @@
 ---
 name: salon-client-formula-history-register-with-chatgpt
-description: "Salon Client Formula Log, ChatGPT. Here's how I'd set this up in ChatGPT or Claude. By default I'd run it on made-up example rows: client labels with formulas and patch-test records exactly as recorded - dates, products, results - out comes one register that quotes formulas verbatim with their dates and keeps a recorded patch test as a record, never a clearance. Real records go in only if the business has explicitly authorized this environment for them - and a formula is never invented, adjusted or completed from memory. Use when the user asks for help with this job."
+description: "Salon Client Formula Log, ChatGPT. Here's how I'd set this up in ChatGPT or Claude. By default I'd run it on made-up example rows: client labels with formulas and patch-test records exactly as."
 ---
 
 # Salon Client Formula Log, ChatGPT

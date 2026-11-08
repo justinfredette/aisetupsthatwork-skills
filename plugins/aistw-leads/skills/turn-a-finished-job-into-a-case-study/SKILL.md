@@ -1,6 +1,6 @@
 ---
 name: turn-a-finished-job-into-a-case-study
-description: "Turn a finished job into a case study. Give the AI your job notes and the customer outcome. It structures them into a short case study: problem, what you did, result, quote. Use when the user asks for help with this job."
+description: "Turn a finished job into a case study. Give the AI your job notes and the customer outcome. It structures them into a short case study: problem, what you did, result, quote."
 ---
 
 # Turn a finished job into a case study
@@ -18,6 +18,15 @@ Service businesses that do great work but have nothing on their website proving 
 5. Paste the facts plus the prompt below into the AI.
 6. Send the draft to the customer for approval before publishing. Change anything they flag.
 7. Publish it on your site and link it from the relevant services page.
+
+## What to ask the user for
+
+- BUSINESS NAME
+- NAME or "a homeowner in [TOWN
+- FACTS
+- QUOTE TO COME
+- QUOTE OR PLACEHOLDER
+- TOWN
 
 ## Prompt
 

@@ -1,6 +1,6 @@
 ---
 name: batch-appointments-dentist-doctor-car
-description: "Batch your dentist, doctor, and car appointments. List every appointment your household needs this year. AI groups them by location and type so you book clusters on the same day instead of making twelve separate trips. Use when the user asks for help with this job."
+description: "Batch your dentist, doctor, and car appointments. List every appointment your household needs this year. AI groups them by location and type so you book clusters on the same day instead of making."
 ---
 
 # Batch your dentist, doctor, and car appointments

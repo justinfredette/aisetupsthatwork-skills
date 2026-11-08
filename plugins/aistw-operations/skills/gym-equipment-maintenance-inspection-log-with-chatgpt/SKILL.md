@@ -1,6 +1,6 @@
 ---
 name: gym-equipment-maintenance-inspection-log-with-chatgpt
-description: "Gym Equipment Service Log, ChatGPT. Here's how I'd set this up in ChatGPT or Claude. By default I'd run it on made-up example rows: equipment labels with events exactly as recorded - inspections, maintenance, repairs, out-of-service notes - out comes one log that keeps each event its own dated fact, never declares any machine safe or due for anything, and never resolves conflicting records. Real records go in only if the business has explicitly authorized this environment for them. Use when the user asks for help with this job."
+description: "Gym Equipment Service Log, ChatGPT. Here's how I'd set this up in ChatGPT or Claude. By default I'd run it on made-up example rows: equipment labels with events exactly as recorded - inspections."
 ---
 
 # Gym Equipment Service Log, ChatGPT

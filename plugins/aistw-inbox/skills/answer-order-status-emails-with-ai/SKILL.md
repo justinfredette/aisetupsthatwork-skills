@@ -1,6 +1,6 @@
 ---
 name: answer-order-status-emails-with-ai
-description: "Answer order status emails with AI. Give the AI the customer's email plus the real order status and tracking from your store, and ask for a short reply that only uses those facts. It drafts; you check the order number and send. Use when the user asks for help with this job."
+description: "Answer order status emails with AI. Give the AI the customer's email plus the real order status and tracking from your store, and ask for a short reply that only uses those facts. It drafts; you."
 ---
 
 # Answer order status emails with AI
@@ -17,6 +17,13 @@ Online stores and makers who get the same shipping question every day and want f
 4. Send it from your own inbox.
 5. If many orders are stuck at once, paste the list and ask for one reply template plus a line per customer.
 6. Save your best reply as a template in your project so tone stays consistent.
+
+## What to ask the user for
+
+- PASTE
+- E.G. SHIPPED, LABEL CREATED, DELIVERED, DELAYED
+- DATE, PLACE
+- PASTE OR 'NONE'
 
 ## Prompt
 

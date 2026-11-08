@@ -1,6 +1,6 @@
 ---
 name: ask-happy-customers-for-referrals
-description: "Ask happy customers for referrals. Wait until the job is done and the customer is happy, then send one short email asking who else they know. The AI drafts it in their language, not sales-speak. Use when the user asks for help with this job."
+description: "Ask happy customers for referrals. Wait until the job is done and the customer is happy, then send one short email asking who else they know. The AI drafts it in their language, not sales-speak."
 ---
 
 # Ask happy customers for referrals
@@ -17,6 +17,15 @@ Small service businesses that get most work by word of mouth but never actually 
 4. Read the draft. Make sure it sounds like you, not a marketing department.
 5. Send it yourself, ideally within a week of the job wrapping up.
 6. When a referral comes in, thank the referrer. A short thank-you note keeps the loop going.
+
+## What to ask the user for
+
+- BUSINESS NAME
+- WHAT YOU DO, e.g. "residential cleaning in Rutland"
+- NAME
+- 1-2
+- SERVICE
+- YOUR NAME
 
 ## Prompt
 

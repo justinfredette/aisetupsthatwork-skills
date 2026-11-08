@@ -1,6 +1,6 @@
 ---
 name: cancellation-survey-that-gets-answers
-description: "Find Out Why Customers Cancel With a Short Exit Survey. Put a 1 to 2 question survey in your cancel flow with an \"Other\" write-in box, then match each answer to a save offer: price complaints get a cheaper plan, busy users get a pause. Review your reason list every quarter so it stays current. Use when the user asks for help with this job."
+description: "Find Out Why Customers Cancel With a Short Exit Survey. Put a 1 to 2 question survey in your cancel flow with an \"Other\" write-in box, then match each answer to a save offer: price complaints get a."
 ---
 
 # Find Out Why Customers Cancel With a Short Exit Survey

@@ -1,6 +1,6 @@
 ---
 name: ask-for-linkedin-recommendations
-description: "Ask for LinkedIn Recommendations (and Get Yeses). Message three to five people you have actually worked with, remind them of one specific project, and make it easy to say yes. AI drafts the ask; you send it personally. Use when the user asks for help with this job."
+description: "Ask for LinkedIn Recommendations (and Get Yeses). Message three to five people you have actually worked with, remind them of one specific project, and make it easy to say yes. AI drafts the ask; you."
 ---
 
 # Ask for LinkedIn Recommendations (and Get Yeses)

@@ -1,6 +1,6 @@
 ---
 name: due-diligence-on-a-job-offer-with-ai
-description: "Do due diligence on a job offer before you sign. Paste the offer details into the AI and ask for a total-compensation breakdown: salary, bonus, equity, benefits value, and red flags. You see what the offer is really worth before you accept or negotiate. Use when the user asks for help with this job."
+description: "Do due diligence on a job offer before you sign. Paste the offer details into the AI and ask for a total-compensation breakdown: salary, bonus, equity, benefits value, and red flags. You see what."
 ---
 
 # Do due diligence on a job offer before you sign
@@ -22,6 +22,20 @@ Anyone with an offer letter who wants to know what it is really worth before sig
 9. Ask for a second script for when base will not move: a signing bonus, a written salary review at six months with criteria in the offer, or extra leave. When they answer 'that is above the band,' ask what the top of the band is, then pivot to the non-base items. Follow any agreed change with an email restating the new terms and asking for the updated offer in writing.
 10. Thank them and ask for a few days to review. Get the full compensation details in writing before you counter.
 11. Look up market pay for the role, level, and city. Note the number you can defend.
+
+## What to ask the user for
+
+- TITLE, LEVEL
+- LOCATION
+- AMOUNT
+- AMOUNT, and any clawback terms
+- TARGET PERCENT OR AMOUNT
+- TYPE AND AMOUNT, vesting schedule
+- DAYS
+- MONTHLY PREMIUM AND DEDUCTIBLE, if known
+- DETAILS
+- LIST
+- CURRENT SALARY AND BENEFITS, OR "this is my first offer"
 
 ## Prompt
 

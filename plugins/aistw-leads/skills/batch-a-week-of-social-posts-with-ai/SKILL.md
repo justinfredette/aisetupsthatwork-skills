@@ -1,6 +1,6 @@
 ---
 name: batch-a-week-of-social-posts-with-ai
-description: "Batch a week of social posts in one sitting. Turn one weekly topic into a full week of scheduled social posts. Captions drafted by AI, visuals in Canva, queued in Buffer, so posting stops bleeding into every day. Use when the user asks for help with this job."
+description: "Batch a week of social posts in one sitting. Turn one weekly topic into a full week of scheduled social posts. Captions drafted by AI, visuals in Canva, queued in Buffer, so posting stops bleeding."
 ---
 
 # Batch a week of social posts in one sitting

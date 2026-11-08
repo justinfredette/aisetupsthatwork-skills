@@ -1,6 +1,6 @@
 ---
 name: make-bot-corrections-stick
-description: "Make bot corrections stick. A correction in chat fixes that chat only. Each time you correct a bot, add one line to its written instructions covering the job, the rule and what done looks like. Every month, slim the instructions: keep core rules always loaded and move situational steps into separate saved procedures. Use when the user asks for help with this job."
+description: "Make bot corrections stick. A correction in chat fixes that chat only. Each time you correct a bot, add one line to its written instructions covering the job, the rule and what done looks like."
 ---
 
 # Make bot corrections stick
@@ -17,6 +17,11 @@ Owners whose bot repeats a mistake after being corrected, or whose instructions 
 4. Sort lines into core rules (always loaded) and situational steps (move into a saved procedure the bot opens when needed).
 5. Test the slimmer version on 3 past tasks before switching.
 6. Grok Bot group owners described both fixes: corrections that live only in chat come back, and long always-loaded instructions cost usage.
+
+## What to ask the user for
+
+- WHAT WENT WRONG
+- WHAT I SAID
 
 ## Prompt
 

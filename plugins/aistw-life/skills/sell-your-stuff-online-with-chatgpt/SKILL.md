@@ -1,6 +1,6 @@
 ---
 name: sell-your-stuff-online-with-chatgpt
-description: "Sell Your Stuff Online with ChatGPT. Here's how I'd set this up in ChatGPT or Claude (not run by us yet). I'd snap a few photos of each thing I want gone, upload them, and have the chat write the title and description and suggest a price range from similar listings it can find. Then I'd post the listings myself and handle buyers myself. Use when the user asks for help with this job."
+description: "Sell Your Stuff Online with ChatGPT. Here's how I'd set this up in ChatGPT or Claude (not run by us yet). I'd snap a few photos of each thing I want gone, upload them, and have the chat write the."
 ---
 
 # Sell Your Stuff Online with ChatGPT
@@ -17,6 +17,10 @@ For anyone with a closet, garage, or basement full of things they keep meaning t
 4. Look at the price range and the similar listings it links. Sold prices tell you more than asking prices, so check sold listings on the site yourself when you can.
 5. Post each listing yourself and paste in the title and description.
 6. When buyers message you, ask the chat for a short, polite reply if you need one. Meet in a public place, and don't accept a check for more than your price.
+
+## What to ask the user for
+
+- Facebook Marketplace, eBay, Craigslist, etc.
 
 ## Prompt
 

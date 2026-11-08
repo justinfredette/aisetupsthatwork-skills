@@ -1,6 +1,6 @@
 ---
 name: time-block-your-week-with-ai
-description: "Time-block your week with AI. Tell a chatbot your fixed commitments and your task list, and it drafts a time-blocked week: every task assigned to a real hour, with breaks and buffers. You review it Sunday night and copy it into your calendar. Use when the user asks for help with this job."
+description: "Time-block your week with AI. Tell a chatbot your fixed commitments and your task list, and it drafts a time-blocked week: every task assigned to a real hour, with breaks and buffers. You review it."
 ---
 
 # Time-block your week with AI

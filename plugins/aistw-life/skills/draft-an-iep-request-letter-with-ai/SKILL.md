@@ -1,6 +1,6 @@
 ---
 name: draft-an-iep-request-letter-with-ai
-description: "Write an IEP Evaluation Request Letter. This is not legal advice. Parents can request a special education evaluation in writing; the school must respond, and federal law generally requires the evaluation within 60 days of your written consent. AI drafts the letter, you send it and track the clock. Use when the user asks for help with this job."
+description: "Write an IEP Evaluation Request Letter. This is not legal advice. Parents can request a special education evaluation in writing; the school must respond, and federal law generally requires the."
 ---
 
 # Write an IEP Evaluation Request Letter

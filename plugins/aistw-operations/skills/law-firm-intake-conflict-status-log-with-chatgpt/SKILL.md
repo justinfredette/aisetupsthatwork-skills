@@ -1,6 +1,6 @@
 ---
 name: law-firm-intake-conflict-status-log-with-chatgpt
-description: "Law Firm Intake Status Log, ChatGPT. Here's how I'd set this up in ChatGPT or Claude. By default I'd run it on made-up example rows. From made-up intake rows, ChatGPT or Claude builds one log that keeps each matter intake, conflict-check request and engagement step as its own dated recorded entry by internal matter ID, keeps received, check requested, check result recorded and engagement noted as separate states, and never says a matter is conflict-free, accepted, or that anyone is a client. Use when the user asks for help with this job."
+description: "Law Firm Intake Status Log, ChatGPT. Here's how I'd set this up in ChatGPT or Claude. By default I'd run it on made-up example rows. From made-up intake rows, ChatGPT or Claude builds one log that."
 ---
 
 # Law Firm Intake Status Log, ChatGPT

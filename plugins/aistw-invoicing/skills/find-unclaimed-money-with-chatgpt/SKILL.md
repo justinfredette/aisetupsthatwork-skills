@@ -1,6 +1,6 @@
 ---
 name: find-unclaimed-money-with-chatgpt
-description: "Find Unclaimed Money in Your Name with ChatGPT. Here's how I'd set this up in ChatGPT or Claude (not run by us yet). I'd list every state I've lived or worked in and every name I've used, have the chat turn that into a search plan for the official state sites and MissingMoney.com, then run the searches myself and paste back what I find. Use when the user asks for help with this job."
+description: "Find Unclaimed Money in Your Name with ChatGPT. Here's how I'd set this up in ChatGPT or Claude (not run by us yet). I'd list every state I've lived or worked in and every name I've used, have the."
 ---
 
 # Find Unclaimed Money in Your Name with ChatGPT

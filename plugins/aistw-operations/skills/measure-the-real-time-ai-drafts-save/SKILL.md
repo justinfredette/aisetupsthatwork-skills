@@ -1,6 +1,6 @@
 ---
 name: measure-the-real-time-ai-drafts-save
-description: "Measure the real time AI drafts save. Time the whole job, not just the step the AI touched: drafting, review, fixes and rework, for 5 tasks done the old way and 5 with AI. If review time grew more than drafting time shrank, the cost just moved to someone more senior. Fix the prompt or checklist, then measure again. Use when the user asks for help with this job."
+description: "Measure the real time AI drafts save. Time the whole job, not just the step the AI touched: drafting, review, fixes and rework, for 5 tasks done the old way and 5 with AI. If review time grew more."
 ---
 
 # Measure the real time AI drafts save
@@ -17,6 +17,10 @@ Owners and managers who suspect AI drafts are just moving work to whoever checks
 4. Paste both into the prompt below.
 5. If review grew, improve the prompt or add a checklist so drafts need fewer fixes, then measure again.
 6. Use the honest number when deciding where AI goes next.
+
+## What to ask the user for
+
+- PASTE 5
 
 ## Prompt
 

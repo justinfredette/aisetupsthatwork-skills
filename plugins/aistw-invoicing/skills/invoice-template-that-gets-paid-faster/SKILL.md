@@ -1,6 +1,6 @@
 ---
 name: invoice-template-that-gets-paid-faster
-description: "Build an invoice template that gets paid faster. Describe your business and the AI builds an invoice layout with the right fields in the right order, plus plain wording that nudges faster payment. Use when the user asks for help with this job."
+description: "Build an invoice template that gets paid faster. Describe your business and the AI builds an invoice layout with the right fields in the right order, plus plain wording that nudges faster payment."
 ---
 
 # Build an invoice template that gets paid faster
@@ -18,6 +18,11 @@ A small business owner still sending plain-text invoices or Word docs with no pa
 5. Put the due date near the top, in plain words like "Due March 15", not buried at the bottom.
 6. Add a payment link or button. Clients who can pay in two clicks pay sooner.
 7. Send the first invoice the day the work is done. Every day of delay adds a day to your wait.
+
+## What to ask the user for
+
+- NAME
+- TYPE OF WORK
 
 ## Prompt
 

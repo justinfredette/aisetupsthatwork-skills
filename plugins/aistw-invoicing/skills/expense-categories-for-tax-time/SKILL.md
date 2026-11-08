@@ -1,6 +1,6 @@
 ---
 name: expense-categories-for-tax-time
-description: "Sort your expenses into tax-ready categories. Paste a list of your expenses and the AI sorts them into the IRS Schedule C buckets, so tax time is mostly done before it starts. Use when the user asks for help with this job."
+description: "Sort your expenses into tax-ready categories. Paste a list of your expenses and the AI sorts them into the IRS Schedule C buckets, so tax time is mostly done before it starts."
 ---
 
 # Sort your expenses into tax-ready categories
@@ -17,6 +17,10 @@ A sole proprietor staring at a shoebox of receipts in March
 4. Review the uncertain ones. Mixed personal and business purchases need your judgment.
 5. Ask the AI to total each category. These totals go straight onto your tax forms.
 6. Bring the categorized list to your accountant. You just saved them hours, which saves you money.
+
+## What to ask the user for
+
+- PASTE LIST WITH AMOUNTS
 
 ## Prompt
 

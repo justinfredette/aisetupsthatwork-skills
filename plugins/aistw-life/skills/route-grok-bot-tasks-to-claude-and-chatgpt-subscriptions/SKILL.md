@@ -1,6 +1,6 @@
 ---
 name: route-grok-bot-tasks-to-claude-and-chatgpt-subscriptions
-description: "Route Grok Bot tasks to your Claude and ChatGPT subscriptions. Install Claude Code and OpenAI Codex CLIs on Grok Bot’s shared cloud computer, sign in with your own Anthropic and OpenAI subscriptions, then set routing rules so writing, coding, and browser-heavy jobs hit the model you already pay for, without pasting the setup into Codex or Claude Code directly. Use when the user asks for help with this job."
+description: "Route Grok Bot tasks to your Claude and ChatGPT subscriptions. Install Claude Code and OpenAI Codex CLIs on Grok Bot’s shared cloud computer, sign in with your own Anthropic and OpenAI."
 ---
 
 # Route Grok Bot tasks to your Claude and ChatGPT subscriptions
@@ -19,6 +19,11 @@ Grok Bot users who already pay for Claude and/or ChatGPT and want Bots to delega
 6. Set default models in each CLI if prompted, then add explicit routing rules to every Bot’s instructions (e.g. “use Codex for repo edits, Claude Code for refactors, Grok for browser research”).
 7. Save the same routing block to shared memory or a /workspace file all Bots are told to read so rules persist across chats. Otherwise Bots tend to revert to Grok-only.
 8. Re-test after a day: ask a coding task and a writing task and confirm the Bot names which CLI it used.
+
+## What to ask the user for
+
+- Claude Code or Codex per my preference
+- Codex or Claude Code
 
 ## Prompt
 
@@ -63,6 +68,12 @@ Do not revoke connectors or delete files unless I explicitly approve after this 
 - Subscription usage limits and rate limits are per provider; heavy coding can eat Claude or OpenAI allowance faster than Grok-only work.
 - CLI login sessions expire; you may need to re-authenticate on the shared computer after updates or idle timeouts.
 - CLI login on a shared cloud computer exposes credentials to every Bot on the account. Isolate the host or audit first.
+
+## Tested
+
+Ran on Grok Bot, Oct 30, 2026, Claude half only: Claude Code signed in with a Claude subscription, wrote a 5-line function and 3 tests from a headless prompt, and the tests passed. Codex not tested.
+
+The full receipt is on https://www.aisetupsthatwork.com/setups/route-grok-bot-tasks-to-claude-and-chatgpt-subscriptions/
 
 ## Source
 

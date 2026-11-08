@@ -1,6 +1,6 @@
 ---
 name: check-your-agent-did-the-follow-up-it-promised
-description: "Check your agent did the follow-up it promised. An agent saying it will watch for something is not the same as a scheduled job doing it. Turn every promise into a dated task, have a daily check list promises due today and their status, and treat anything not confirmed as not done. Use when the user asks for help with this job."
+description: "Check your agent did the follow-up it promised. An agent saying it will watch for something is not the same as a scheduled job doing it. Turn every promise into a dated task, have a daily check list."
 ---
 
 # Check your agent did the follow-up it promised
@@ -17,6 +17,11 @@ Owners whose agent said it would watch for a reply or chase something later, and
 4. Handle anything marked SLIPPED yourself, or tell the agent to draft it now for your approval.
 5. If the same promise slips twice, remove it from the agent's job and put it on your own list.
 6. Review the log weekly with the weekly agent review setup.
+
+## What to ask the user for
+
+- PASTE
+- DATE
 
 ## Prompt
 

@@ -1,6 +1,6 @@
 ---
 name: limit-what-staff-and-bots-can-see-in-your-books
-description: "Limit what staff and bots can see in your books. List who and what touches your books, then give each the smallest role that does the job. QuickBooks Online has limited and reports-only roles, and custom roles on Advanced. Keep payroll and HR files out of shared AI workspaces, connect AI under your own login only, and review access monthly. Use when the user asks for help with this job."
+description: "Limit what staff and bots can see in your books. List who and what touches your books, then give each the smallest role that does the job. QuickBooks Online has limited and reports-only roles, and."
 ---
 
 # Limit what staff and bots can see in your books
@@ -17,6 +17,10 @@ Owners with a bookkeeper, staff or AI tools connected to their accounting, who w
 4. Keep payroll, HR and personnel files out of shared AI projects and team bot workspaces.
 5. Connect AI tools under your own account, not a shared login, so you can disconnect them in one place.
 6. Review the list monthly and remove anyone who left or no longer needs access.
+
+## What to ask the user for
+
+- LIST
 
 ## Prompt
 

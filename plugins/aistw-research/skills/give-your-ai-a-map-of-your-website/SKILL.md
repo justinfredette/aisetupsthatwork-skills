@@ -1,6 +1,6 @@
 ---
 name: give-your-ai-a-map-of-your-website
-description: "Give your AI a map of your website. When an AI assistant answers without your site's specifics, its SEO advice stays generic. Fix it with one markdown file: every important page, the search phrase you want it found for, and the pages it should link to. Attach the file to each SEO chat, or save it as project instructions in Claude Code, so advice can work from your real pages. Use when the user asks for help with this job."
+description: "Give your AI a map of your website. When an AI assistant answers without your site's specifics, its SEO advice stays generic. Fix it with one markdown file: every important page, the search phrase."
 ---
 
 # Give your AI a map of your website
@@ -17,6 +17,10 @@ Owners who ask AI for SEO help and get generic advice that does not use what is 
 4. Save the file as site-map.md. In Claude Code, put it in your project CLAUDE.md file, which Anthropic says loads at the start of every session. In ChatGPT, attach the file to the conversation when you ask for SEO help; OpenAI documents file uploads on free and paid plans.
 5. Before any SEO request, tell the assistant to answer from the map first: which page should change, what phrase it targets, and which pages should link to it.
 6. Update the file when you add or retire a page, and check it monthly against Search Console so the phrases stay real.
+
+## What to ask the user for
+
+- PASTE URLS OR PAGE TITLES
 
 ## Prompt
 

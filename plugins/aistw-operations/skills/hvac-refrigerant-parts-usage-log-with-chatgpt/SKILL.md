@@ -1,6 +1,6 @@
 ---
 name: hvac-refrigerant-parts-usage-log-with-chatgpt
-description: "HVAC Refrigerant Parts Log, ChatGPT. Here's how I'd set this up in ChatGPT or Claude. By default I'd run it on made-up example rows. From made-up usage rows, ChatGPT or Claude builds one log that keeps each cylinder, part and usage entry as its own dated recorded entry by cylinder or part label and vehicle label, keeps received, used and returned as separate states, and never totals quantities, computes a balance or says anything about leaks or compliance. Use when the user asks for help with this job."
+description: "HVAC Refrigerant Parts Log, ChatGPT. Here's how I'd set this up in ChatGPT or Claude. By default I'd run it on made-up example rows. From made-up usage rows, ChatGPT or Claude builds one log that."
 ---
 
 # HVAC Refrigerant Parts Log, ChatGPT

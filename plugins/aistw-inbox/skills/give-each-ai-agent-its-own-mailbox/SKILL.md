@@ -1,6 +1,6 @@
 ---
 name: give-each-ai-agent-its-own-mailbox
-description: "Give each AI agent its own email. Google says a Workspace admin can add up to 30 alias addresses per user at no extra cost. Mail to an alias lands in the user's main inbox. An alias is a separate address, not a separate inbox. Use when the user asks for help with this job."
+description: "Give each AI agent its own email. Google says a Workspace admin can add up to 30 alias addresses per user at no extra cost. Mail to an alias lands in the user's main inbox. An alias is a separate."
 ---
 
 # Give each AI agent its own email
@@ -18,6 +18,14 @@ Small teams running more than one AI helper on Gmail or Google Workspace. You ne
 5. Tell each helper to draft only. In a new message, choose the helper's address in the From line and check it before sending.
 6. If you use Claude's Gmail connector, Claude's help center says it asks for approval before it sends, replies or forwards by default. Keep that on.
 7. If several people need to use one address, Google recommends Gmail delegation instead of an alias.
+
+## What to ask the user for
+
+- HELPER NAME
+- BUSINESS NAME
+- ALIAS ADDRESS
+- ONE JOB, for example: draft replies to billing questions
+- CONFIRM
 
 ## Prompt
 

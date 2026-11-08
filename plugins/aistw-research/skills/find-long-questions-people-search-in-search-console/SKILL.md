@@ -1,6 +1,6 @@
 ---
 name: find-long-questions-people-search-in-search-console
-description: "Find the long questions people search to find you. In Search Console, open Performance, add a Query filter, choose Custom (regex) and paste ^(?:\\S+\\s+){7,}\\S+$ to see searches of 8 words or more. Export them, have AI group them, and answer the high-impression, low-click questions at the top of the page that already shows up. Use when the user asks for help with this job."
+description: "Find the long questions people search to find you. In Search Console, open Performance, add a Query filter, choose Custom (regex) and paste ^(?:\\S+\\s+){7,}\\S+$ to see searches of 8 words or more."
 ---
 
 # Find the long questions people search to find you

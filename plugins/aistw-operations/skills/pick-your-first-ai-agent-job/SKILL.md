@@ -1,6 +1,6 @@
 ---
 name: pick-your-first-ai-agent-job
-description: "Pick your first AI agent job. List your repetitive weekly tasks, score each for hours spent, how often it repeats and how bad a mistake would be, and start with the one that is frequent, slow and low risk, usually drafting replies or sorting the inbox. Run it with approval on for 30 days before adding a second job. Use when the user asks for help with this job."
+description: "Pick your first AI agent job. List your repetitive weekly tasks, score each for hours spent, how often it repeats and how bad a mistake would be, and start with the one that is frequent, slow and."
 ---
 
 # Pick your first AI agent job
@@ -17,6 +17,10 @@ Owners who keep hearing about AI agents but do not know which job to hand over f
 4. Before connecting anything, remember OpenAI says a signed-in agent can access sensitive data and perform actions. Keep approval on for anything that leaves the business.
 5. Run it for 30 days. Track minutes saved and every mistake.
 6. Add a second job only after the first one runs a month without surprises.
+
+## What to ask the user for
+
+- PASTE LIST
 
 ## Prompt
 

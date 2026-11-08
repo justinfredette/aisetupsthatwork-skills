@@ -1,6 +1,6 @@
 ---
 name: turn-how-you-work-into-a-written-sop
-description: "Turn how you work into a written SOP. An SOP is a recipe for a task: header with owner and date, numbered steps with one action each, and notes for the edge cases. Write it by doing the task once while narrating, then test it on someone unfamiliar. Use when the user asks for help with this job."
+description: "Turn how you work into a written SOP. An SOP is a recipe for a task: header with owner and date, numbered steps with one action each, and notes for the edge cases. Write it by doing the task once."
 ---
 
 # Turn how you work into a written SOP
@@ -17,6 +17,11 @@ Owners and solo operators who need to hand off repeat work to a helper, VA, or f
 4. Hand it to someone unfamiliar and say nothing. Every place they stop to ask is a gap; fill it.
 5. Add a header: process name, owner, last-updated date, tools required. Date every revision.
 6. Store SOPs in one shared folder and review them when the process changes, not on a calendar.
+
+## What to ask the user for
+
+- PASTE NOTES
+- NAME
 
 ## Prompt
 
@@ -36,6 +41,13 @@ Here are my rough notes on how I do this task: [PASTE NOTES]. Turn them into a s
 - AI fills gaps with plausible guesses. Correct every step against how you actually do the work.
 - An SOP nobody tests is fiction. The unfamiliar-reader test is the whole quality check.
 - Screenshots and exact button names beat paragraphs. Add them where the UI matters.
+- Ten lines of notes came back as 27 steps. That is the one-action rule working, so answer the bracketed questions instead of cutting steps.
+
+## Tested
+
+Ran on Claude in a Claude Code session, Nov 5, 2026: made-up rough notes for packing a candle order became an SOP with a header, 27 one-action steps and 3 exception notes, with the 2 gaps planted in the notes returned as bracketed questions instead of guesses. The unfamiliar-reader test was not done and nothing was saved to Google Docs.
+
+The full receipt is on https://www.aisetupsthatwork.com/setups/turn-how-you-work-into-a-written-sop/
 
 ## Source
 

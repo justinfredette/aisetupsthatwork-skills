@@ -1,6 +1,6 @@
 ---
 name: claim-flight-delay-compensation-with-chatgpt
-description: "Claim Flight Delay Compensation with ChatGPT. Here's how I'd set this up in ChatGPT or Claude (not run by us yet). I'd paste my booking and what went wrong, have the chat check whether EU rules or the US refund rule apply, then file the claim it drafts on the airline's own form myself. Use when the user asks for help with this job."
+description: "Claim Flight Delay Compensation with ChatGPT. Here's how I'd set this up in ChatGPT or Claude (not run by us yet). I'd paste my booking and what went wrong, have the chat check whether EU rules or."
 ---
 
 # Claim Flight Delay Compensation with ChatGPT
@@ -49,6 +49,13 @@ Rules: Use web search to check the official EU or DOT page before you state any 
 - Extraordinary circumstances such as weather or air traffic control decisions can rule out EU compensation, and the airline has to prove them.
 - The US rule covers refunds, and only if you turn down the rebooking or voucher the airline offers.
 - The chat's distance estimate can be off. Check the band against the official EU table before you file.
+- Madrid to Dublin came out 46 km under the 1,500 km line. When the estimate lands that close, ask for both amounts and check the distance the airline uses before you file.
+
+## Tested
+
+Ran on Claude in a Claude Code session, Nov 5, 2026: a made-up 3 hour 45 minute delay on a Madrid to Dublin flight was matched to the EU rules and not the US rule, with a 1,454 km estimate placed in the 250 EUR band and flagged as close to the line, and a 140-word claim text. The official pages were checked through web search results, not opened, and nothing was filed.
+
+The full receipt is on https://www.aisetupsthatwork.com/setups/claim-flight-delay-compensation-with-chatgpt/
 
 ## Source
 

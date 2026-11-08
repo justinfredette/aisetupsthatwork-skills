@@ -1,6 +1,6 @@
 ---
 name: law-firm-time-billing-record-log-with-chatgpt
-description: "Law Firm Time and Billing Log, ChatGPT. Here's how I'd set this up in ChatGPT or Claude. By default I'd run it on made-up example rows. From made-up time rows, ChatGPT or Claude builds one log that keeps each time entry and each invoice status as its own dated recorded entry by internal matter ID, keeps entered, reviewed, invoiced and paid as separate states, and never adds up hours or amounts, says what is billable or owed, or judges any entry. Use when the user asks for help with this job."
+description: "Law Firm Time and Billing Log, ChatGPT. Here's how I'd set this up in ChatGPT or Claude. By default I'd run it on made-up example rows. From made-up time rows, ChatGPT or Claude builds one log that."
 ---
 
 # Law Firm Time and Billing Log, ChatGPT

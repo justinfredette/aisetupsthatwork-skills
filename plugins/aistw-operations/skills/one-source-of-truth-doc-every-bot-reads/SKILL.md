@@ -1,6 +1,6 @@
 ---
 name: one-source-of-truth-doc-every-bot-reads
-description: "One source-of-truth doc every bot reads. Keep one short document with today's facts: prices, policies, open promises and recent decisions, each with a date. Tell every bot to read it before starting and to flag anything that contradicts it. Update the document, not each bot's memory. Use when the user asks for help with this job."
+description: "One source-of-truth doc every bot reads. Keep one short document with today's facts: prices, policies, open promises and recent decisions, each with a date. Tell every bot to read it before starting."
 ---
 
 # One source-of-truth doc every bot reads
@@ -17,6 +17,10 @@ Owners with several bots that forget decisions, miss watched items, or give diff
 4. When something changes, update the document, not each bot.
 5. Keep it short. Move old decisions to an archive section monthly.
 6. Grok Bot group owners described this as the fix that worked when bots kept forgetting; pair it with a promise log for watched items.
+
+## What to ask the user for
+
+- DOCUMENT NAME/LOCATION
 
 ## Prompt
 

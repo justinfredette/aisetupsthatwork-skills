@@ -1,6 +1,6 @@
 ---
 name: weekly-review-monitoring-brief
-description: "One Weekly Brief for Reviews Across Google, Yelp, and Facebook. Once a week, sweep Google, Yelp, and Facebook in one 15-minute pass, draft replies to anything new, and log recurring issues. Nothing sits unanswered for a month. Use when the user asks for help with this job."
+description: "One Weekly Brief for Reviews Across Google, Yelp, and Facebook. Once a week, sweep Google, Yelp, and Facebook in one 15-minute pass, draft replies to anything new, and log recurring issues. Nothing."
 ---
 
 # One Weekly Brief for Reviews Across Google, Yelp, and Facebook

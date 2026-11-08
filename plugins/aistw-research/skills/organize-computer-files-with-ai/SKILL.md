@@ -1,6 +1,6 @@
 ---
 name: organize-computer-files-with-ai
-description: "Can I Use AI to Organize My Computer Files? (Safe Draft-Only Plan). I describe my messy folders, or paste a file tree export, and ask ChatGPT for a naming scheme and folder map I approve before I move anything myself. No full-disk access, no auto-delete. Use when the user asks for help with this job."
+description: "Can I Use AI to Organize My Computer Files? (Safe Draft-Only Plan). I describe my messy folders, or paste a file tree export, and ask ChatGPT for a naming scheme and folder map I approve before I."
 ---
 
 # Can I Use AI to Organize My Computer Files? (Safe Draft-Only Plan)
@@ -17,6 +17,10 @@ Freelancers with client folders named “final_FINAL2,” or anyone scared to le
 4. Ask for a target folder tree, naming pattern (YYYY-MM-DD_client_topic), and a 3-phase move plan (quick wins first).
 5. Require “do not delete” and “confirm before archive” rules in the prompt.
 6. You move files in small batches; re-paste the tree after phase one if you want a second pass.
+
+## What to ask the user for
+
+- Mac / Windows
 
 ## Prompt
 

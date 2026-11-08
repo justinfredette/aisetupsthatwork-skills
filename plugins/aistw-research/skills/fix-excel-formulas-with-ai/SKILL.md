@@ -1,6 +1,6 @@
 ---
 name: fix-excel-formulas-with-ai
-description: "Fix and Write Excel Formulas With AI. Paste the broken formula and describe what it should do, and AI will usually spot the error or write the replacement. Validate every AI formula on a few rows first, and never paste sensitive data into the chat. Use when the user asks for help with this job."
+description: "Fix and Write Excel Formulas With AI. Paste the broken formula and describe what it should do, and AI will usually spot the error or write the replacement. Validate every AI formula on a few rows."
 ---
 
 # Fix and Write Excel Formulas With AI

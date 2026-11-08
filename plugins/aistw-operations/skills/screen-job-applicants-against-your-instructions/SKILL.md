@@ -1,6 +1,6 @@
 ---
 name: screen-job-applicants-against-your-instructions
-description: "Screen job applicants against your instructions. List only job-related must-haves and the instructions in your post, such as a code word or answering one question. Have the AI check each application against those, quote the evidence, and sort into meets, missing info and does not meet. You read every shortlisted application and make every decision. Use when the user asks for help with this job."
+description: "Screen job applicants against your instructions. List only job-related must-haves and the instructions in your post, such as a code word or answering one question. Have the AI check each application."
 ---
 
 # Screen job applicants against your instructions
@@ -17,6 +17,10 @@ Small business owners hiring for one role who get dozens of applications at once
 4. Read every application in MEETS and MISSING INFO yourself. Spot-check a few in DOES NOT MEET.
 5. You decide who gets an interview. The AI only sorts and quotes evidence.
 6. Keep the must-haves list with your hiring records.
+
+## What to ask the user for
+
+- PASTE
 
 ## Prompt
 

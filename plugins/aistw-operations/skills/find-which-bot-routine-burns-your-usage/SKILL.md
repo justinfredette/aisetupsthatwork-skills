@@ -1,6 +1,6 @@
 ---
 name: find-which-bot-routine-burns-your-usage
-description: "Find which bot routine burns your usage. Most usage goes to a few routines: browser clicking loops, long always-loaded instructions, retries and bots sharing big context. List every scheduled routine, note how often it runs and whether anyone used its output, then trim, merge or retire the worst. Set a spend cap so nothing burns silently. Use when the user asks for help with this job."
+description: "Find which bot routine burns your usage. Most usage goes to a few routines: browser clicking loops, long always-loaded instructions, retries and bots sharing big context. List every scheduled."
 ---
 
 # Find which bot routine burns your usage
@@ -17,6 +17,10 @@ Owners running several bots whose plan runs out early and who cannot tell which 
 4. Act on the calls: retire what nobody used, merge duplicates, slow down frequent runs, swap browser clicking for a connector or export.
 5. Set caps and approvals for spend. xAI documents spend and purchase approvals for Grok Bot; for API keys, set a monthly limit per key.
 6. Repeat the review monthly. Grok Bot group owners reported plans used up within an hour; a monthly review catches the routine before it does that.
+
+## What to ask the user for
+
+- PASTE
 
 ## Prompt
 
@@ -45,6 +49,12 @@ Then list the top 3 changes that would save the most. Do not change any bot; thi
 - Cutting the routine people rely on because it looks expensive.
 - No list of routines, so nothing to review.
 - Letting a bot rewrite other bots instead of proposing changes.
+
+## Tested
+
+Ran on Grok Bot, Nov 2, 2026: the real 7-day usage report (14 routines, 7 bots) got a keep, trim, merge or retire call per routine and a top-3 list. Bot-to-bot messages (about 40%) cost more than the routines (about 16%); chats with the owner were 44%. Nothing was changed.
+
+The full receipt is on https://www.aisetupsthatwork.com/setups/find-which-bot-routine-burns-your-usage/
 
 ## Source
 

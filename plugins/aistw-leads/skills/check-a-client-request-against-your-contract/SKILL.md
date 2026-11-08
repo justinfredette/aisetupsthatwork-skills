@@ -1,6 +1,6 @@
 ---
 name: check-a-client-request-against-your-contract
-description: "Check a Client Request Against Your Contract. Paste the request next to your contract’s scope section and ask AI to sort it: covered, gray area, or new work. You decide, and you agree on price and timing before starting anything extra. Use when the user asks for help with this job."
+description: "Check a Client Request Against Your Contract. Paste the request next to your contract’s scope section and ask AI to sort it: covered, gray area, or new work. You decide, and you agree on price and."
 ---
 
 # Check a Client Request Against Your Contract
@@ -17,6 +17,11 @@ Freelancers and small shops getting "one more thing" requests. This is a judgmen
 4. If it is your mistake, treat it as a correction, not a paid extra.
 5. If it is new work, estimate the extra effort, then agree on price and schedule with the client before starting.
 6. Confirm the decision in a short email: what was decided, who does what, and by when. That email becomes the record.
+
+## What to ask the user for
+
+- Paste the scope, deliverables, revision limits, and timeline
+- Paste the request exactly as written
 
 ## Prompt
 

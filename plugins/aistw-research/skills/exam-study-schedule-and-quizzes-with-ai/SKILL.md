@@ -1,6 +1,6 @@
 ---
 name: exam-study-schedule-and-quizzes-with-ai
-description: "Build an exam study schedule with AI quizzes. Give the AI the exam blueprint, your test date, and your weekly hours. It builds a week-by-week schedule weighted by topic, with practice quizzes and full practice tests as checkpoints. Use when the user asks for help with this job."
+description: "Build an exam study schedule with AI quizzes. Give the AI the exam blueprint, your test date, and your weekly hours. It builds a week-by-week schedule weighted by topic, with practice quizzes and."
 ---
 
 # Build an exam study schedule with AI quizzes

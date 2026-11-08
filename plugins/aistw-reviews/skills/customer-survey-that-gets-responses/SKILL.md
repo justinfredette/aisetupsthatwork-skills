@@ -1,6 +1,6 @@
 ---
 name: customer-survey-that-gets-responses
-description: "Write a Short Customer Survey People Actually Finish. Keep it under 5 minutes or about 10 to 15 questions, lead with your most important questions, and write every question simple, specific, and short. Personalized invitations and a stated incentive lift responses. Use when the user asks for help with this job."
+description: "Write a Short Customer Survey People Actually Finish. Keep it under 5 minutes or about 10 to 15 questions, lead with your most important questions, and write every question simple, specific, and."
 ---
 
 # Write a Short Customer Survey People Actually Finish
@@ -17,6 +17,10 @@ Small business owners who want customer feedback but get single-digit response r
 4. Add branching so people skip irrelevant questions. Keep the whole thing under 5 minutes.
 5. Write a personalized invitation: their name, a reference to their recent purchase, sent from a real person. Surva reports personalized invites improve response 7 to 15 percent over generic blasts.
 6. If you offer an incentive, state it at the start and match it to your audience. Surva reports incentives lift response 10 to 15 percent or more.
+
+## What to ask the user for
+
+- 3-5 things, e.g. why they chose us, what almost stopped them
 
 ## Prompt
 

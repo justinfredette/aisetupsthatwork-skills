@@ -1,6 +1,6 @@
 ---
 name: build-your-case-for-a-raise-or-promotion
-description: "Build your case for a raise or promotion. Research the market range for your role and location, bring a one-page brag sheet of what you achieved, and ask for a specific number, not a range. If the answer is no, negotiate benefits or get the next review in writing with measurable targets. Use when the user asks for help with this job."
+description: "Build your case for a raise or promotion. Research the market range for your role and location, bring a one-page brag sheet of what you achieved, and ask for a specific number, not a range. If the."
 ---
 
 # Build your case for a raise or promotion
@@ -17,6 +17,13 @@ Employees who have earned more but dread the conversation and want a plan.
 4. Paste your brag sheet into the prompt below for a practice script and answers to likely pushback.
 5. Schedule a real meeting. Do not ambush your manager in a hallway.
 6. If the answer is no or later, ask about alternate benefits, and get any future commitment in writing with clear targets.
+
+## What to ask the user for
+
+- ROLE
+- CITY
+- RANGE
+- PASTE BRAG SHEET
 
 ## Prompt
 

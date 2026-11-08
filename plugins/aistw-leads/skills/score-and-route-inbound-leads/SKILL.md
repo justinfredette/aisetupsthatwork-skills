@@ -1,6 +1,6 @@
 ---
 name: score-and-route-inbound-leads
-description: "Score inbound leads so the best ones reach you first. Define what a good lead looks like, assign points for each trait, and let the AI score every inquiry. Hot leads get your call today. Cold ones wait. Use when the user asks for help with this job."
+description: "Score inbound leads so the best ones reach you first. Define what a good lead looks like, assign points for each trait, and let the AI score every inquiry. Hot leads get your call today. Cold ones."
 ---
 
 # Score inbound leads so the best ones reach you first
@@ -18,6 +18,14 @@ Small businesses getting enough inquiries that the good ones sometimes wait behi
 5. For each new inquiry, paste the details plus the prompt below into the AI. It scores the lead against your rubric.
 6. Hot leads get a call or quote the same day. Warm leads get the standard process. Cold leads get a polite, slow lane.
 7. Review monthly: if hot leads are not buying, your rubric is scoring the wrong traits. Adjust it.
+
+## What to ask the user for
+
+- POINTS, e.g. 20
+- POINTS, e.g. 15
+- X WEEKS
+- SCORE, e.g. 70
+- PASTE THE INQUIRY: their message, source, anything you know
 
 ## Prompt
 

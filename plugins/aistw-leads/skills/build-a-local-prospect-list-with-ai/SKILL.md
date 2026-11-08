@@ -1,6 +1,6 @@
 ---
 name: build-a-local-prospect-list-with-ai
-description: "Build a local prospect list with AI help. Search your trade plus town on Google Maps, export the listings, and let the AI research each one and draft a personalized first line. Fifty real prospects in an afternoon. Use when the user asks for help with this job."
+description: "Build a local prospect list with AI help. Search your trade plus town on Google Maps, export the listings, and let the AI research each one and draft a personalized first line. Fifty real prospects."
 ---
 
 # Build a local prospect list with AI help
@@ -18,6 +18,14 @@ Web designers, marketers, and service providers who pitch local businesses like 
 5. Review the flags. Delete anyone who is not actually a fit, no matter what the AI says.
 6. For your top 20, have the AI draft one personalized opener each, based on the specific thing it found.
 7. Work the list in order. Log every contact: date, channel, response. One follow-up max for non-responders.
+
+## What to ask the user for
+
+- WHAT YOU SELL, e.g. "websites for trades businesses"
+- NAME
+- WEBSITE OR "NO WEBSITE LISTED"
+- REVIEW COUNT IF KNOWN
+- ADD MORE
 
 ## Prompt
 

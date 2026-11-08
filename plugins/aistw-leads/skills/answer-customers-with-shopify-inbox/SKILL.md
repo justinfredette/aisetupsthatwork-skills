@@ -1,6 +1,6 @@
 ---
 name: answer-customers-with-shopify-inbox
-description: "Answer customers with Shopify Inbox. Shopify Inbox is a free chat app in your Shopify admin. Its opt-in Inbox agent answers customer questions using your product catalog, store policies and Knowledge Base facts. Start with staff replies, review what the agent would say, then turn it on. Use when the user asks for help with this job."
+description: "Answer customers with Shopify Inbox. Shopify Inbox is a free chat app in your Shopify admin. Its opt-in Inbox agent answers customer questions using your product catalog, store policies and."
 ---
 
 # Answer customers with Shopify Inbox
@@ -18,6 +18,11 @@ Store owners who lose sales to slow replies. The Inbox agent answers on its own 
 5. Read Shopify's pages on assigning the Inbox agent and setting its persona and training before you turn anything on.
 6. Turn the agent on for one question type first. Shopify says the agent is opt-in and conversations stay with your staff until you choose.
 7. Review the first week of conversations daily and fix any wrong answers at the source.
+
+## What to ask the user for
+
+- NAME, what you sell
+- ONE or TWO FACTS PER QUESTION
 
 ## Prompt
 

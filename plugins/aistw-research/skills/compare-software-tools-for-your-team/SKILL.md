@@ -1,6 +1,6 @@
 ---
 name: compare-software-tools-for-your-team
-description: "Compare software tools for your team without the sales calls. Define your required features and budget, then have the AI build a scored comparison from review sites like G2 and Capterra. You get a shortlist to trial instead of sitting through five demos. Use when the user asks for help with this job."
+description: "Compare software tools for your team without the sales calls. Define your required features and budget, then have the AI build a scored comparison from review sites like G2 and Capterra. You get a."
 ---
 
 # Compare software tools for your team without the sales calls
@@ -18,6 +18,13 @@ Small business owners and team leads choosing software who want to skip the sale
 5. Read a sample of real reviews yourself, especially the 2 and 3 star ones. That is where the truth lives.
 6. Trial your top two with real work, not a toy project. Two weeks beats two hours of demo.
 7. Decide on fit plus total cost, including onboarding time. The cheapest tool that nobody uses is the most expensive.
+
+## What to ask the user for
+
+- NUMBER
+- MAX PER MONTH, and whether annual billing is OK
+- LIST
+- LIST, e.g. no mobile app, no QuickBooks integration
 
 ## Prompt
 

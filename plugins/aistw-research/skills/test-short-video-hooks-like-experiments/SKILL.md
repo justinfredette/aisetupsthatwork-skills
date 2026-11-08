@@ -1,6 +1,6 @@
 ---
 name: test-short-video-hooks-like-experiments
-description: "Test short video hooks like experiments. For each video, make 3 openings and keep the rest the same. Post them as tests, wait 3 days, and score each as views divided by your usual views. Track sign-ups or sales too, because views alone can mislead. Only call a winner after many posts, not 3. Use when the user asks for help with this job."
+description: "Test short video hooks like experiments. For each video, make 3 openings and keep the rest the same. Post them as tests, wait 3 days, and score each as views divided by your usual views. Track."
 ---
 
 # Test short video hooks like experiments
@@ -17,6 +17,11 @@ Small businesses and creators posting Reels or Shorts who want to know which ope
 4. Wait 3 days, then log views, sign-ups or messages for each.
 5. Score each: views divided by your usual views for a post. Above 1 is better than usual.
 6. After about 30 to 50 tests, write down the patterns that keep winning and use them by default.
+
+## What to ask the user for
+
+- DESCRIPTION
+- AUDIENCE
 
 ## Prompt
 

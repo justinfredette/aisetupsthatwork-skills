@@ -1,6 +1,6 @@
 ---
 name: coordinate-team-volunteer-schedule
-description: "Coordinate a volunteer or team schedule without the group-text chaos. Give AI your event dates, roles, and who is available when. It drafts a fair rotation, writes the call-for-volunteers message, and sets a reminder cadence, so you stop herding people over text. Use when the user asks for help with this job."
+description: "Coordinate a volunteer or team schedule without the group-text chaos. Give AI your event dates, roles, and who is available when. It drafts a fair rotation, writes the call-for-volunteers message."
 ---
 
 # Coordinate a volunteer or team schedule without the group-text chaos

@@ -1,6 +1,6 @@
 ---
 name: car-maintenance-schedule
-description: "Car Maintenance Schedule You Will Actually Follow. Tell ChatGPT your car’s year, make, model, and mileage. You get a maintenance schedule by interval: monthly checks you do yourself, mileage-based services, and seasonal prep, with your owner’s manual as the final word. Use when the user asks for help with this job."
+description: "Car Maintenance Schedule You Will Actually Follow. Tell ChatGPT your car’s year, make, model, and mileage. You get a maintenance schedule by interval: monthly checks you do yourself, mileage-based."
 ---
 
 # Car Maintenance Schedule You Will Actually Follow

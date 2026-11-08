@@ -1,6 +1,6 @@
 ---
 name: write-your-self-review-from-your-notes
-description: "Write your self review from your notes. Gather your wins first, then structure the review as: opening statement, accomplishments with specifics, honest growth areas, and forward goals. Write it as if you are advocating for a colleague to dodge the bragging trap. Use when the user asks for help with this job."
+description: "Write your self review from your notes. Gather your wins first, then structure the review as: opening statement, accomplishments with specifics, honest growth areas, and forward goals. Write it as."
 ---
 
 # Write your self review from your notes
@@ -17,6 +17,12 @@ Employees facing performance review season with a pile of notes and no idea how 
 4. Replace every hedged phrase ("I think I helped") with the plain fact ("I cut report time from 3 days to 1").
 5. Add one or two honest growth areas, each with an action already underway.
 6. Read it as your manager would. Cut anything that needs insider context to understand.
+
+## What to ask the user for
+
+- PASTE PROJECTS, WINS, FEEDBACK, DATES
+- ROLE
+- GOALS
 
 ## Prompt
 

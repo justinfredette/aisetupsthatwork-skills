@@ -1,6 +1,6 @@
 ---
 name: estimate-quarterly-taxes-freelancer
-description: "Estimate your quarterly taxes without the panic. Give the AI last year's total tax and this year's income so far. It figures your quarterly payment using the IRS safe harbor rule, which protects you from underpayment penalties. Use when the user asks for help with this job."
+description: "Estimate your quarterly taxes without the panic. Give the AI last year's total tax and this year's income so far. It figures your quarterly payment using the IRS safe harbor rule, which protects you."
 ---
 
 # Estimate your quarterly taxes without the panic
@@ -18,6 +18,10 @@ A freelancer or self-employed person who owes estimated taxes and wants to avoid
 5. Mark the four deadlines: April 15, June 15, September 15, and January 15.
 6. Pay through IRS Direct Pay or EFTPS. Keep the confirmation.
 7. Remember: safe harbor avoids the penalty, but if you earned more this year, the balance is still due in April.
+
+## What to ask the user for
+
+- AMOUNT
 
 ## Prompt
 
