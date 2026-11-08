@@ -1,6 +1,6 @@
 ---
 name: summarize-long-email-thread-decision
-description: "Turn a Long Email Thread Into a Decision Summary. Copy the email thread into ChatGPT or Claude and ask for three things: what was decided, what is still open, and who owns what. You get the thread's point in seconds instead of reading every reply. Use when the user asks for help with this job."
+description: "Turn a Long Email Thread Into a Decision Summary. Copy the email thread into ChatGPT or Claude and ask for three things: what was decided, what is still open, and who owns what. You get the thread's."
 ---
 
 # Turn a Long Email Thread Into a Decision Summary
@@ -17,6 +17,10 @@ An office worker who gets looped into long reply-all threads and needs the outco
 4. Read the summary. Focus on the 'Still open' and 'Owners' sections, since those tell you what needs action.
 5. Verify the summary against the thread before you act on it. AI can mix up who said what when many people share a first name.
 6. Do not paste threads with confidential company data, customer details, or legal matters into a free chatbot. Use your company's approved AI tool for those.
+
+## What to ask the user for
+
+- PASTE THREAD
 
 ## Prompt
 

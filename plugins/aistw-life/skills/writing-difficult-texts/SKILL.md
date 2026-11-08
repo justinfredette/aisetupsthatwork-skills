@@ -1,6 +1,6 @@
 ---
 name: writing-difficult-texts
-description: "Writing Difficult Texts: Boundaries and Apologies That Sound Like You. Describe the situation, who it is for, and the tone you want. ChatGPT drafts the text. Then you rewrite it in your own words before sending, because an unedited AI apology reads like an AI apology. Use when the user asks for help with this job."
+description: "Writing Difficult Texts: Boundaries and Apologies That Sound Like You. Describe the situation, who it is for, and the tone you want. ChatGPT drafts the text. Then you rewrite it in your own words."
 ---
 
 # Writing Difficult Texts: Boundaries and Apologies That Sound Like You

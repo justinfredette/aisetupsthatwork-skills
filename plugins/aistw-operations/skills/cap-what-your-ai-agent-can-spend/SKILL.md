@@ -1,6 +1,6 @@
 ---
 name: cap-what-your-ai-agent-can-spend
-description: "Cap what your AI agent can spend. Give each agent its own project or workspace with its own key, set a monthly spend limit below what you can afford to lose, and add an alert at half. Anthropic and OpenAI both let you set your own limits. Add a line to client contracts on who pays for runaway usage. Use when the user asks for help with this job."
+description: "Cap what your AI agent can spend. Give each agent its own project or workspace with its own key, set a monthly spend limit below what you can afford to lose, and add an alert at half. Anthropic and."
 ---
 
 # Cap what your AI agent can spend
@@ -17,6 +17,12 @@ Owners and builders running agents on pay-as-you-go API keys, especially for cli
 4. Set an alert at about half the limit so you hear before it stops.
 5. Use the prompt below to write a short clause for client work on usage limits and who pays for overruns.
 6. Check spend weekly for the first month and adjust.
+
+## What to ask the user for
+
+- DESCRIPTION
+- AMOUNT
+- CLIENT OR ME
 
 ## Prompt
 

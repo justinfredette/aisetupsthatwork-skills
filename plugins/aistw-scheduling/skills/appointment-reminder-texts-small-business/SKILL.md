@@ -1,6 +1,6 @@
 ---
 name: appointment-reminder-texts-small-business
-description: "Write appointment reminder texts for your small business. Have AI draft your confirmation, 48-hour reminder, and day-of texts. Customers read texts in minutes, and a simple reminder sequence cuts no-shows. You still send them yourself or paste them into your booking tool. Use when the user asks for help with this job."
+description: "Write appointment reminder texts for your small business. Have AI draft your confirmation, 48-hour reminder, and day-of texts. Customers read texts in minutes, and a simple reminder sequence cuts."
 ---
 
 # Write appointment reminder texts for your small business

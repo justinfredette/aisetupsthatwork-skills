@@ -1,6 +1,6 @@
 ---
 name: reply-to-an-unreasonable-refund-request
-description: "Reply to an unreasonable refund request. Do not argue the policy. Acknowledge the frustration, decline the refund clearly, and offer a concrete alternative. A short script keeps you professional and ends the exchange faster. Use when the user asks for help with this job."
+description: "Reply to an unreasonable refund request. Do not argue the policy. Acknowledge the frustration, decline the refund clearly, and offer a concrete alternative. A short script keeps you professional and."
 ---
 
 # Reply to an unreasonable refund request
@@ -17,6 +17,11 @@ Small business owners who get angry refund demands that fall outside their state
 4. Read the draft out loud. Cut anything defensive or sarcastic before sending.
 5. Send it yourself, then log the exchange in one line (date, customer, outcome) for your records.
 6. If they threaten a chargeback, keep all messages and your policy page; do not escalate in writing.
+
+## What to ask the user for
+
+- PASTE THEIR MESSAGE
+- PASTE POLICY OR DESCRIBE IT
 
 ## Prompt
 

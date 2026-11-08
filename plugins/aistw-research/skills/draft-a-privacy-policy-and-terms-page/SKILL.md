@@ -1,6 +1,6 @@
 ---
 name: draft-a-privacy-policy-and-terms-page
-description: "Draft a Privacy Policy and Terms Page for Your Site. This is not legal advice. A privacy policy must honestly describe what data you collect and what you do with it; terms set the rules for using your site. Draft both with AI, then have a lawyer review before they go live. Use when the user asks for help with this job."
+description: "Draft a Privacy Policy and Terms Page for Your Site. This is not legal advice. A privacy policy must honestly describe what data you collect and what you do with it; terms set the rules for using."
 ---
 
 # Draft a Privacy Policy and Terms Page for Your Site
@@ -18,6 +18,10 @@ Site owners who need policy pages before launch. This is not legal advice; a law
 5. Add a visible last-updated date to the privacy policy.
 6. Use clickwrap for terms: a checkbox or button where users affirmatively agree, which courts favor over a passive link.
 7. Have a lawyer review both pages against your actual practices, then publish and update them whenever your billing, features, or data practices change.
+
+## What to ask the user for
+
+- LAWYER REVIEW
 
 ## Prompt
 

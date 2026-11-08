@@ -1,6 +1,6 @@
 ---
 name: journal-with-ai-with-limits
-description: "Journal With AI and Know Where to Stop. AI can help you organize thoughts, generate reflection questions, and spot patterns in your journaling. It is not a therapist, it cannot diagnose anything, and you should never rely on it in a crisis. Use when the user asks for help with this job."
+description: "Journal With AI and Know Where to Stop. AI can help you organize thoughts, generate reflection questions, and spot patterns in your journaling. It is not a therapist, it cannot diagnose anything."
 ---
 
 # Journal With AI and Know Where to Stop

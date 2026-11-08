@@ -1,6 +1,6 @@
 ---
 name: schedule-bill-payments-with-ai
-description: "Schedule bill payments so nothing is late. Feed AI your bills and your paydays. It builds a payment schedule that lines due dates up with your paychecks, tells you which bills to put on autopay, and sets calendar reminders for the rest. Use when the user asks for help with this job."
+description: "Schedule bill payments so nothing is late. Feed AI your bills and your paydays. It builds a payment schedule that lines due dates up with your paychecks, tells you which bills to put on autopay, and."
 ---
 
 # Schedule bill payments so nothing is late

@@ -1,6 +1,6 @@
 ---
 name: connect-notetaker-tasks-and-email-to-ai
-description: "Connect notes, tasks and email to AI. Both Claude and ChatGPT let you connect apps such as Gmail, Google Calendar and Google Drive. Claude's help center says it asks for your approval by default before it sends, replies to or forwards email. Notetaker and task-app connectors: Not stated in sources. Use when the user asks for help with this job."
+description: "Connect notes, tasks and email to AI. Both Claude and ChatGPT let you connect apps such as Gmail, Google Calendar and Google Drive. Claude's help center says it asks for your approval by default."
 ---
 
 # Connect notes, tasks and email to AI
@@ -18,6 +18,10 @@ Busy owners and managers who keep pasting emails and meeting notes into a chat. 
 5. Start with read-only questions, such as find the last email from a client about a quote. Check that the answer matches your inbox.
 6. Ask for drafts only. Claude's help center says it asks for approval before it sends, replies or forwards by default. Keep that on.
 7. Review connections now and then. ChatGPT says you can manage a connected account from Settings > Plugins.
+
+## What to ask the user for
+
+- CLIENT NAME
 
 ## Prompt
 

@@ -1,6 +1,6 @@
 ---
 name: salon-appointment-service-register-with-chatgpt
-description: "Salon Appointment Register, ChatGPT. Here's how I'd set this up in ChatGPT or Claude. By default I'd run it on made-up example rows: appointment labels with requested services and lifecycle facts exactly as recorded, out comes one register that keeps requested, booked, confirmed, completed, cancelled, no-show and not-recorded as separate states. Real records go in only if the business has explicitly authorized this environment for them - and a confirmed appointment is never a completed service. Use when the user asks for help with this job."
+description: "Salon Appointment Register, ChatGPT. Here's how I'd set this up in ChatGPT or Claude. By default I'd run it on made-up example rows: appointment labels with requested services and lifecycle facts."
 ---
 
 # Salon Appointment Register, ChatGPT

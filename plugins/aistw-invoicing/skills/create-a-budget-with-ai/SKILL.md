@@ -1,6 +1,6 @@
 ---
 name: create-a-budget-with-ai
-description: "How to Use AI to Create a Budget (Copy-Paste Prompt). I paste my monthly take-home, fixed bills, and debt minimums into ChatGPT, ask for a zero-based or 50/30/20 draft with line items I can edit in a spreadsheet, then I move money myself; the AI does not touch my bank. Use when the user asks for help with this job."
+description: "How to Use AI to Create a Budget (Copy-Paste Prompt). I paste my monthly take-home, fixed bills, and debt minimums into ChatGPT, ask for a zero-based or 50/30/20 draft with line items I can edit in."
 ---
 
 # How to Use AI to Create a Budget (Copy-Paste Prompt)
@@ -19,6 +19,10 @@ Households that know their paycheck but lose track after rent, subscriptions, an
 6. Re-run monthly with updated totals. Treat chat as a planner, not a bank feed.
 7. Export a CSV from your bank and redact account numbers. Summarize it into category totals yourself in a spreadsheet, or use an offline tool that runs locally with no upload. The chatbot should only ever see totals, never raw transactions.
 8. Paste the category totals into the prompt and ask: which three categories grew most this month, and what is one cut per category? Check every number against your sheet before you act on it.
+
+## What to ask the user for
+
+- 50/30/20 / zero-based / envelope categories
 
 ## Prompt
 

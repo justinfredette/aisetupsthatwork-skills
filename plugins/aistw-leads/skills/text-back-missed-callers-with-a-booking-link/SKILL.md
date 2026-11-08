@@ -1,6 +1,6 @@
 ---
 name: text-back-missed-callers-with-a-booking-link
-description: "Text back missed callers with a booking link. Turn on your phone system's missed-call auto-reply and use AI to write a short text: your business name, sorry we missed you, a booking link and a reply option. Keep it under 160 characters, and check replies between appointments. Use when the user asks for help with this job."
+description: "Text back missed callers with a booking link. Turn on your phone system's missed-call auto-reply and use AI to write a short text: your business name, sorry we missed you, a booking link and a reply."
 ---
 
 # Text back missed callers with a booking link
@@ -17,6 +17,11 @@ Salons, barbers, groomers and trades who cannot pick up mid-appointment and lose
 4. Turn on the auto-reply with that text and test it by calling from another phone.
 5. Between appointments, read replies and answer anything the booking link does not cover.
 6. After two weeks, compare missed calls to bookings from the link.
+
+## What to ask the user for
+
+- NAME
+- LINK
 
 ## Prompt
 
@@ -36,12 +41,20 @@ Rules: under 160 characters, friendly, says who we are, gives the booking link a
 
 - Draft first and show the user. Never send, post, pay, book, cancel or delete without the user's explicit approval of that exact action.
 - Use only facts the user gives you or that you can cite. If something is missing, ask instead of guessing.
+- The missed-call text is the one message that goes out on its own. The user approves its exact wording once, when they set it up in their phone system. Claude only drafts the options and never turns it on.
 
 ## Common snags
 
 - Texting landlines and business lines that cannot receive texts.
 - A booking link that needs a login.
 - Auto-replies going out at 2 AM to spam calls; pair it with call screening.
+- These texts ran 144 to 156 characters. If your phone system adds "Reply STOP to opt out", each one goes past 160, so shorten the text or the link.
+
+## Tested
+
+Ran on Claude in a fresh chat, Nov 7, 2026: a made-up plumbing business got 3 missed-call texts of 156, 144 and 145 characters, each with the business name, the booking link and a reply option, and no price or open-slot promise. No phone system was set up and no text was sent.
+
+The full receipt is on https://www.aisetupsthatwork.com/setups/text-back-missed-callers-with-a-booking-link/
 
 ## Source
 

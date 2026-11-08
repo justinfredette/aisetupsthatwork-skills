@@ -1,6 +1,6 @@
 ---
 name: restaurant-review-response-templates
-description: "Restaurant Review Replies: Templates for Yelp, Google, and TripAdvisor. Build six starter templates: 5-star food, 5-star service, mixed 3-star, 1-star food, 1-star service, and suspected fake. Personalize each with one real detail before posting. Use when the user asks for help with this job."
+description: "Restaurant Review Replies: Templates for Yelp, Google, and TripAdvisor. Build six starter templates: 5-star food, 5-star service, mixed 3-star, 1-star food, 1-star service, and suspected fake."
 ---
 
 # Restaurant Review Replies: Templates for Yelp, Google, and TripAdvisor
@@ -17,6 +17,10 @@ Restaurant, cafe, bar, and food truck owners who get reviewed constantly and nee
 4. For each new review, pick the closest template and rewrite it around one detail from the actual review.
 5. Post it yourself. Never auto-post, and never let the template show: change the opener every time.
 6. Once a month, read your last 20 replies in a row. If they blur together, refresh the templates.
+
+## What to ask the user for
+
+- 2-3
 
 ## Prompt
 

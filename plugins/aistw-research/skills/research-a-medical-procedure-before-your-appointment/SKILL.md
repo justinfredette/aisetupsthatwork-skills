@@ -1,6 +1,6 @@
 ---
 name: research-a-medical-procedure-before-your-appointment
-description: "Research a medical procedure before your appointment. Ask the AI to explain the procedure in plain language, list the standard questions to ask your surgeon, and summarize recovery timelines. You walk in prepared instead of drawing a blank. Use when the user asks for help with this job."
+description: "Research a medical procedure before your appointment. Ask the AI to explain the procedure in plain language, list the standard questions to ask your surgeon, and summarize recovery timelines. You."
 ---
 
 # Research a medical procedure before your appointment
@@ -18,6 +18,11 @@ Anyone facing a surgery or procedure who wants to understand it and ask good que
 5. Print or save the question list and bring it. People forget half their questions in the room.
 6. After the appointment, compare what your doctor said against the briefing and follow up on anything that conflicts.
 7. Make the decision with your doctor, not with the AI. The AI prepares you; it does not diagnose or recommend.
+
+## What to ask the user for
+
+- EXACT NAME
+- DIAGNOSIS OR SYMPTOMS, AS YOUR DOCTOR DESCRIBED THEM
 
 ## Prompt
 

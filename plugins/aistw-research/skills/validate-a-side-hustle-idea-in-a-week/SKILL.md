@@ -1,6 +1,6 @@
 ---
 name: validate-a-side-hustle-idea-in-a-week
-description: "Validate a Side Hustle Idea in One Week. Spend Friday mapping where customers complain and naming 10 people to contact, Saturday running 5 conversations about past behavior, and Sunday testing with a cheap landing page or pre-sale. Set kill criteria before you start: weak interest means the framework worked, not that you failed. Use when the user asks for help with this job."
+description: "Validate a Side Hustle Idea in One Week. Spend Friday mapping where customers complain and naming 10 people to contact, Saturday running 5 conversations about past behavior, and Sunday testing with."
 ---
 
 # Validate a Side Hustle Idea in One Week

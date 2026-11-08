@@ -1,6 +1,6 @@
 ---
 name: audit-your-calendar-with-ai
-description: "Audit your calendar with AI and take hours back. Export two to four weeks of calendar data and let AI categorize every recurring meeting: keep, shorten, delegate, or kill. Most people find hours a week they did not know they were losing. Use when the user asks for help with this job."
+description: "Audit your calendar with AI and take hours back. Export two to four weeks of calendar data and let AI categorize every recurring meeting: keep, shorten, delegate, or kill. Most people find hours a."
 ---
 
 # Audit your calendar with AI and take hours back

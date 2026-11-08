@@ -1,6 +1,6 @@
 ---
 name: cut-home-energy-use-with-ai
-description: "Cut home energy use with AI. Give the AI your last few utility bills and basic facts about the house. It ranks where your energy is going and tells you which fixes to do first, cheapest first. Use when the user asks for help with this job."
+description: "Cut home energy use with AI. Give the AI your last few utility bills and basic facts about the house. It ranks where your energy is going and tells you which fixes to do first, cheapest first."
 ---
 
 # Cut home energy use with AI

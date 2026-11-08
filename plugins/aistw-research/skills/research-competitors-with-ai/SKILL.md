@@ -1,6 +1,6 @@
 ---
 name: research-competitors-with-ai
-description: "Research competitors through your customer’s eyes. Build a competitor comparison from public websites, ads, and reviews. Positioning, pricing, strengths, and the one question they answer better than you, then turn it into copy and one test. Use when the user asks for help with this job."
+description: "Research competitors through your customer’s eyes. Build a competitor comparison from public websites, ads, and reviews. Positioning, pricing, strengths, and the one question they answer better than."
 ---
 
 # Research competitors through your customer’s eyes
@@ -17,6 +17,10 @@ Small business owners who know they should watch competitors but never find a fr
 4. For blocked pages, upload screenshots with the URL and capture date.
 5. Ask it to compare the sites through three customer perspectives: first-time visitor, price shopper, skeptic.
 6. End with one table: positioning, pricing, strengths, weaknesses, and your single biggest opening.
+
+## What to ask the user for
+
+- 1-3 names + website URLs
 
 ## Prompt
 

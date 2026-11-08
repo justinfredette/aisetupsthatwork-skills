@@ -1,6 +1,6 @@
 ---
 name: research-a-used-car-before-buying-with-ai
-description: "Research a used car before you buy: reliability, price, and scams. Give the AI the exact year, make, model, and mileage, and ask for known reliability issues, fair price range, and a pre-purchase checklist. You walk into the deal knowing what to check and what the car should cost. Use when the user asks for help with this job."
+description: "Research a used car before you buy: reliability, price, and scams. Give the AI the exact year, make, model, and mileage, and ask for known reliability issues, fair price range, and a pre-purchase."
 ---
 
 # Research a used car before you buy: reliability, price, and scams
@@ -18,6 +18,13 @@ Anyone shopping for a used car who wants to avoid overpaying or buying someone e
 5. Run a vehicle history report (Carfax or AutoCheck) yourself. The AI cannot do this for you.
 6. Book an independent mechanic inspection before you agree to anything. This step is not optional.
 7. Use the AI’s price range and the inspection results to negotiate or walk away.
+
+## What to ask the user for
+
+- DETAILS
+- NUMBER
+- AMOUNT
+- CITY, STATE
 
 ## Prompt
 

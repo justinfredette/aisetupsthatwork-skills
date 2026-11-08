@@ -1,6 +1,6 @@
 ---
 name: task-breakdown-with-ai-for-adhd
-description: "Break an Overwhelming Task Into Small Steps With AI. Write the task down in one sentence and ask the AI to split it into steps no longer than 10 minutes each. You only do the first step; the rest wait their turn. Use when the user asks for help with this job."
+description: "Break an Overwhelming Task Into Small Steps With AI. Write the task down in one sentence and ask the AI to split it into steps no longer than 10 minutes each. You only do the first step; the rest."
 ---
 
 # Break an Overwhelming Task Into Small Steps With AI

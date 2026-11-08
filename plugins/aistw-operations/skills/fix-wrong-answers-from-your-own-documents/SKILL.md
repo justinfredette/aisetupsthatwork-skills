@@ -1,6 +1,6 @@
 ---
 name: fix-wrong-answers-from-your-own-documents
-description: "Fix wrong answers from your own documents. Before switching models, check the files: old versions, two documents that disagree, or a long file where the rule is buried. Remove outdated files, put the key rules in one short cheat sheet, tell it to quote the file it used, and re-test with questions you know the answers to. Use when the user asks for help with this job."
+description: "Fix wrong answers from your own documents. Before switching models, check the files: old versions, two documents that disagree, or a long file where the rule is buried. Remove outdated files, put."
 ---
 
 # Fix wrong answers from your own documents
@@ -17,6 +17,10 @@ Owners using a Claude or ChatGPT project, or a support bot, that answers from th
 4. Add the instruction from the prompt below so it quotes its source and says when files disagree.
 5. Re-test with your 5 known questions, including the one it got wrong.
 6. Only consider a different model after the files and instructions are clean.
+
+## What to ask the user for
+
+- THE QUESTION IT GOT WRONG
 
 ## Prompt
 

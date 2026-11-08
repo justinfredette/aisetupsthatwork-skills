@@ -1,6 +1,6 @@
 ---
 name: writing-a-rental-listing
-description: "Write a Rental Listing That Gets Replies. Give ChatGPT the property facts: rent, beds, baths, square feet, pet policy, parking, and the best features. You get a headline plus a description that leads with the strongest selling point and ends with a call to action. Use when the user asks for help with this job."
+description: "Write a Rental Listing That Gets Replies. Give ChatGPT the property facts: rent, beds, baths, square feet, pet policy, parking, and the best features. You get a headline plus a description that."
 ---
 
 # Write a Rental Listing That Gets Replies

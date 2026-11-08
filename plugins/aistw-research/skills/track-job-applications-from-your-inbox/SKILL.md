@@ -1,6 +1,6 @@
 ---
 name: track-job-applications-from-your-inbox
-description: "Track job applications from your inbox. Have the AI build a tracker with one row per application, then fill it from your application confirmation emails. Anything with no reply after 7 days gets flagged and a short follow-up drafted for you to send. Once a week, ask for a digest: sent, replies, interviews. Use when the user asks for help with this job."
+description: "Track job applications from your inbox. Have the AI build a tracker with one row per application, then fill it from your application confirmation emails. Anything with no reply after 7 days gets."
 ---
 
 # Track job applications from your inbox
@@ -17,6 +17,10 @@ Job seekers with dozens of applications out who lose track of who replied and wh
 4. Each morning, filter for FOLLOW UP. Draft a two-line follow-up for each and send it yourself.
 5. Update status as replies arrive: Replied, Interview, Rejected, Offer.
 6. Each Friday, ask for the digest: sent, replies, interviews, and which resume version got replies.
+
+## What to ask the user for
+
+- PASTE CONFIRMATION EMAILS
 
 ## Prompt
 

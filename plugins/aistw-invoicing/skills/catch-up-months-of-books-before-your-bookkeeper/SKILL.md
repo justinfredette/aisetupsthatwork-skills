@@ -1,6 +1,6 @@
 ---
 name: catch-up-months-of-books-before-your-bookkeeper
-description: "Catch up months of books before your bookkeeper. Export each month of bank and card transactions as CSV, remove account numbers, and have the AI suggest categories, flag duplicates and list what needs a receipt. Fix the flags yourself, then give your bookkeeper the sorted file and the questions list. Less mess usually means fewer billable hours. Use when the user asks for help with this job."
+description: "Catch up months of books before your bookkeeper. Export each month of bank and card transactions as CSV, remove account numbers, and have the AI suggest categories, flag duplicates and list what."
 ---
 
 # Catch up months of books before your bookkeeper
@@ -17,6 +17,12 @@ Owners months behind on books, often across several businesses, facing a catch-u
 4. Work the flags: find receipts, answer the questions, split mixed personal and business charges.
 5. Keep records. The IRS says to keep records that show income and expenses, generally at least 3 years, and employment tax records at least 4.
 6. Give your bookkeeper the sorted file and the open questions, and ask for a quote on the remaining work.
+
+## What to ask the user for
+
+- MONTH
+- BUSINESS NAME
+- LIST
 
 ## Prompt
 

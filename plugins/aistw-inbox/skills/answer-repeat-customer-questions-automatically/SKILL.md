@@ -1,6 +1,6 @@
 ---
 name: answer-repeat-customer-questions-automatically
-description: "Answer repeat customer questions automatically. Write down the ten questions you answer over and over, put the approved answers in one place, and let a simple chatbot or FAQ page handle them. You only step in when it cannot answer confidently. Use when the user asks for help with this job."
+description: "Answer repeat customer questions automatically. Write down the ten questions you answer over and over, put the approved answers in one place, and let a simple chatbot or FAQ page handle them. You."
 ---
 
 # Answer repeat customer questions automatically
@@ -18,6 +18,10 @@ Small business owners answering the same five questions daily who cannot hire su
 5. Point the bot at your approved answers only. HubSpot’s documented pattern: a searchable knowledge base plus an AI agent that answers from synced articles and transfers the conversation when it cannot answer confidently.
 6. Set the handoff rule in plain words: billing disputes, cancellations, angry customers, and anything security-related go to a human immediately.
 7. Start narrow. HubSpot advises starting with a small set of high-volume questions, syncing only current approved sources, and testing answers and handoff behavior before expanding.
+
+## What to ask the user for
+
+- VERIFY
 
 ## Prompt
 

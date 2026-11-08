@@ -1,6 +1,6 @@
 ---
 name: compare-colleges-side-by-side-with-ai
-description: "Compare colleges side by side: cost, grad rates, and outcomes. Give the AI your shortlist of schools plus your family income range, and ask for a table of net price, graduation rate, median debt, and earnings. You compare real outcomes instead of brochure gloss. Use when the user asks for help with this job."
+description: "Compare colleges side by side: cost, grad rates, and outcomes. Give the AI your shortlist of schools plus your family income range, and ask for a table of net price, graduation rate, median debt."
 ---
 
 # Compare colleges side by side: cost, grad rates, and outcomes
@@ -17,6 +17,11 @@ Parents and students narrowing a college list who want numbers, not viewbook pho
 4. Verify the two or three most important numbers on the College Scorecard site yourself.
 5. Ask the AI to flag which schools are strong or weak on value: low debt plus decent earnings beats prestige alone.
 6. Add your non-number factors: distance, size, programs, campus feel. Numbers narrow the list; visits decide it.
+
+## What to ask the user for
+
+- LIST 3 TO 6 SCHOOLS
+- MAJOR OR "undecided"
 
 ## Prompt
 

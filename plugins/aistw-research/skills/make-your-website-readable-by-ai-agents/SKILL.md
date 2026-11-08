@@ -1,6 +1,6 @@
 ---
 name: make-your-website-readable-by-ai-agents
-description: "Make your website readable by AI. Two things matter most: your robots.txt must let the AI crawlers you want in, and your key pages should be plain readable text. The llms.txt file is a proposal: an H1 title, a short summary, and lists of links to your best pages. Use when the user asks for help with this job."
+description: "Make your website readable by AI. Two things matter most: your robots.txt must let the AI crawlers you want in, and your key pages should be plain readable text. The llms.txt file is a proposal: an."
 ---
 
 # Make your website readable by AI
@@ -18,6 +18,12 @@ Owners of a small business website who want AI assistants to be able to read it.
 5. Upload it at yoursite.com/llms.txt. Check that every link in it opens and goes to a page with readable text.
 6. The proposal also suggests a clean markdown version of key pages at the same address with .md added. Skip it if your site builder cannot do that.
 7. Run the AI-ready check again and compare it with the before copy.
+
+## What to ask the user for
+
+- NAME
+- WHAT YOU DO, WHERE, FOR WHOM
+- PAGE NAME - URL - what it covers in a few words
 
 ## Prompt
 

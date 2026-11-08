@@ -1,6 +1,6 @@
 ---
 name: compare-phone-and-internet-plans-with-ai
-description: "Compare phone and internet plans without the fine-print headache. Tell the AI your monthly data use, speed needs, and budget, then paste in the plan details. It builds a true-cost table so you compare the full yearly cost, not just the promo price. Use when the user asks for help with this job."
+description: "Compare phone and internet plans without the fine-print headache. Tell the AI your monthly data use, speed needs, and budget, then paste in the plan details. It builds a true-cost table so you."
 ---
 
 # Compare phone and internet plans without the fine-print headache
@@ -17,6 +17,16 @@ Anyone paying for phone and internet who suspects the promo rate expired months 
 4. Ask the AI to flag promo pricing that expires, equipment fees, and early termination fees separately.
 5. Check the two or three cheapest options against coverage maps for your address before you decide.
 6. Call your current provider with the comparison in hand and ask them to match it. Many will.
+
+## What to ask the user for
+
+- AMOUNT
+- GB OR "not sure"
+- NUMBER
+- MAX PER MONTH
+- PASTE PLAN 1 DETAILS
+- PASTE PLAN 2 DETAILS
+- PASTE PLAN 3 DETAILS
 
 ## Prompt
 

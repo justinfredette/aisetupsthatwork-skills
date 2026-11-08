@@ -1,6 +1,6 @@
 ---
 name: baby-and-toddler-sleep-schedule-with-ai
-description: "Build a Baby or Toddler Sleep Schedule With AI. Give AI your child's age, current wake windows, and nap pattern, and get a draft daily schedule with bedtime routine. Check it against pediatric sleep ranges and your pediatrician, since every child is different. Use when the user asks for help with this job."
+description: "Build a Baby or Toddler Sleep Schedule With AI. Give AI your child's age, current wake windows, and nap pattern, and get a draft daily schedule with bedtime routine. Check it against pediatric sleep."
 ---
 
 # Build a Baby or Toddler Sleep Schedule With AI

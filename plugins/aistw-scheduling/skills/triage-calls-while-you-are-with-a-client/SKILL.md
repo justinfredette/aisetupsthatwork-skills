@@ -1,6 +1,6 @@
 ---
 name: triage-calls-while-you-are-with-a-client
-description: "Let only urgent calls through mid-appointment. Set up a work Focus on your phone that only rings for people you choose and anyone who calls twice within 3 minutes, which Apple calls repeated calls. Everyone else goes to voicemail and gets your missed-call text. Use AI to decide who belongs on the list. Use when the user asks for help with this job."
+description: "Let only urgent calls through mid-appointment. Set up a work Focus on your phone that only rings for people you choose and anyone who calls twice within 3 minutes, which Apple calls repeated calls."
 ---
 
 # Let only urgent calls through mid-appointment
@@ -17,6 +17,10 @@ Owners who answer their own phone but cannot stop mid-service for every call.
 4. Add your ring-through list and turn on repeated calls, so a real emergency gets through on the second try.
 5. Schedule the Focus for your working hours.
 6. Pair it with a missed-call booking text so everyone else still gets an answer.
+
+## What to ask the user for
+
+- LIST
 
 ## Prompt
 

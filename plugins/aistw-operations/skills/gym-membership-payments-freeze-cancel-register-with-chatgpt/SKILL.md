@@ -1,6 +1,6 @@
 ---
 name: gym-membership-payments-freeze-cancel-register-with-chatgpt
-description: "Gym Payments Status Register, ChatGPT. Here's how I'd set this up in ChatGPT or Claude. By default I'd run it on made-up example rows: member labels with facts exactly as recorded - dues amounts, payment events, freeze and cancellation requests with their status - out comes one register that keeps quoted, charged and paid as separate facts, computes a balance only from a complete dated ledger, and never decides what anyone owes. Real records go in only in a specifically authorized, safeguarded environment. Use when the user asks for help with this job."
+description: "Gym Payments Status Register, ChatGPT. Here's how I'd set this up in ChatGPT or Claude. By default I'd run it on made-up example rows: member labels with facts exactly as recorded - dues amounts."
 ---
 
 # Gym Payments Status Register, ChatGPT

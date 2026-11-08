@@ -1,6 +1,6 @@
 ---
 name: bedtime-routine-that-winds-kids-down
-description: "Bedtime Routine That Actually Winds Kids Down. Describe your kids’ ages, current bedtime chaos, and what time sleep needs to happen. ChatGPT drafts a short, same-order nightly sequence with a wind-down window. You run it the same way every night. Repetition is the whole trick. Use when the user asks for help with this job."
+description: "Bedtime Routine That Actually Winds Kids Down. Describe your kids’ ages, current bedtime chaos, and what time sleep needs to happen. ChatGPT drafts a short, same-order nightly sequence with a."
 ---
 
 # Bedtime Routine That Actually Winds Kids Down

@@ -1,6 +1,6 @@
 ---
 name: keep-your-agent-from-getting-your-account-locked
-description: "Keep your agent from getting your account locked. Platforms watch for automated activity. Meta's terms forbid collecting data by automated means without permission, even when logged in. Use official apps, APIs or exports instead of having an agent click through a site, limit how often it runs, and make it stop and tell you at any login check or warning. Use when the user asks for help with this job."
+description: "Keep your agent from getting your account locked. Platforms watch for automated activity. Meta's terms forbid collecting data by automated means without permission, even when logged in. Use official."
 ---
 
 # Keep your agent from getting your account locked
@@ -17,6 +17,10 @@ Owners whose agent logs into social, ad or marketplace accounts to read insights
 4. Add the rules from the prompt below to the agent's instructions.
 5. Turn on two-factor sign-in and keep a recovery method you control, in case of a lock.
 6. If an account gets flagged, stop the agent on that account before appealing.
+
+## What to ask the user for
+
+- OFFICIAL APPS, APIS, EXPORTS
 
 ## Prompt
 

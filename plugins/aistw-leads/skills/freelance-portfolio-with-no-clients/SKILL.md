@@ -1,6 +1,6 @@
 ---
 name: freelance-portfolio-with-no-clients
-description: "Build a freelance portfolio with no clients. Make two or three sample projects \"as if\" for a real client, label them honestly as samples, and write one line per piece on the problem and what you made. That is a portfolio; waiting for clients is not a plan. Use when the user asks for help with this job."
+description: "Build a freelance portfolio with no clients. Make two or three sample projects \"as if\" for a real client, label them honestly as samples, and write one line per piece on the problem and what you."
 ---
 
 # Build a freelance portfolio with no clients

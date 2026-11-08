@@ -1,6 +1,6 @@
 ---
 name: negotiate-a-lower-internet-bill-with-chatgpt
-description: "Negotiate a Lower Internet Bill with ChatGPT. Here's how I'd set this up in ChatGPT or Claude (not run by us yet). I'd pull my plan's broadband label from my provider account, check what other providers charge at my address, then rehearse the retention call in chat before I call or message the provider myself. Use when the user asks for help with this job."
+description: "Negotiate a Lower Internet Bill with ChatGPT. Here's how I'd set this up in ChatGPT or Claude (not run by us yet). I'd pull my plan's broadband label from my provider account, check what other."
 ---
 
 # Negotiate a Lower Internet Bill with ChatGPT

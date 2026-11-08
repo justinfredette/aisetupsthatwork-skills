@@ -1,6 +1,6 @@
 ---
 name: scam-text-checklist-before-you-click
-description: "Scam text checklist before you click. The FTC says not to click links in an unexpected text that asks for personal or financial information, because legitimate companies will not ask for account details by text. If it might be real, contact the company with a phone number or website you already know. Forward scam texts to 7726. Use when the user asks for help with this job."
+description: "Scam text checklist before you click. The FTC says not to click links in an unexpected text that asks for personal or financial information, because legitimate companies will not ask for account."
 ---
 
 # Scam text checklist before you click

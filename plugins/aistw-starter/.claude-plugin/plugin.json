@@ -1,0 +1,17 @@
+{
+  "name": "aistw-starter",
+  "description": "Small Business Starter: start here. Five Tested jobs: missed-call texts, quotes, quote follow-ups, who owes you what, and writing in your voice. Each one was run for real and has a receipt.",
+  "version": "1.0.20261108",
+  "author": {
+    "name": "AI Setups That Work",
+    "url": "https://www.aisetupsthatwork.com"
+  },
+  "homepage": "https://www.aisetupsthatwork.com/library/",
+  "repository": "https://github.com/justinfredette/aisetupsthatwork-skills",
+  "license": "SEE LICENSE IN LICENSE",
+  "keywords": [
+    "small-business",
+    "productivity",
+    "aisetupsthatwork"
+  ]
+}

@@ -1,6 +1,6 @@
 ---
 name: summarize-school-emails-for-parents
-description: "Turn a Week of School Emails Into One Summary. Once a week, gather the school emails you received and have AI pull out the dates, forms due, and action items into one short list. You stop rereading newsletters and stop missing deadlines. Use when the user asks for help with this job."
+description: "Turn a Week of School Emails Into One Summary. Once a week, gather the school emails you received and have AI pull out the dates, forms due, and action items into one short list. You stop rereading."
 ---
 
 # Turn a Week of School Emails Into One Summary
@@ -17,6 +17,11 @@ A parent who gets 20 school emails a week and is afraid of missing a permission 
 4. Paste the emails into Claude or ChatGPT with the prompt below. Include your kids' names and grades so the AI sorts by child.
 5. Read the resulting list. Put every date on your calendar right then, before you close the tab.
 6. Delete or archive everything in the folder once it is summarized. If it is on your calendar or in the summary, the email is done.
+
+## What to ask the user for
+
+- NAMES AND GRADES, e.g. Connor, 6th grade
+- PASTE EMAILS
 
 ## Prompt
 

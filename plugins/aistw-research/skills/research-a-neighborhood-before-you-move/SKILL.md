@@ -1,6 +1,6 @@
 ---
 name: research-a-neighborhood-before-you-move
-description: "Research a neighborhood before you move. Give the AI your must-haves and a few candidate neighborhoods, and ask for a comparison of safety data, schools, commute, walkability, and home values. You shortlist with data, then visit in person. Use when the user asks for help with this job."
+description: "Research a neighborhood before you move. Give the AI your must-haves and a few candidate neighborhoods, and ask for a comparison of safety data, schools, commute, walkability, and home values. You."
 ---
 
 # Research a neighborhood before you move
@@ -20,6 +20,12 @@ Anyone relocating or house hunting who wants to narrow neighborhoods with data b
 7. Talk to a neighbor or two. Ask what surprised them about living there.
 8. Once you have picked the neighborhood, set the moving date and work backwards. Ask the AI to build a week-by-week checklist from 8 weeks out: book the mover, pack, file address changes, transfer utilities, and prep the final week.
 9. Have it put each task in the right week for your move type (local or long distance, renting or buying): mover quotes early, address changes and utilities 2 to 4 weeks out, an essentials box for the final week.
+
+## What to ask the user for
+
+- NEIGHBORHOOD OR ZIP 1
+- HOME TYPE
+- WORK LOCATION
 
 ## Prompt
 

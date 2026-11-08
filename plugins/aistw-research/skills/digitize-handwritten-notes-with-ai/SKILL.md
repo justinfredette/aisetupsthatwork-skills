@@ -1,6 +1,6 @@
 ---
 name: digitize-handwritten-notes-with-ai
-description: "Turn Handwritten Notes Into Searchable Text. Snap a photo of the page and run it through free OCR: Google Drive’s \"Open with Google Docs\" on desktop, or Apple Live Text on iPhone. Handwriting recognition is imperfect, so proofread the result. Use when the user asks for help with this job."
+description: "Turn Handwritten Notes Into Searchable Text. Snap a photo of the page and run it through free OCR: Google Drive’s \"Open with Google Docs\" on desktop, or Apple Live Text on iPhone. Handwriting."
 ---
 
 # Turn Handwritten Notes Into Searchable Text
@@ -17,6 +17,10 @@ Students and anyone with paper notebooks worth keeping. Handwriting OCR is imper
 4. Proofread the extracted text against the photo. Handwriting recognition is less reliable than print, so expect errors.
 5. Optional: paste the rough text into a chatbot and ask it to fix obvious OCR errors and organize it with headings. Review every change.
 6. Save the clean text with a clear filename and date so you can search it later.
+
+## What to ask the user for
+
+- Paste the OCR text
 
 ## Prompt
 

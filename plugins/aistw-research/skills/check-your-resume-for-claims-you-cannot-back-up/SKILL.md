@@ -1,6 +1,6 @@
 ---
 name: check-your-resume-for-claims-you-cannot-back-up
-description: "Check your resume for claims you cannot back up. Keep one master file with every role, project and result, with real numbers. Before sending a tailored resume or message, have the AI compare each line to the master file and flag anything not supported. Fix or delete every flag. Use when the user asks for help with this job."
+description: "Check your resume for claims you cannot back up. Keep one master file with every role, project and result, with real numbers. Before sending a tailored resume or message, have the AI compare each."
 ---
 
 # Check your resume for claims you cannot back up
@@ -17,6 +17,11 @@ Job seekers using AI to tailor resumes who worry it is inflating titles, numbers
 4. Fix or delete every line marked NOT SUPPORTED or STRETCHED.
 5. Re-run until everything is SUPPORTED.
 6. Add new results to the master file as they happen, not when job hunting.
+
+## What to ask the user for
+
+- IN PROJECT, OR PASTE
+- PASTE
 
 ## Prompt
 

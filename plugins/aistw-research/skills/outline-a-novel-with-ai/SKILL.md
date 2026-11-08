@@ -1,6 +1,6 @@
 ---
 name: outline-a-novel-with-ai
-description: "Outline a novel with AI and keep continuity. Give the AI your premise and a story bible: characters, world rules, and the outline so far. It drafts the outline beat by beat and flags anything that contradicts what you already decided. Use when the user asks for help with this job."
+description: "Outline a novel with AI and keep continuity. Give the AI your premise and a story bible: characters, world rules, and the outline so far. It drafts the outline beat by beat and flags anything that."
 ---
 
 # Outline a novel with AI and keep continuity

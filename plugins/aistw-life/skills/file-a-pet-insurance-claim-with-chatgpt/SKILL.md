@@ -1,6 +1,6 @@
 ---
 name: file-a-pet-insurance-claim-with-chatgpt
-description: "File a Pet Insurance Claim with ChatGPT. Here's how I'd set this up in ChatGPT or Claude (not run by us yet). After a vet visit, I'd upload the itemized invoice and my policy, black out my account details, and have the chat sort which charges look covered, list what the claim form asks for, and flag anything my policy excludes. Then I'd submit the claim myself through my insurer's app or site. Use when the user asks for help with this job."
+description: "File a Pet Insurance Claim with ChatGPT. Here's how I'd set this up in ChatGPT or Claude (not run by us yet). After a vet visit, I'd upload the itemized invoice and my policy, black out my account."
 ---
 
 # File a Pet Insurance Claim with ChatGPT

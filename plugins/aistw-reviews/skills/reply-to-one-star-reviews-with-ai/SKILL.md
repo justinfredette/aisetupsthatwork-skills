@@ -1,6 +1,6 @@
 ---
 name: reply-to-one-star-reviews-with-ai
-description: "Reply to 1-Star Reviews Without Sounding Like a Robot. Paste the 1-star review and your real policies into ChatGPT, get a calm short reply that apologizes once and moves the conversation offline, then post it yourself. Never argue in public. Use when the user asks for help with this job."
+description: "Reply to 1-Star Reviews Without Sounding Like a Robot. Paste the 1-star review and your real policies into ChatGPT, get a calm short reply that apologizes once and moves the conversation offline."
 ---
 
 # Reply to 1-Star Reviews Without Sounding Like a Robot
@@ -17,6 +17,10 @@ Small business owners who stare at a bad review for an hour, then either ignore 
 4. Ask for one reply under 70 words: thank them for the feedback, apologize for their experience once, offer the one fix, give a phone number or email.
 5. Read the draft out loud. If it sounds like a press release, ask for a plainer version.
 6. Post it yourself on the review platform. Do not let any tool auto-post as your business.
+
+## What to ask the user for
+
+- 1 or 2 stars
 
 ## Prompt
 

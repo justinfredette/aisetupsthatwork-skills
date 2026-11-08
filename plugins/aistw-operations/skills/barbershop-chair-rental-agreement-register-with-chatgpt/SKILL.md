@@ -1,6 +1,6 @@
 ---
 name: barbershop-chair-rental-agreement-register-with-chatgpt
-description: "Chair Rental Register, ChatGPT. Here's how I'd set this up in ChatGPT or Claude. By default I'd run it on made-up example rows: agreement labels with terms exactly as recorded - parties by role label, chair label, start and end dates, rent amount with currency and period, status facts like sent, signed, received - out comes one register that keeps a sent agreement, a signed agreement and a received agreement as different recorded facts and never adds up rents across different periods. Real records go in only if the business has explicitly authorized this environment for them - no party names ever, role labels only. Use when the user asks for help with this job."
+description: "Chair Rental Register, ChatGPT. Here's how I'd set this up in ChatGPT or Claude. By default I'd run it on made-up example rows: agreement labels with terms exactly as recorded - parties by role."
 ---
 
 # Chair Rental Register, ChatGPT

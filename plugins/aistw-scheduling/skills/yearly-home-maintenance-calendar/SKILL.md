@@ -1,6 +1,6 @@
 ---
 name: yearly-home-maintenance-calendar
-description: "Build a year-long home maintenance calendar. Tell AI your home’s age, heating system, and climate. It builds a month-by-month maintenance calendar with reminders, so the furnace filter, gutters, and smoke alarms get handled on schedule instead of during a crisis. Use when the user asks for help with this job."
+description: "Build a year-long home maintenance calendar. Tell AI your home’s age, heating system, and climate. It builds a month-by-month maintenance calendar with reminders, so the furnace filter, gutters, and."
 ---
 
 # Build a year-long home maintenance calendar

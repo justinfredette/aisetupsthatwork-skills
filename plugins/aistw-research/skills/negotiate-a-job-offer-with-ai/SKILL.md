@@ -1,6 +1,6 @@
 ---
 name: negotiate-a-job-offer-with-ai
-description: "Negotiate a job offer with AI. Put each offer in a table: pay, bonus, benefits, time off, growth. Check public pay data such as the BLS Occupational Outlook Handbook for the role. Draft a short counter with one or two reasons, then rehearse the call with the AI playing the recruiter. Use when the user asks for help with this job."
+description: "Negotiate a job offer with AI. Put each offer in a table: pay, bonus, benefits, time off, growth. Check public pay data such as the BLS Occupational Outlook Handbook for the role. Draft a short."
 ---
 
 # Negotiate a job offer with AI
@@ -17,6 +17,12 @@ Anyone holding an offer who wants to ask for more without sounding pushy or maki
 4. Check the counter: one or two real reasons, one number, polite tone.
 5. Rehearse: ask the AI to play the recruiter and push back three times.
 6. Get the final offer in writing before accepting.
+
+## What to ask the user for
+
+- PAY, BONUS, BENEFITS, TIME OFF, REMOTE, START
+- PASTE
+- AMOUNT
 
 ## Prompt
 

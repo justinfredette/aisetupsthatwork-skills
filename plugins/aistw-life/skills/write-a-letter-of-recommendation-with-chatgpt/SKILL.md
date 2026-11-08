@@ -1,6 +1,6 @@
 ---
 name: write-a-letter-of-recommendation-with-chatgpt
-description: "How to Use ChatGPT to Write a Letter of Recommendation. Paste only facts you can stand behind: how you know the person, dates, role and two specific examples. Ask ChatGPT for a formal letter and forbid invented grades, awards or praise. Edit every line, then sign and send it yourself. Use when the user asks for help with this job."
+description: "How to Use ChatGPT to Write a Letter of Recommendation. Paste only facts you can stand behind: how you know the person, dates, role and two specific examples. Ask ChatGPT for a formal letter and."
 ---
 
 # How to Use ChatGPT to Write a Letter of Recommendation

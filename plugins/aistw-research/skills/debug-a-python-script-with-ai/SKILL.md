@@ -1,6 +1,6 @@
 ---
 name: debug-a-python-script-with-ai
-description: "Debug a Python script with AI. Paste the full error message plus the code around the failing line. The AI reads the traceback, names the likely cause in plain words, and suggests one fix. You test the fix before moving on. Use when the user asks for help with this job."
+description: "Debug a Python script with AI. Paste the full error message plus the code around the failing line. The AI reads the traceback, names the likely cause in plain words, and suggests one fix. You test."
 ---
 
 # Debug a Python script with AI

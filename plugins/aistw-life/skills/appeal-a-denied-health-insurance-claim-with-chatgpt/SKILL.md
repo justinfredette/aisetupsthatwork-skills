@@ -1,6 +1,6 @@
 ---
 name: appeal-a-denied-health-insurance-claim-with-chatgpt
-description: "Appeal a Denied Health Insurance Claim with ChatGPT. Here's how I'd set this up in ChatGPT or Claude (not run by us yet). I'd upload the denial letter and the plan pages it cites, have the chat explain the reason in plain English, then turn my doctor's note into an appeal letter that I check and send myself. Use when the user asks for help with this job."
+description: "Appeal a Denied Health Insurance Claim with ChatGPT. Here's how I'd set this up in ChatGPT or Claude (not run by us yet). I'd upload the denial letter and the plan pages it cites, have the chat."
 ---
 
 # Appeal a Denied Health Insurance Claim with ChatGPT
@@ -46,6 +46,13 @@ Rules: Don't invent medical facts, policy language, or laws. If the denial reaso
 - The chat can misread plan language. Check every quote against the document before you send.
 - Use the deadlines printed in your own denial letter. Your plan papers are the final word for your case.
 - An appeal without your doctor's reasoning may leave a medical-necessity denial unanswered.
+- The draft left your address, phone and the date as blanks, because they are not in the denial letter. Fill them in before you send.
+
+## Tested
+
+Ran on Claude in a Claude Code session, Nov 5, 2026: a made-up denial letter, plan pages and doctor's letter, pasted as text instead of uploaded, gave the denial reason quoted from the letter, the 180-day deadline and claim number, a 339-word appeal letter built on the plan's own wording, and a checklist of what to attach and what to get. Nothing was sent.
+
+The full receipt is on https://www.aisetupsthatwork.com/setups/appeal-a-denied-health-insurance-claim-with-chatgpt/
 
 ## Source
 

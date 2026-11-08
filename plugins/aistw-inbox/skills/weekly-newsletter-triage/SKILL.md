@@ -1,6 +1,6 @@
 ---
 name: weekly-newsletter-triage
-description: "Triage Your Newsletters Once a Week. Auto-filter newsletters into a folder during the week, then spend 15 minutes once a week having AI score which ones are worth opening. Read the winners, delete the rest, no guilt. Use when the user asks for help with this job."
+description: "Triage Your Newsletters Once a Week. Auto-filter newsletters into a folder during the week, then spend 15 minutes once a week having AI score which ones are worth opening. Read the winners, delete."
 ---
 
 # Triage Your Newsletters Once a Week
@@ -17,6 +17,11 @@ A newsletter subscriber who keeps falling behind and feels guilty about the unre
 4. Open the folder and scan the subject lines. Copy the list of subject lines and senders into Claude or ChatGPT with the prompt below.
 5. The AI scores each one against your interests. Open the high scorers, skim them, then archive or delete everything in the folder.
 6. If a newsletter scores low three weeks in a row, unsubscribe. The point of this system is that keeping it around has a cost.
+
+## What to ask the user for
+
+- LIST YOUR INTERESTS, e.g. Vermont news, AI tools, running
+- PASTE SUBJECT LINES AND SENDERS
 
 ## Prompt
 

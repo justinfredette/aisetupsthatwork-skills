@@ -1,6 +1,6 @@
 ---
 name: family-recurring-charges-tracker
-description: "Family recurring charges tracker. Make one shared list of every recurring charge in the family: what it is, who uses it, the amount, the renewal date and how to cancel. Review it on a set day each month. Stopping a bank payment is separate from cancelling the service: cancel with the company, and tell your bank if the company debits your account. Use when the user asks for help with this job."
+description: "Family recurring charges tracker. Make one shared list of every recurring charge in the family: what it is, who uses it, the amount, the renewal date and how to cancel. Review it on a set day each."
 ---
 
 # Family recurring charges tracker
@@ -19,6 +19,10 @@ Families where several people have subscriptions, apps and renewals spread acros
 6. If you authorized the company to take the payment from your account, the CFPB says to call the company, take back your permission, and follow up in writing. HelpWithMyBank.gov adds to keep a copy of the notice or a cancellation number and to tell your bank. Your bank may suggest a stop payment order too, and the CFPB says banks generally charge fees for those.
 7. Cancel the service itself as well. The CFPB says cancelling an automatic payment does not cancel what you owe: cancel a contract with the company too, and a loan still has to be paid another way.
 8. Watch the next statement. The CFPB says payments a company starts after you revoked permission would be errors, and you can ask your bank for a refund. HelpWithMyBank.gov says you can dispute the charges with your bank.
+
+## What to ask the user for
+
+- DATE
 
 ## Prompt
 

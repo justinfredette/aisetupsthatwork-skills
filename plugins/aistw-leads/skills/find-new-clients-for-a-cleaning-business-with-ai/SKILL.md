@@ -1,6 +1,6 @@
 ---
 name: find-new-clients-for-a-cleaning-business-with-ai
-description: "How to use AI to find new clients for a small cleaning business. Paste your service area, services, and proof points into an AI bot, ask it to build a prospect table from public business listings (property managers, offices, short-term rentals, realtors), draft one short intro per row, and stop. You review every row and send each message yourself. Use when the user asks for help with this job."
+description: "How to use AI to find new clients for a small cleaning business. Paste your service area, services, and proof points into an AI bot, ask it to build a prospect table from public business listings."
 ---
 
 # How to use AI to find new clients for a small cleaning business

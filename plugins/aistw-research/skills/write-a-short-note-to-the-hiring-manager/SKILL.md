@@ -1,6 +1,6 @@
 ---
 name: write-a-short-note-to-the-hiring-manager
-description: "Write a short note to the hiring manager. Pick one real trigger, such as a launch, funding, a new team or a post they wrote. Give the AI the trigger, one result of yours that fits the role, and the ask. Keep it to 4 to 6 lines, check every claim, and send it yourself. Use when the user asks for help with this job."
+description: "Write a short note to the hiring manager. Pick one real trigger, such as a launch, funding, a new team or a post they wrote. Give the AI the trigger, one result of yours that fits the role, and the."
 ---
 
 # Write a short note to the hiring manager
@@ -17,6 +17,13 @@ Job seekers who apply online and hear nothing, and want a direct, honest note to
 4. Run the prompt below. Keep the draft to 4 to 6 lines.
 5. Check every claim against your resume. Anthropic says its Gmail connector asks before sending by default; keep it that way and send it yourself.
 6. Log the note in your application tracker with a follow-up date 7 days out.
+
+## What to ask the user for
+
+- NAME, ROLE
+- TITLE, LINK
+- ONE LAUNCH, NEWS ITEM OR POST
+- RESULT WITH NUMBER
 
 ## Prompt
 

@@ -1,6 +1,6 @@
 ---
 name: college-essay-feedback-with-ai
-description: "Get College Essay Feedback From AI Without Losing Your Voice. Use AI as a feedback tool: ask it to critique structure and point out weak transitions, never to rewrite sentences or draft content. Colleges draw the line at substantive AI output, and the Common App requires you to certify the work is your own. Use when the user asks for help with this job."
+description: "Get College Essay Feedback From AI Without Losing Your Voice. Use AI as a feedback tool: ask it to critique structure and point out weak transitions, never to rewrite sentences or draft content."
 ---
 
 # Get College Essay Feedback From AI Without Losing Your Voice

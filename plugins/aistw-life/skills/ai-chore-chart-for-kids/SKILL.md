@@ -1,6 +1,6 @@
 ---
 name: ai-chore-chart-for-kids
-description: "AI Chore Chart Generator for Kids (Printable Weekly Chart). I tell ChatGPT my kids’ ages, chores, and reward rules, get a weekly chart with icons or checkboxes I can print, then I hang it on the fridge and mark it myself. No app subscriptions or auto-deducted allowance. Use when the user asks for help with this job."
+description: "AI Chore Chart Generator for Kids (Printable Weekly Chart). I tell ChatGPT my kids’ ages, chores, and reward rules, get a weekly chart with icons or checkboxes I can print, then I hang it on the."
 ---
 
 # AI Chore Chart Generator for Kids (Printable Weekly Chart)

@@ -1,6 +1,6 @@
 ---
 name: catch-a-long-agent-run-drifting-off-course
-description: "Catch a long agent run drifting off course. Write the goal and what done looks like in 3 lines before the run. Every few steps, have the agent restate the goal, list what it changed, and compare against the goal. Set a step limit and a checkpoint where it stops for you before anything irreversible. Use when the user asks for help with this job."
+description: "Catch a long agent run drifting off course. Write the goal and what done looks like in 3 lines before the run. Every few steps, have the agent restate the goal, list what it changed, and compare."
 ---
 
 # Catch a long agent run drifting off course
@@ -17,6 +17,11 @@ Owners running agents on long tasks, such as cleaning a list, building a report 
 4. At each checkpoint, read the agent's goal check. If it has drifted, stop and restate the goal.
 5. When a tool or setting changed recently, run a small test task first and compare with a past result.
 6. Keep the 3-line goal with the output so you can check the end result against it.
+
+## What to ask the user for
+
+- ONE LINE
+- 30
 
 ## Prompt
 

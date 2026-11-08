@@ -1,6 +1,6 @@
 ---
 name: check-for-an-existing-reply-before-an-agent-answers-a-lead
-description: "Check for an existing reply before an agent answers. Add one rule before every lead reply: search sent mail and the lead's notes for anything sent in the last 7 days. If a teammate already answered, the agent stops and logs it. If not, it drafts a reply for approval. Use when the user asks for help with this job."
+description: "Check for an existing reply before an agent answers. Add one rule before every lead reply: search sent mail and the lead's notes for anything sent in the last 7 days. If a teammate already answered."
 ---
 
 # Check for an existing reply before an agent answers
@@ -17,6 +17,10 @@ Teams where both people and an agent answer leads from email, forms and other ch
 4. Test it: answer a test lead yourself, then ask the agent to handle the same lead. It should stop.
 5. Ask teammates to log phone and text replies in the notes, since the agent cannot see those otherwise.
 6. Review the log of stopped drafts weekly to see where leads are coming in twice.
+
+## What to ask the user for
+
+- PASTE LEAD
 
 ## Prompt
 

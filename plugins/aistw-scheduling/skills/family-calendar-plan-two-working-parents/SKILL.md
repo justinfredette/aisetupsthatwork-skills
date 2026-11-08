@@ -1,6 +1,6 @@
 ---
 name: family-calendar-plan-two-working-parents
-description: "Plan a family calendar with two working parents. Use AI to merge both parents’ schedules, school events, and kid activities into one shared calendar, with a 15-minute Sunday sync to keep it true. One calendar both parents trust beats two perfect ones nobody checks. Use when the user asks for help with this job."
+description: "Plan a family calendar with two working parents. Use AI to merge both parents’ schedules, school events, and kid activities into one shared calendar, with a 15-minute Sunday sync to keep it true."
 ---
 
 # Plan a family calendar with two working parents

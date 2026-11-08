@@ -1,6 +1,6 @@
 ---
 name: business-subscription-audit
-description: "Audit your business subscriptions in one afternoon. Export 12 months of card statements and the AI pulls every recurring charge into one list, flags duplicates and unused tools, and suggests what to cut or consolidate. Use when the user asks for help with this job."
+description: "Audit your business subscriptions in one afternoon. Export 12 months of card statements and the AI pulls every recurring charge into one list, flags duplicates and unused tools, and suggests what to."
 ---
 
 # Audit your business subscriptions in one afternoon

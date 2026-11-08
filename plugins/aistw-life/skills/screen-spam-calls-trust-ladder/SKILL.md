@@ -1,6 +1,6 @@
 ---
 name: screen-spam-calls-trust-ladder
-description: "Screen spam calls with a trust ladder. Climb one rung at a time: save the numbers you need, turn on the spam filter, filter unknown callers into a list, then try Ask Reason for Calling. The list filter only sorts missed calls and voicemails. Silence sends unsaved numbers to voicemail, so use it last. The FTC says call blocking might block calls you want. Use when the user asks for help with this job."
+description: "Screen spam calls with a trust ladder. Climb one rung at a time: save the numbers you need, turn on the spam filter, filter unknown callers into a list, then try Ask Reason for Calling. The list."
 ---
 
 # Screen spam calls with a trust ladder

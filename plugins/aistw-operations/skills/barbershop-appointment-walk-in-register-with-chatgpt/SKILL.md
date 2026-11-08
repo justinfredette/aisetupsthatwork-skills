@@ -1,6 +1,6 @@
 ---
 name: barbershop-appointment-walk-in-register-with-chatgpt
-description: "Barbershop Walk-In Register, ChatGPT. Here's how I'd set this up in ChatGPT or Claude. By default I'd run it on made-up example rows: visit labels with lifecycle facts exactly as recorded - booked, confirmed, arrived, seated, completed, cancelled, no-show - out comes one register that keeps a booked appointment and a recorded walk-in as different kinds of visit and never marks a visit completed on the strength of a confirmation. Real records go in only if the business has explicitly authorized this environment for them - client and barber labels only, never names. Use when the user asks for help with this job."
+description: "Barbershop Walk-In Register, ChatGPT. Here's how I'd set this up in ChatGPT or Claude. By default I'd run it on made-up example rows: visit labels with lifecycle facts exactly as recorded - booked."
 ---
 
 # Barbershop Walk-In Register, ChatGPT

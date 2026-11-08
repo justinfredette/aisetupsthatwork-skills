@@ -1,6 +1,6 @@
 ---
 name: hvac-maintenance-visit-tracker-with-chatgpt
-description: "HVAC Maintenance Tracker, ChatGPT. Here's how I'd set this up in ChatGPT or Claude. By default I'd run it on made-up example rows. From made-up visit rows, ChatGPT or Claude builds one tracker that keeps each maintenance visit, reminder and note as its own dated recorded entry by visit ID, keeps scheduled, reminded, visited and noted as separate states, and never says a visit is due, overdue, missed or that a system is maintained. Use when the user asks for help with this job."
+description: "HVAC Maintenance Tracker, ChatGPT. Here's how I'd set this up in ChatGPT or Claude. By default I'd run it on made-up example rows. From made-up visit rows, ChatGPT or Claude builds one tracker that."
 ---
 
 # HVAC Maintenance Tracker, ChatGPT

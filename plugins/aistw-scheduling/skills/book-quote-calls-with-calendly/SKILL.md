@@ -1,6 +1,6 @@
 ---
 name: book-quote-calls-with-calendly
-description: "Book quote calls with Calendly. One Calendly event type for quote calls ends the back-and-forth: connect your calendar so only free times show, add buffers and a daily limit, and turn on reminder emails. Draft the page text and reminders with the prompt below. Use when the user asks for help with this job."
+description: "Book quote calls with Calendly. One Calendly event type for quote calls ends the back-and-forth: connect your calendar so only free times show, add buffers and a daily limit, and turn on reminder."
 ---
 
 # Book quote calls with Calendly
@@ -18,6 +18,11 @@ Service businesses that book estimates or consultations. Once the page is live, 
 5. Turn on reminder emails in the Workflows section. Calendly describes automations for meeting reminders and follow-ups.
 6. Book a test call yourself from the live link and check the reminders arrive.
 7. Put the link in your email signature, texts and social profiles.
+
+## What to ask the user for
+
+- NAME, what you do, area you cover
+- 20 or 30
 
 ## Prompt
 

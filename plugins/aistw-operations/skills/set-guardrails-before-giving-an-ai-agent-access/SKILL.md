@@ -1,6 +1,6 @@
 ---
 name: set-guardrails-before-giving-an-ai-agent-access
-description: "Set guardrails before an AI agent gets access. Write down, before you connect anything, what the agent may read, what it may only draft, and what it may never do without you. Give it its own account or the narrowest access the tool offers, keep send, pay and delete behind your approval, and review its log weekly. Use when the user asks for help with this job."
+description: "Set guardrails before an AI agent gets access. Write down, before you connect anything, what the agent may read, what it may only draft, and what it may never do without you. Give it its own account."
 ---
 
 # Set guardrails before an AI agent gets access
@@ -18,6 +18,14 @@ Owners who want an AI agent on their inbox, calendar, store or files but are ner
 5. Use the prompt below to turn your buckets into a short rulebook, then paste it into the agent's instructions or project.
 6. Test it on a harmless task and ask the agent to repeat back what it is not allowed to do.
 7. Once a week, read what the agent did and move any action that surprised you one bucket stricter.
+
+## What to ask the user for
+
+- EMAIL, CALENDAR, FILES, STORE...
+- WHAT IT MAY READ
+- WHAT IT MAY DRAFT
+- E.G. SEND, BOOK, REFUND
+- E.G. DELETE, PAY, CHANGE PASSWORDS, POST PUBLICLY
 
 ## Prompt
 

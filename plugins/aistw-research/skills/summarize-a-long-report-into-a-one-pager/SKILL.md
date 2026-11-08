@@ -1,6 +1,6 @@
 ---
 name: summarize-a-long-report-into-a-one-pager
-description: "Turn a long report into a one-page brief. Feed the report to the AI and ask for a one-page executive summary: purpose, key findings, numbers that matter, and recommended actions. You get the gist without reading forty pages. Use when the user asks for help with this job."
+description: "Turn a long report into a one-page brief. Feed the report to the AI and ask for a one-page executive summary: purpose, key findings, numbers that matter, and recommended actions. You get the gist."
 ---
 
 # Turn a long report into a one-page brief
@@ -17,6 +17,12 @@ Anyone who gets handed long reports and needs the important parts before the mee
 4. Ask it to keep every claim tied to a page or section number so you can verify.
 5. Read the brief, then spot-check two or three claims against the original.
 6. If something looks wrong or invented, ask the AI to quote the exact passage it came from.
+
+## What to ask the user for
+
+- AUDIENCE, e.g. my manager, the board
+- DECISION
+- PASTE REPORT TEXT
 
 ## Prompt
 

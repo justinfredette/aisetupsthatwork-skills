@@ -1,6 +1,6 @@
 ---
 name: fight-a-parking-ticket-with-chatgpt
-description: "Fight a Parking Ticket with ChatGPT. Here's how I'd set this up in ChatGPT or Claude (not run by us yet). I'd photograph the ticket, the signs, and where my car was parked, upload the photos, and have the chat find my city's official dispute page and check the ticket for errors. Then I'd file the dispute myself before the deadline. Use when the user asks for help with this job."
+description: "Fight a Parking Ticket with ChatGPT. Here's how I'd set this up in ChatGPT or Claude (not run by us yet). I'd photograph the ticket, the signs, and where my car was parked, upload the photos, and."
 ---
 
 # Fight a Parking Ticket with ChatGPT

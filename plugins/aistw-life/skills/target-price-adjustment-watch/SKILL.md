@@ -1,6 +1,6 @@
 ---
 name: target-price-adjustment-watch
-description: "Target price adjustment watch. Target's policy matches a lower price at Target (Target.com, Target stores or a Target Circle deal), not at other retailers. Ask at purchase or within 14 days, with the original receipt and proof. Clearance and closeout are excluded. For purchases from Nov 1, 2026, a holiday policy applies if the price drops on or before Dec 24, 2026. Use when the user asks for help with this job."
+description: "Target price adjustment watch. Target's policy matches a lower price at Target (Target.com, Target stores or a Target Circle deal), not at other retailers. Ask at purchase or within 14 days, with."
 ---
 
 # Target price adjustment watch
@@ -16,6 +16,10 @@ Target shoppers who buy items that go on sale soon after and want to claim the l
 3. Look up the current price at Target: Target.com, a Target store or a Target Circle deal. Other retailers do not count. The item must be the identical item: same brand, size, weight, color, quantity and model number. The chat cannot check live prices.
 4. Skip items Target excludes, such as clearance, closeout, liquidation, open package, refurbished and pre-order items. The full exclusion list is on Target's policy page.
 5. If the price is lower, ask the chat to draft your request and a proof checklist. For a store purchase, take proof of the current lower price and the original receipt (physical or digital) to the store. Target's help pages name Guest Services and also say store adjustments can be done on any lane. For a Target.com or Target app purchase, chat with Target online or call Guest Services.
+
+## What to ask the user for
+
+- DATE
 
 ## Prompt
 

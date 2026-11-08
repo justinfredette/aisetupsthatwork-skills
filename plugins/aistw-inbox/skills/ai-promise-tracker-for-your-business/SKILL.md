@@ -1,6 +1,6 @@
 ---
 name: ai-promise-tracker-for-your-business
-description: "AI promise tracker for your business. Use a connected email account or pasted meeting notes, and ask the assistant for a weekly list of open promises with dates. ChatGPT's help center says scheduled tasks can run on a schedule and monitor Gmail. The list is for you only. Use when the user asks for help with this job."
+description: "AI promise tracker for your business. Use a connected email account or pasted meeting notes, and ask the assistant for a weekly list of open promises with dates. ChatGPT's help center says scheduled."
 ---
 
 # AI promise tracker for your business
@@ -18,6 +18,11 @@ Owners and managers who lose track of 'I'll send that Thursday' across email and
 5. To repeat it, ask ChatGPT for a scheduled task. OpenAI's help says tasks can run once or on a schedule, and you choose Push or Email notifications. Scheduled tasks in Claude: Not stated in sources.
 6. Send any nudge yourself. The assistant only writes the list.
 7. After a month, count how many promises were missed before and after. Keep the count if it helps.
+
+## What to ask the user for
+
+- DATE RANGE
+- PERSON
 
 ## Prompt
 

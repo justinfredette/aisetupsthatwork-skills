@@ -1,6 +1,6 @@
 ---
 name: vet-a-contractor-before-you-hire
-description: "Vet a contractor before you hire them. Give the AI the contractor’s name, license number, and quote details. It builds a vetting checklist covering license, insurance, reviews, and red flags, and drafts the questions you should ask before signing. Use when the user asks for help with this job."
+description: "Vet a contractor before you hire them. Give the AI the contractor’s name, license number, and quote details. It builds a vetting checklist covering license, insurance, reviews, and red flags, and."
 ---
 
 # Vet a contractor before you hire them
@@ -18,6 +18,14 @@ Homeowners getting bids for roofing, remodeling, or repairs who do not want to l
 5. Ask the AI to draft reference-check questions and red-flag questions for the final interview.
 6. Call two references yourself and ask about communication, timeline, and surprise charges.
 7. Never pay a large deposit up front. Progress payments tied to completed work protect you.
+
+## What to ask the user for
+
+- BUSINESS NAME
+- NUMBER
+- STATE
+- AMOUNT
+- PASTE QUOTE
 
 ## Prompt
 

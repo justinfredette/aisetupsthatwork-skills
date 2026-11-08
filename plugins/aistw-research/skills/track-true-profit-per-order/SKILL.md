@@ -1,6 +1,6 @@
 ---
 name: track-true-profit-per-order
-description: "Track true profit per order. Export your orders, list your product costs, shipping, platform fees and ad spend, and have the AI calculate profit per order and per product with the math shown. Check two orders by hand, then keep the sheet it builds and update it monthly. Use when the user asks for help with this job."
+description: "Track true profit per order. Export your orders, list your product costs, shipping, platform fees and ad spend, and have the AI calculate profit per order and per product with the math shown. Check."
 ---
 
 # Track true profit per order
@@ -17,6 +17,13 @@ Online sellers who know their revenue but not what they actually keep on each or
 4. Check two orders by hand against the result before trusting it.
 5. Look at the products with the lowest profit per order first; those are your pricing or ad decisions.
 6. Keep the spreadsheet it builds and drop in each month's export.
+
+## What to ask the user for
+
+- LIST
+- PER ORDER OR AVERAGE
+- EXACTLY AS I AM CHARGED
+- TOTAL
 
 ## Prompt
 

@@ -1,6 +1,6 @@
 ---
 name: summarize-a-lease-in-plain-english
-description: "Understand Your Lease in Plain English. This is not legal advice. Photograph or scan your lease, have AI pull out the key terms in plain language, then check the warning signs yourself before you sign. A local attorney answers the close calls. Use when the user asks for help with this job."
+description: "Understand Your Lease in Plain English. This is not legal advice. Photograph or scan your lease, have AI pull out the key terms in plain language, then check the warning signs yourself before you."
 ---
 
 # Understand Your Lease in Plain English
@@ -17,6 +17,10 @@ Renters staring at a lease full of legal language. This is not legal advice; a l
 4. Write down your questions: pet policy, subletting, maintenance split, renewal terms, and what happens if you need to break the lease.
 5. Ask the landlord about anything unclear, and get answers in writing.
 6. If anything looks off or you do not understand a clause, talk to a local attorney before signing.
+
+## What to ask the user for
+
+- Paste the lease text here
 
 ## Prompt
 

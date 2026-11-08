@@ -1,6 +1,6 @@
 ---
 name: clean-up-your-agents-long-term-memory
-description: "Clean up your agent's long-term memory. Open the memory list and review it monthly. Delete anything outdated, rewrite facts that changed with a date, and keep task details out of memory entirely. Deleting a memory does not remove it from old chats, so start a fresh chat after cleaning up. Use when the user asks for help with this job."
+description: "Clean up your agent's long-term memory. Open the memory list and review it monthly. Delete anything outdated, rewrite facts that changed with a date, and keep task details out of memory entirely."
 ---
 
 # Clean up your agent's long-term memory
@@ -17,6 +17,10 @@ Anyone whose AI assistant or agent keeps using an old price, an old rule or deta
 4. Rewrite facts that changed with a date, for example: 'As of Nov 2026, call-out fee is $95.'
 5. Keep one-off task details, such as a client's job notes, in that task's project or file, not in memory.
 6. Start a fresh chat after the cleanup, and repeat monthly.
+
+## What to ask the user for
+
+- PASTE
 
 ## Prompt
 

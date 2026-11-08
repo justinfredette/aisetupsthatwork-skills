@@ -1,6 +1,6 @@
 ---
 name: salon-chemical-product-sds-register-with-chatgpt
-description: "Salon Product SDS Register, ChatGPT. Here's how I'd set this up in ChatGPT or Claude. By default I'd run it on made-up example rows: product labels with label facts exactly as recorded - ingredients as listed, SDS on file or not, quantities with units - out comes one register that keeps what each label says as a record and never declares a product safe or a shop compliant. Real records go in only if the business has explicitly authorized this environment for them - and a label fact is never a safety verdict. Use when the user asks for help with this job."
+description: "Salon Product SDS Register, ChatGPT. Here's how I'd set this up in ChatGPT or Claude. By default I'd run it on made-up example rows: product labels with label facts exactly as recorded - ingredients."
 ---
 
 # Salon Product SDS Register, ChatGPT

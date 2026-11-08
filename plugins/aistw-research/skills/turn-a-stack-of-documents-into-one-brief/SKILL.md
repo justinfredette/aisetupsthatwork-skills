@@ -1,6 +1,6 @@
 ---
 name: turn-a-stack-of-documents-into-one-brief
-description: "Turn a stack of documents into one brief. Upload the files to one chat or project and ask for a brief that cites which document each point came from, lists conflicts between documents, and keeps numbers exactly as written. Then check every number against its source. Use when the user asks for help with this job."
+description: "Turn a stack of documents into one brief. Upload the files to one chat or project and ask for a brief that cites which document each point came from, lists conflicts between documents, and keeps."
 ---
 
 # Turn a stack of documents into one brief
@@ -17,6 +17,11 @@ Anyone who has to read ten documents to make one decision or write one summary f
 4. Read the conflicts section first. That is where the decision usually is.
 5. Check every number in the brief against the file it cites.
 6. Ask for a second version in the format you need, such as one page for your boss or a table.
+
+## What to ask the user for
+
+- NUMBER
+- E.G. CHOOSE A VENDOR, BRIEF MY BOSS
 
 ## Prompt
 

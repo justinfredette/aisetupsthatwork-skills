@@ -1,6 +1,6 @@
 ---
 name: barber-client-cut-preference-record-with-chatgpt
-description: "Barber Client Cut Record, ChatGPT. Here's how I'd set this up in ChatGPT or Claude. By default I'd run it on made-up example rows: client labels with cut and preference records exactly as recorded - style labels, clipper guard lengths verbatim with their dates, client-reported notes - out comes one register that quotes every preference verbatim with its date and never presents a past cut as a recommendation for the next one. Real records go in only if the business has explicitly authorized this environment for them - client labels only. Use when the user asks for help with this job."
+description: "Barber Client Cut Record, ChatGPT. Here's how I'd set this up in ChatGPT or Claude. By default I'd run it on made-up example rows: client labels with cut and preference records exactly as recorded."
 ---
 
 # Barber Client Cut Record, ChatGPT

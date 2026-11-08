@@ -1,6 +1,6 @@
 ---
 name: welcome-email-sequence-in-kit
-description: "Welcome email sequence in Kit. Kit's Email Sequences send a set of emails in order after someone joins, with delays and send days you choose. Draft the emails with the prompt below, publish the sequence, and connect it to your form with a Visual Automation. Use when the user asks for help with this job."
+description: "Welcome email sequence in Kit. Kit's Email Sequences send a set of emails in order after someone joins, with delays and send days you choose. Draft the emails with the prompt below, publish the."
 ---
 
 # Welcome email sequence in Kit
@@ -18,6 +18,14 @@ Owners building an email list who want every signup welcomed the same way. Once 
 5. Publish the emails and activate the sequence. Kit notes published emails send only once the sequence is activated.
 6. Create a Visual Automation with your form as the entry point so new subscribers enter the sequence, per Kit's automation guide.
 7. Subscribe yourself with a spare address and read every email as it arrives.
+
+## What to ask the user for
+
+- NAME, what you do, who you help
+- LEAD MAGNET or PROMISE
+- LINK or ATTACHMENT
+- 3 or 4 FACTS
+- PRODUCT or SERVICE, PRICE
 
 ## Prompt
 

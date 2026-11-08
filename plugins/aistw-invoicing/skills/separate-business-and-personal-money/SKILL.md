@@ -1,6 +1,6 @@
 ---
 name: separate-business-and-personal-money
-description: "Separate your business and personal money for good. The AI walks you through opening a separate account, sorting the mixed transactions, and setting up one simple weekly habit so they never tangle again. Use when the user asks for help with this job."
+description: "Separate your business and personal money for good. The AI walks you through opening a separate account, sorting the mixed transactions, and setting up one simple weekly habit so they never tangle."
 ---
 
 # Separate your business and personal money for good
@@ -18,6 +18,10 @@ A freelancer or side-gig worker running everything through one personal checking
 5. Move your recurring business charges to the new account and card.
 6. Sort the last 3 months of mixed transactions with the AI's help: business or personal.
 7. Set one weekly habit: 10 minutes every Friday moving receipts and checking the split.
+
+## What to ask the user for
+
+- LIST
 
 ## Prompt
 

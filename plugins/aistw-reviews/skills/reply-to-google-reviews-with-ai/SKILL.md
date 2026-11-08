@@ -1,6 +1,6 @@
 ---
 name: reply-to-google-reviews-with-ai
-description: "How to Use AI to Reply to Google Reviews (Even the Bad Ones). I paste the review text, my business facts, and the tone I want into ChatGPT, get a short reply draft for one-star and five-star cases, then I post it myself in Google Business Profile. Never auto-publish. Use when the user asks for help with this job."
+description: "How to Use AI to Reply to Google Reviews (Even the Bad Ones). I paste the review text, my business facts, and the tone I want into ChatGPT, get a short reply draft for one-star and five-star cases."
 ---
 
 # How to Use AI to Reply to Google Reviews (Even the Bad Ones)
@@ -17,6 +17,10 @@ Small business owners who know they should answer reviews but stall on the angry
 4. For 1–2 star reviews, require empathy, one specific fix you can offer, and an offline contact path. No arguing in public.
 5. Read for HIPAA, PCI, or client confidentiality if the review names a person or order.
 6. Paste into Google Business Profile and post yourself; do not connect send or GBP write access to an agent.
+
+## What to ask the user for
+
+- 1-5 stars
 
 ## Prompt
 

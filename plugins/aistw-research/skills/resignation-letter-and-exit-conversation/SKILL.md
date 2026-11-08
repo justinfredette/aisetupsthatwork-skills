@@ -1,6 +1,6 @@
 ---
 name: resignation-letter-and-exit-conversation
-description: "Resignation letter and exit conversation. Keep the letter short: state you are resigning, give your last day, thank them, and offer to help with the transition. Tell your manager first in a private meeting, then send the letter to HR. Use when the user asks for help with this job."
+description: "Resignation letter and exit conversation. Keep the letter short: state you are resigning, give your last day, thank them, and offer to help with the transition. Tell your manager first in a private."
 ---
 
 # Resignation letter and exit conversation
@@ -17,6 +17,13 @@ Employees leaving a job who want the letter and the meeting handled cleanly.
 4. Tell your manager first in a private one-on-one meeting (video if remote). Hand over the letter there.
 5. Send a copy to HR after the manager conversation to trigger formal offboarding.
 6. Offer two weeks of transition help. Short, useful handoffs are remembered.
+
+## What to ask the user for
+
+- TITLE
+- COMPANY
+- DATE
+- NOTICE PERIOD
 
 ## Prompt
 

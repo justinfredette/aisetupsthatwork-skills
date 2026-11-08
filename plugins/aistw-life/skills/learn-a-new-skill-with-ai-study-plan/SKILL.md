@@ -1,6 +1,6 @@
 ---
 name: learn-a-new-skill-with-ai-study-plan
-description: "Learn a new skill with an AI study plan. Turn \"I want to learn X\" into a week-by-week plan with daily tasks, quizzes, and beginner projects. Built around the hours you actually have, not fantasy hours. Use when the user asks for help with this job."
+description: "Learn a new skill with an AI study plan. Turn \"I want to learn X\" into a week-by-week plan with daily tasks, quizzes, and beginner projects. Built around the hours you actually have, not fantasy."
 ---
 
 # Learn a new skill with an AI study plan
@@ -17,6 +17,10 @@ Anyone with a skill on the someday list and two free evenings a week who has nev
 4. Each study session: learn one concept, then make the AI quiz you before moving on.
 5. Every two weeks, do a tiny project with the skill instead of another lesson.
 6. When stuck, ask for an explanation "like I am a complete beginner," then a harder one.
+
+## What to ask the user for
+
+- X hours
 
 ## Prompt
 

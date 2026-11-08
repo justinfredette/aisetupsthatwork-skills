@@ -1,6 +1,6 @@
 ---
 name: grocery-budgeting-for-a-family
-description: "Grocery Budgeting for a Family (A Meal Plan That Fits the Number). Give ChatGPT your weekly grocery budget, family size, dietary limits, and store. You get a 7-day meal plan with a shopping list that stays under the number, built around staples and one leftover night. Use when the user asks for help with this job."
+description: "Grocery Budgeting for a Family (A Meal Plan That Fits the Number). Give ChatGPT your weekly grocery budget, family size, dietary limits, and store. You get a 7-day meal plan with a shopping list."
 ---
 
 # Grocery Budgeting for a Family (A Meal Plan That Fits the Number)

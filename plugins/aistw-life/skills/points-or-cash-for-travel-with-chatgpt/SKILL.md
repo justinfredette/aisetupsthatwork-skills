@@ -1,6 +1,6 @@
 ---
 name: points-or-cash-for-travel-with-chatgpt
-description: "Points or Cash for Travel? Decide with ChatGPT. Here's how I'd set this up in ChatGPT or Claude (not run by us yet). Before booking, I'd paste in the cash price, the points price, the taxes and fees on the award, and my point balances, and have the chat work out what each point is worth on this trip. Then I'd decide myself and book on the airline or hotel site. Use when the user asks for help with this job."
+description: "Points or Cash for Travel? Decide with ChatGPT. Here's how I'd set this up in ChatGPT or Claude (not run by us yet). Before booking, I'd paste in the cash price, the points price, the taxes and fees."
 ---
 
 # Points or Cash for Travel? Decide with ChatGPT

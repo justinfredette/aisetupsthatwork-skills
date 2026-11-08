@@ -1,6 +1,6 @@
 ---
 name: home-inventory-for-insurance
-description: "Home Inventory for Insurance (Photo Walkthrough in an Afternoon). ChatGPT turns the overwhelming “list everything you own” into a room-by-room plan: what to photograph, what to write down, and where to store it so a claim does not depend on your memory after a fire. Use when the user asks for help with this job."
+description: "Home Inventory for Insurance (Photo Walkthrough in an Afternoon). ChatGPT turns the overwhelming “list everything you own” into a room-by-room plan: what to photograph, what to write down, and where."
 ---
 
 # Home Inventory for Insurance (Photo Walkthrough in an Afternoon)

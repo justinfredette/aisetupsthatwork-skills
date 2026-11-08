@@ -1,6 +1,6 @@
 ---
 name: grade-kids-math-homework-from-a-photo-with-ai
-description: "How to grade your kid's math homework from a photo with AI. Snap a photo of the finished sheet. The bot reads each answer, marks it right or wrong, and writes a short note on what to fix. Use when the user asks for help with this job."
+description: "How to grade your kid's math homework from a photo with AI. Snap a photo of the finished sheet. The bot reads each answer, marks it right or wrong, and writes a short note on what to fix."
 ---
 
 # How to grade your kid's math homework from a photo with AI
@@ -15,6 +15,11 @@ Parents checking a stack of math worksheets at night, who need their kid to know
 2. Messenger (optional): sends each kid their score and fix list by text or chat. Use an account you control, and use first initials or a nickname.
 3. Practice bot (optional): once a day it turns the mistakes into a short practice sheet as a PDF you can print.
 4. Paste the starter prompt into your AI bot with a photo attached.
+
+## What to ask the user for
+
+- AGE
+- NICKNAME
 
 ## Prompt
 

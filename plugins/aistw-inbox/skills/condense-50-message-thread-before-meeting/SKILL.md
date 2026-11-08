@@ -1,6 +1,6 @@
 ---
 name: condense-50-message-thread-before-meeting
-description: "Condense a 50-Message Thread Before a Meeting. Paste the thread into ChatGPT and ask for four things: decisions made, each side position, open questions, and what the meeting needs to decide. You walk in prepared in about five minutes. Use when the user asks for help with this job."
+description: "Condense a 50-Message Thread Before a Meeting. Paste the thread into ChatGPT and ask for four things: decisions made, each side position, open questions, and what the meeting needs to decide. You."
 ---
 
 # Condense a 50-Message Thread Before a Meeting
@@ -17,6 +17,10 @@ A manager or freelancer walking into a meeting about a thread they never had tim
 4. Read the summary, then verify the facts that matter: names, dates, deadlines, dollar figures. Check them against the original thread.
 5. Watch for the word UNCLEAR in the output. Those are the landmines; bring them to the meeting first.
 6. Bring the open-questions list into the meeting. Your job is to leave with them answered, not to relitigate the thread.
+
+## What to ask the user for
+
+- PASTE THE THREAD, OLDEST MESSAGE FIRST
 
 ## Prompt
 

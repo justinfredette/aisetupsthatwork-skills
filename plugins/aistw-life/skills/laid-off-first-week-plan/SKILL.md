@@ -1,6 +1,6 @@
 ---
 name: laid-off-first-week-plan
-description: "Laid off: first-week plan. This is not legal or financial advice; check with a licensed professional for your situation, and do not paste identifying details into a chatbot. In week one: file for unemployment right away, sort out health coverage before it lapses, and line up local help. Use when the user asks for help with this job."
+description: "Laid off: first-week plan. This is not legal or financial advice; check with a licensed professional for your situation, and do not paste identifying details into a chatbot. In week one: file for."
 ---
 
 # Laid off: first-week plan
@@ -17,6 +17,12 @@ People who were just laid off and need to know what to do first, in order.
 4. List every bill and its due date. Call lenders about hardship options before you miss a payment.
 5. Use your state resource finder or dial 211 for free local referrals to food, cash, and counseling help.
 6. Only then start the job search. Week one is about the safety net; the resume can wait a few days.
+
+## What to ask the user for
+
+- DATE
+- TERMS
+- STATE
 
 ## Prompt
 

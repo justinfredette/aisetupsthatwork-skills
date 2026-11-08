@@ -1,6 +1,6 @@
 ---
 name: write-a-quote-from-messy-notes
-description: "Turn messy job notes into a clean quote. Paste your rough notes into a chat AI along with your prices and terms. It hands back a clean, itemized quote you check and send. Use when the user asks for help with this job."
+description: "Turn messy job notes into a clean quote. Paste your rough notes into a chat AI along with your prices and terms. It hands back a clean, itemized quote you check and send."
 ---
 
 # Turn messy job notes into a clean quote
@@ -21,6 +21,17 @@ Tradespeople, cleaners, landscapers, and freelancers who price jobs from scribbl
 8. Add the fields a bid needs: bid number, bid date, expiry date, payment schedule, and how change orders get priced. Tell the AI to write 'TBD - confirm' for any price it does not know, and show you the draft first.
 9. For a client proposal, open by restating their problem in their own words, then your plan in concrete steps. Keep it to 150 to 300 words so it reads in under two minutes.
 10. End the proposal with one clear next step, like 'Reply YES and I will send the contract.' Ask the AI for the draft, then read it once and cut anything that sounds generic.
+
+## What to ask the user for
+
+- BUSINESS NAME
+- CUSTOMER NAME
+- RATE
+- LIST
+- PASTE YOUR NOTES HERE
+- DEPOSIT TERMS
+- WHEN
+- DATE
 
 ## Prompt
 
@@ -56,6 +67,13 @@ Rules:
 - Sending the quote as plain email text instead of a PDF. PDF keeps the record clean and uneditable.
 - Letting the AI blur labor and materials into one lump sum. A bid with no breakdown looks like a guess.
 - Starting the proposal with your bio. Clients hire the fix for their problem, not the story of your business.
+- It counted the hallway as a room for drop cloth kits and added a patching line with no price. Check every quantity and blank before you send.
+
+## Tested
+
+Ran on Claude in a fresh chat, Nov 7, 2026: made-up painting job notes became a 5-line quote with a $1,169 subtotal and a $350.70 deposit, using only the prices given and marking tax, patching materials and the ceiling as TBD. No PDF was made and nothing was sent.
+
+The full receipt is on https://www.aisetupsthatwork.com/setups/write-a-quote-from-messy-notes/
 
 ## Source
 

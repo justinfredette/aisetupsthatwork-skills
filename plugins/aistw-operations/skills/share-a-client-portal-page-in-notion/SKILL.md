@@ -1,6 +1,6 @@
 ---
 name: share-a-client-portal-page-in-notion
-description: "Share a client portal page in Notion. One Notion page per client, shared as a guest link, answers the what is happening emails before they are sent. Notion's permission levels let clients see or comment without touching the rest of your workspace. Use when the user asks for help with this job."
+description: "Share a client portal page in Notion. One Notion page per client, shared as a guest link, answers the what is happening emails before they are sent. Notion's permission levels let clients see or."
 ---
 
 # Share a client portal page in Notion
@@ -17,6 +17,13 @@ Freelancers and small agencies juggling a handful of clients. Check permission l
 4. Choose the access level on purpose. Notion lists levels from full access down to comment and view only.
 5. Update the page weekly, same day and time, so clients learn when to look.
 6. When the project ends, remove the guest or stop sharing the page.
+
+## What to ask the user for
+
+- NAME
+- WHAT
+- PASTE ROUGH NOTES
+- CHECK
 
 ## Prompt
 

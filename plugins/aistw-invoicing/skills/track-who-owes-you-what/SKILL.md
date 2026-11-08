@@ -1,6 +1,6 @@
 ---
 name: track-who-owes-you-what
-description: "Track who owes you what, every week. Paste your list of unpaid invoices and the AI sorts them by age, flags the risky ones, and tells you who to contact first this week. Use when the user asks for help with this job."
+description: "Track who owes you what, every week. Paste your list of unpaid invoices and the AI sorts them by age, flags the risky ones, and tells you who to contact first this week."
 ---
 
 # Track who owes you what, every week
@@ -18,6 +18,10 @@ An office manager or freelancer who sends invoices and discovers overdue ones by
 5. You get a contact list for the week: who to email, who to call, in what order.
 6. Work the list. Update it when payments land.
 7. Repeat weekly. Ten minutes a week beats a quarterly panic.
+
+## What to ask the user for
+
+- PASTE LIST
 
 ## Prompt
 
@@ -38,6 +42,13 @@ I need a weekly review of my unpaid invoices. Here is the list (client, invoice 
 - Treating all overdue invoices the same. A $200 invoice 10 days late and a $5,000 invoice 80 days late need different actions.
 - Never escalating. If the 90-day bucket keeps growing, your process needs teeth: late fees, paused work, or collections.
 - Forgetting credit notes and partial payments. Net the amounts before sorting.
+- It said an invoice crosses 90 days a day early. Check any date it gives you against the due date before you act on it.
+
+## Tested
+
+Ran on Claude in a fresh chat, Nov 7, 2026: 7 made-up unpaid invoices were sorted into aging buckets with the right days overdue and totals ($10,195.50 in all), with 3 high-risk accounts flagged and a 5-step contact list. One date was a day off. No reminders were sent.
+
+The full receipt is on https://www.aisetupsthatwork.com/setups/track-who-owes-you-what/
 
 ## Source
 

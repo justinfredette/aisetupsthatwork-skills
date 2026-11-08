@@ -1,6 +1,6 @@
 ---
 name: school-night-routine-and-forms
-description: "School night routine and forms. Work backward from the wake-up time to a bedtime that fits the sleep range for your child's age: the CDC, citing the American Academy of Sleep Medicine, lists 9 to 12 hours for ages 6 to 12 and 8 to 10 hours for ages 13 to 18. Keep a short list of forms, due dates and signers. Use when the user asks for help with this job."
+description: "School night routine and forms. Work backward from the wake-up time to a bedtime that fits the sleep range for your child's age: the CDC, citing the American Academy of Sleep Medicine, lists 9 to 12."
 ---
 
 # School night routine and forms
@@ -17,6 +17,10 @@ Parents who juggle school emails, paper forms and a bedtime. For turning long sc
 4. Copy the form details from this week's emails and flyers into the chat: the form, the due date, the cost if any, who signs and how it goes back. Use first names or initials only.
 5. Ask for a list sorted by due date: tonight, this week, later. Check each date against the original message.
 6. Each night, check the list and the bag. Tick off what was signed and sent back.
+
+## What to ask the user for
+
+- DATE
 
 ## Prompt
 

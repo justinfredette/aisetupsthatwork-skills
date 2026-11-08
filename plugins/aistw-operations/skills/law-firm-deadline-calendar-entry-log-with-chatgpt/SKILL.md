@@ -1,6 +1,6 @@
 ---
 name: law-firm-deadline-calendar-entry-log-with-chatgpt
-description: "Law Firm Deadline Entry Log, ChatGPT. Here's how I'd set this up in ChatGPT or Claude. By default I'd run it on made-up example rows. From made-up calendar rows, ChatGPT or Claude builds one log that keeps each date an attorney or the court recorded, and each reminder and change, as its own dated entry by internal matter ID, and never calculates, confirms or checks a deadline or says anything is timely or missed. Use when the user asks for help with this job."
+description: "Law Firm Deadline Entry Log, ChatGPT. Here's how I'd set this up in ChatGPT or Claude. By default I'd run it on made-up example rows. From made-up calendar rows, ChatGPT or Claude builds one log."
 ---
 
 # Law Firm Deadline Entry Log, ChatGPT

@@ -1,6 +1,6 @@
 ---
 name: qualify-leads-with-five-questions
-description: "Qualify leads with five questions. Before you quote, run every lead through five questions: need, budget, decision-maker, timeline, and fit. The AI turns your answers into a go or no-go. Use when the user asks for help with this job."
+description: "Qualify leads with five questions. Before you quote, run every lead through five questions: need, budget, decision-maker, timeline, and fit. The AI turns your answers into a go or no-go."
 ---
 
 # Qualify leads with five questions
@@ -17,6 +17,14 @@ Solo operators and small shops that waste hours quoting tire-kickers who were ne
 4. Read the verdict: qualified, needs one more question, or not a fit.
 5. Qualified leads get a quote. "Needs one more question" gets a short reply asking exactly that. Not-a-fit gets a polite no.
 6. Track which questions catch the most bad fits, and sharpen them over time.
+
+## What to ask the user for
+
+- WHAT YOU DO, e.g. "residential landscaping in Rutland County"
+- AREA
+- LIST, e.g. "commercial properties, tree removal over 20 feet"
+- PRICE RANGE, e.g. "$500 to $5,000"
+- PASTE THEIR MESSAGE AND ANY CALL NOTES
 
 ## Prompt
 
@@ -53,6 +61,13 @@ Then give me a verdict: QUALIFIED, ASK ONE MORE QUESTION (tell me exactly what t
 - Skipping qualification because the phone is quiet. A bad job costs more than no job.
 - Letting the AI be too generous. Tell it to be blunt in the prompt or it will qualify everyone.
 - Asking all five questions like an interrogation. Weave them into a normal conversation instead.
+- A score can come back as yes with a condition, such as a spouse who also signs off. Read the line under each score, not only the word.
+
+## Tested
+
+Ran on Claude in a Claude Code session, Nov 5, 2026: 3 made-up painting leads got all 5 scores each and one of each verdict, with a two-sentence decline for a strip mall and an exact question about the job minimum for a small living room. Nothing was sent and no tracking over time was done.
+
+The full receipt is on https://www.aisetupsthatwork.com/setups/qualify-leads-with-five-questions/
 
 ## Source
 

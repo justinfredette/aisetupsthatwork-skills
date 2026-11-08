@@ -1,6 +1,6 @@
 ---
 name: self-publish-a-book-with-ai-help
-description: "Self-Publish a Book With AI Help. Self-publishing runs through editing, design, proofing, then upload and marketing. AI can help with brainstorming, editing passes, and checklists, but hire a human editor and disclose AI-generated content where the platform requires it. Use when the user asks for help with this job."
+description: "Self-Publish a Book With AI Help. Self-publishing runs through editing, design, proofing, then upload and marketing. AI can help with brainstorming, editing passes, and checklists, but hire a human."
 ---
 
 # Self-Publish a Book With AI Help

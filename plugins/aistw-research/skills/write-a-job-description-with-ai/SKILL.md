@@ -1,6 +1,6 @@
 ---
 name: write-a-job-description-with-ai
-description: "AI to Write a Job Description (Copy-Paste Prompt for Hiring). I paste the role title, required skills, pay band, and company tone into ChatGPT, get a draft job post with responsibilities and requirements I can edit, then I publish it myself in our ATS or Indeed. No auto-posting. Use when the user asks for help with this job."
+description: "AI to Write a Job Description (Copy-Paste Prompt for Hiring). I paste the role title, required skills, pay band, and company tone into ChatGPT, get a draft job post with responsibilities and."
 ---
 
 # AI to Write a Job Description (Copy-Paste Prompt for Hiring)
@@ -19,6 +19,10 @@ Small team leads hiring their first role, or anyone recycling a five-year-old po
 6. Copy into your ATS; you publish and answer candidates. No connected agents with post permissions.
 7. Ask for a shortlist of interview questions tied to the role: paste the job description and ask for 8 to 10 questions, each mapped to one required skill, with most questions asking for a past example (what they did, what happened) rather than hypotheticals. Have the model show its output first and review every question before you use it.
 8. Ask for a one-page scorecard table: columns for the skill being tested, the question, what a good answer sounds like, what a bad answer sounds like, and a 1 to 5 score. Score each candidate right after the interview, before you discuss them with anyone else.
+
+## What to ask the user for
+
+- REVIEW WITH COUNSEL
 
 ## Prompt
 

@@ -1,6 +1,6 @@
 ---
 name: mock-behavioral-interview-with-ai
-description: "Mock behavioral interview with AI. Tell the AI to act as your interviewer, answer its questions out loud from real experience, then ask where your answer needed more detail. Practice answers at 60-90 seconds and have it flag your filler words. Use when the user asks for help with this job."
+description: "Mock behavioral interview with AI. Tell the AI to act as your interviewer, answer its questions out loud from real experience, then ask where your answer needed more detail. Practice answers at."
 ---
 
 # Mock behavioral interview with AI
@@ -17,6 +17,12 @@ Job seekers who want to practice "tell me about a time" questions and get honest
 4. Ask the AI to score the answer against a simple rubric: specific example, your role, result, and relevance to the job.
 5. Have it flag filler words and vague phrases, and suggest exact replacement wording.
 6. Repeat for 5-8 questions, then ask for the two weakest answers and redo them.
+
+## What to ask the user for
+
+- ROLE
+- INDUSTRY
+- PASTE
 
 ## Prompt
 

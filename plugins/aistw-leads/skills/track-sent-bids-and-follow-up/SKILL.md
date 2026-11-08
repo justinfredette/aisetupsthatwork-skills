@@ -1,6 +1,6 @@
 ---
 name: track-sent-bids-and-follow-up
-description: "Track the bids you sent and follow up. Have the AI build a simple spreadsheet with one row per bid: customer, job, amount, date sent, next follow-up date and status. A formula flags today's follow-ups. Five minutes each morning, then use the follow-up setup to draft the message. Use when the user asks for help with this job."
+description: "Track the bids you sent and follow up. Have the AI build a simple spreadsheet with one row per bid: customer, job, amount, date sent, next follow-up date and status. A formula flags today's."
 ---
 
 # Track the bids you sent and follow up

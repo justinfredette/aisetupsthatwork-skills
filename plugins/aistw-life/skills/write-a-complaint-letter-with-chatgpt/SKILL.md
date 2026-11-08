@@ -1,6 +1,6 @@
 ---
 name: write-a-complaint-letter-with-chatgpt
-description: "How to Use ChatGPT to Write a Complaint Letter That Gets a Response. I paste the facts. Dates, order numbers, what went wrong, and what I want, and ask ChatGPT for a short, clear, polite letter I can send by email or certified mail. I read every line before it goes out; nothing sends automatically. Use when the user asks for help with this job."
+description: "How to Use ChatGPT to Write a Complaint Letter That Gets a Response. I paste the facts. Dates, order numbers, what went wrong, and what I want, and ask ChatGPT for a short, clear, polite letter I."
 ---
 
 # How to Use ChatGPT to Write a Complaint Letter That Gets a Response

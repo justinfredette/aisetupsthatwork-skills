@@ -1,6 +1,6 @@
 ---
 name: build-anki-flashcards-from-notes-with-ai
-description: "Turn Class Notes Into Anki Flashcards With AI. Have AI rewrite your notes as question-answer pairs in a tab-separated format, then import the file through Anki's File menu. Keep cards atomic: one fact per card, and use cloze deletion for fill-in-the-blank style cards. Use when the user asks for help with this job."
+description: "Turn Class Notes Into Anki Flashcards With AI. Have AI rewrite your notes as question-answer pairs in a tab-separated format, then import the file through Anki's File menu. Keep cards atomic: one."
 ---
 
 # Turn Class Notes Into Anki Flashcards With AI
@@ -17,6 +17,10 @@ Students and self-learners who take notes but never turn them into something the
 4. In Anki, go to File, then Import. Pick the deck, check the field mapping, and import. Duplicates are judged by the first field, so make the first field unique.
 5. For cloze cards, make sure the note type is set to Cloze. Cloze tags only work with the Cloze note type, not regular ones.
 6. Review the new cards once and fix any bad splits before you start studying. Garbage cards waste every future review.
+
+## What to ask the user for
+
+- TAB
 
 ## Prompt
 

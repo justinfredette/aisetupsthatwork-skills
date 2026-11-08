@@ -1,6 +1,6 @@
 ---
 name: thanksgiving-cooking-timeline-with-ai
-description: "Thanksgiving Cooking Timeline with AI: Free Prompt for a One-Oven Kitchen. Thanksgiving is Thursday, November 26 this year, and the hard part is timing. The turkey owns the oven all afternoon, three casseroles want 375°F at 4:30, and nobody remembered the bird has to start thawing days before. You can work backward from dinner by hand, but it's tedious, and one slip pushes everything late. Use when the user asks for help with this job."
+description: "Thanksgiving Cooking Timeline with AI: Free Prompt for a One-Oven Kitchen. Thanksgiving is Thursday, November 26 this year, and the hard part is timing. The turkey owns the oven all afternoon, three."
 ---
 
 # Thanksgiving Cooking Timeline with AI: Free Prompt for a One-Oven Kitchen
@@ -16,6 +16,14 @@ Anyone hosting Thanksgiving dinner with one oven, several dishes, and a fixed si
 3. Reminder (optional): put the thaw day and the "turkey in" time on your phone. If you'd rather have AI ping you, see the scheduled reminders setup.
 4. Paste the starter prompt into ChatGPT, Claude, or Gemini and fill in the bracketed fields.
 5. Want the shopping list too? Send this next: "Now turn the menu into a shopping list for [NUMBER] people, grouped by store section, and mark anything you probably already have."
+
+## What to ask the user for
+
+- WEIGHT IN POUNDS
+- FROZEN OR FRESH
+- STUFFED OR UNSTUFFED
+- NUMBER
+- TIME
 
 ## Prompt
 

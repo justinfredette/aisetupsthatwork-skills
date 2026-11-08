@@ -1,6 +1,6 @@
 ---
 name: barbershop-tool-station-sanitation-log-with-chatgpt
-description: "Barbershop Sanitation Log, ChatGPT. Here's how I'd set this up in ChatGPT or Claude. By default I'd run it on made-up example rows: tool and station labels with cleaning and disinfection events exactly as recorded - date, time and timezone, what was done, product used, who by role or initials - out comes one log that keeps each event its own fact and never declares a tool clean or a shop compliant. Real records go in only if the business has explicitly authorized this environment for them - station labels and staff roles or initials only. Use when the user asks for help with this job."
+description: "Barbershop Sanitation Log, ChatGPT. Here's how I'd set this up in ChatGPT or Claude. By default I'd run it on made-up example rows: tool and station labels with cleaning and disinfection events."
 ---
 
 # Barbershop Sanitation Log, ChatGPT

@@ -1,6 +1,6 @@
 ---
 name: salon-sanitation-cleaning-log-with-chatgpt
-description: "Salon Cleaning Log, ChatGPT. Here's how I'd set this up in ChatGPT or Claude. By default I'd run it on made-up example rows: station labels with cleaning and disinfection events exactly as recorded - dates, times, what was done, by whom by role - out comes one log that keeps every event as a record and never declares a station safe or a shop compliant. Real records go in only if the business has explicitly authorized this environment for them - and a recorded cleaning is never a verified-clean station. Use when the user asks for help with this job."
+description: "Salon Cleaning Log, ChatGPT. Here's how I'd set this up in ChatGPT or Claude. By default I'd run it on made-up example rows: station labels with cleaning and disinfection events exactly as recorded."
 ---
 
 # Salon Cleaning Log, ChatGPT

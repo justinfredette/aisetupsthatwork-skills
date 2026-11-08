@@ -1,6 +1,6 @@
 ---
 name: design-a-flyer-with-canva-magic-design
-description: "Design a flyer with Canva Magic Design. Canva's Magic Design suggests flyer layouts from a short description you type on the Canva homepage. Draft the words with the prompt below, pick a layout, swap in your own photos and colors, and check any Pro content before you download, because free accounts pay for Pro items or replace them. Use when the user asks for help with this job."
+description: "Design a flyer with Canva Magic Design. Canva's Magic Design suggests flyer layouts from a short description you type on the Canva homepage. Draft the words with the prompt below, pick a layout."
 ---
 
 # Design a flyer with Canva Magic Design
@@ -18,6 +18,13 @@ Sole traders and small teams who need a decent flyer fast and have no designer. 
 5. Replace any watermarked stock content. Canva says free accounts can upgrade, buy the Pro item, or replace it before download.
 6. Swap in the drafted text and your own photos. Check every fact, price and date by eye.
 7. Download and proof a printed copy before you order a run or post it.
+
+## What to ask the user for
+
+- NAME, what you do, town
+- WHAT, DATE, PRICE
+- LIST
+- PHONE, EMAIL or ADDRESS
 
 ## Prompt
 

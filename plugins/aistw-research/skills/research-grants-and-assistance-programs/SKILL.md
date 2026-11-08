@@ -1,6 +1,6 @@
 ---
 name: research-grants-and-assistance-programs
-description: "Research grants and assistance programs you actually qualify for. Describe your business, location, and funding need, and ask the AI to build a list of matching grant and assistance programs with eligibility rules and deadlines. You stop applying blind and start with programs you can actually win. Use when the user asks for help with this job."
+description: "Research grants and assistance programs you actually qualify for. Describe your business, location, and funding need, and ask the AI to build a list of matching grant and assistance programs with."
 ---
 
 # Research grants and assistance programs you actually qualify for
@@ -18,6 +18,14 @@ Small business owners and nonprofit founders who need funding but drown in gener
 5. Rank the list by fit and effort. A perfect-fit small grant beats a long-shot big one.
 6. Ask the AI to build an application checklist for your top two: documents, narratives, budget format, deadline.
 7. Check your local SBDC (Small Business Development Center). Free advisors help with grant applications.
+
+## What to ask the user for
+
+- DETAILS
+- CITY, STATE
+- NUMBER
+- RANGE
+- SPECIFIC PURPOSE
 
 ## Prompt
 

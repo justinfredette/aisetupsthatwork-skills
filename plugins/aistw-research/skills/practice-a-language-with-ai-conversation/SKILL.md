@@ -1,6 +1,6 @@
 ---
 name: practice-a-language-with-ai-conversation
-description: "Practice a New Language With AI Conversation. ChatGPT’s voice mode holds real-time conversations in multiple languages with language-specific voices. Set your target language and practice speaking; treat corrections as a starting point, not a teacher’s verdict. Use when the user asks for help with this job."
+description: "Practice a New Language With AI Conversation. ChatGPT’s voice mode holds real-time conversations in multiple languages with language-specific voices. Set your target language and practice speaking."
 ---
 
 # Practice a New Language With AI Conversation

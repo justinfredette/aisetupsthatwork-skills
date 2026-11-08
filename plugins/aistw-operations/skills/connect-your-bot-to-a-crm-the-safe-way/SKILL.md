@@ -1,6 +1,6 @@
 ---
 name: connect-your-bot-to-a-crm-the-safe-way
-description: "Connect your bot to a CRM the safe way. Pick the safest route your app offers: an official connector or API, then a scheduled export, then a limited user login for the bot. Never paste your own admin password into chat. Start read-only, test on 3 records, and only then allow drafts. Use when the user asks for help with this job."
+description: "Connect your bot to a CRM the safe way. Pick the safest route your app offers: an official connector or API, then a scheduled export, then a limited user login for the bot. Never paste your own."
 ---
 
 # Connect your bot to a CRM the safe way
@@ -17,6 +17,11 @@ Trades and service businesses whose bot cannot get into the CRM, dispatch or mes
 4. Test with the prompt below on 3 records you can check by hand.
 5. Only after the test passes, allow drafts, and keep sends and changes behind approval.
 6. If sign-in keeps failing, switch to the export route rather than retrying; repeated failed logins can lock the account.
+
+## What to ask the user for
+
+- APP NAME
+- WHAT I FOUND IN SETTINGS
 
 ## Prompt
 
@@ -44,6 +49,12 @@ Never ask me for my admin password.
 - Retrying failed logins until the account locks.
 - Admin access when read-only would do.
 - Connecting before deciding what the bot is actually for.
+
+## Tested
+
+Ran on Grok Bot, Nov 2, 2026: connection options for a real Kit account ranked, API key route used read-only, 3-record test matched 3 of 3. The hand check was a second API lookup and drafts were not turned on.
+
+The full receipt is on https://www.aisetupsthatwork.com/setups/connect-your-bot-to-a-crm-the-safe-way/
 
 ## Source
 

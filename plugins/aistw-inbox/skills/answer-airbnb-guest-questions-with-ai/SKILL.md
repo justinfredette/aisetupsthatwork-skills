@@ -1,6 +1,6 @@
 ---
 name: answer-airbnb-guest-questions-with-ai
-description: "Answer Airbnb guest questions with AI. Write a reply for each question guests ask most, such as check-in, house rules and parking. Save them as Airbnb quick replies. Airbnb's help center says you pick a reply in the thread, edit it, and click Send, so you approve each one. Use when the user asks for help with this job."
+description: "Answer Airbnb guest questions with AI. Write a reply for each question guests ask most, such as check-in, house rules and parking. Save them as Airbnb quick replies. Airbnb's help center says you."
 ---
 
 # Answer Airbnb guest questions with AI
@@ -18,6 +18,18 @@ Airbnb hosts who answer the same guest questions again and again. Use it for que
 5. In Airbnb, click Messages, then Settings, then Manage quick replies, then Create. Name the template, write the message, choose the listing and click Save. Airbnb says you can insert details that fill in guest and listing information.
 6. To use one, open the guest's thread, click the quick reply icon next to the message box, pick the reply, edit it and click Send. Do not schedule these. Scheduling is covered by the setup linked below.
 7. Airbnb says messages have a 4,000 character limit, so split anything longer into two quick replies.
+
+## What to ask the user for
+
+- STEPS
+- RULES
+- PARKING
+- TIME AND STEPS
+- LIST 6 TO 10
+- GUEST FIRST NAME
+- CHECK-IN DATE
+- CODE
+- HOST TO FILL IN
 
 ## Prompt
 

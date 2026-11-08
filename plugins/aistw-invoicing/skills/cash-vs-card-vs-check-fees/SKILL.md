@@ -1,6 +1,6 @@
 ---
 name: cash-vs-card-vs-check-fees
-description: "Decide whether to take cards, cash, or checks. Tell the AI your average sale size and monthly volume. It does the fee math for cards, ACH, and checks so you can decide what to accept based on numbers, not vibes. Use when the user asks for help with this job."
+description: "Decide whether to take cards, cash, or checks. Tell the AI your average sale size and monthly volume. It does the fee math for cards, ACH, and checks so you can decide what to accept based on."
 ---
 
 # Decide whether to take cards, cash, or checks
@@ -18,6 +18,11 @@ A small business owner wondering if credit card fees are eating their margin
 5. Look at the speed tradeoff too: cards cost 2 to 3 percent but get you paid days or weeks sooner.
 6. Decide your mix: many businesses take cards for speed and push big invoices to ACH.
 7. If you pass fees to customers, check your state's surcharge rules first. Some states restrict them.
+
+## What to ask the user for
+
+- AMOUNT
+- VOLUME
 
 ## Prompt
 

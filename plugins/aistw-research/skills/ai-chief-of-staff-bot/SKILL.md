@@ -1,6 +1,6 @@
 ---
 name: ai-chief-of-staff-bot
-description: "AI chief of staff bot. Here's how I'd set this up in Grok Bot (not affiliated, and not run by us yet). One main bot keeps track of your connectors and routines and hands jobs to your other bots. Use when the user asks for help with this job."
+description: "AI chief of staff bot. Here's how I'd set this up in Grok Bot (not affiliated, and not run by us yet). One main bot keeps track of your connectors and routines and hands jobs to your other bots."
 ---
 
 Keep a record of [connected services] and [bot names and jobs]. When I give a task, decide whether it belongs here or with one of those bots. Hand off to the named teammate when appropriate and bring its result or blocker back to this chat.

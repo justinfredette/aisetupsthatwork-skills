@@ -1,6 +1,6 @@
 ---
 name: mileage-log-without-notebook
-description: "Keep a mileage log without the notebook. Tell the AI your trips each week in plain words and it builds a dated mileage log with the date, destination, purpose, and miles the IRS asks for. Use when the user asks for help with this job."
+description: "Keep a mileage log without the notebook. Tell the AI your trips each week in plain words and it builds a dated mileage log with the date, destination, purpose, and miles the IRS asks for."
 ---
 
 # Keep a mileage log without the notebook
@@ -17,6 +17,10 @@ Someone who drives for work and keeps meaning to log miles but never does
 4. Add your odometer reading at the start and end of the year. The IRS wants both.
 5. Save the log where you keep tax documents. Append weekly.
 6. At tax time, multiply business miles by the IRS standard rate for that period.
+
+## What to ask the user for
+
+- LIST EACH TRIP: date, where I went, why, approximate miles
 
 ## Prompt
 

@@ -1,6 +1,6 @@
 ---
 name: write-song-lyrics-for-suno
-description: "Write Song Lyrics That Work in Suno. Use Suno's Custom mode: enter your own lyrics, and (in the Suno app) put the genre, mood, and instruments in the Styles entry. Tip: mark sections like [Verse] and [Chorus] in your lyrics and keep the chorus short and repeatable. Use when the user asks for help with this job."
+description: "Write Song Lyrics That Work in Suno. Use Suno's Custom mode: enter your own lyrics, and (in the Suno app) put the genre, mood, and instruments in the Styles entry. Tip: mark sections like [Verse]."
 ---
 
 # Write Song Lyrics That Work in Suno
@@ -17,6 +17,11 @@ Hobbyists making AI music who want songs with real structure instead of mush.
 4. Tip to try: add short delivery cues in parentheses, such as (whispered) or (harmonized), only where delivery matters. Remove any cue the song ends up singing.
 5. Write the style details separately: genre, mood, vocal style, instruments, and tempo. In the Suno app, Custom mode has a separate place to enter your Styles.
 6. In Custom mode, enter the lyrics, enter the styles, add a title, and create. You can enter your own lyrics, or in the Suno app have Suno generate them. Suno's help says the app's Custom mode follows the same steps as the web workflow. Listen, then revise. Tip: if a direction gets sung instead of followed, move it to the style details.
+
+## What to ask the user for
+
+- Verse 1
+- Chorus
 
 ## Prompt
 

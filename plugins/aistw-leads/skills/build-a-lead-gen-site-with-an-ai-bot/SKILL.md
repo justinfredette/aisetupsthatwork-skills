@@ -1,6 +1,6 @@
 ---
 name: build-a-lead-gen-site-with-an-ai-bot
-description: "Build a lead-gen site with an AI bot. Use an AI coding or copy assistant to draft a simple landing page and contact form for a local service business, then you approve hosting spend, publish, and wire leads to email or a sheet. No scraped lists and no texting leads without consent. Use when the user asks for help with this job."
+description: "Build a lead-gen site with an AI bot. Use an AI coding or copy assistant to draft a simple landing page and contact form for a local service business, then you approve hosting spend, publish, and."
 ---
 
 # Build a lead-gen site with an AI bot
@@ -18,6 +18,10 @@ Owner-operators who need a credible “request a quote” page without hiring a 
 5. Connect the form to an inbox or sheet; send a test submission yourself.
 6. Add privacy policy and sponsor/AI disclosure if the site mentions automated chat.
 7. Optional: add a simple FAQ and service-area paragraph for local SEO. No keyword stuffing.
+
+## What to ask the user for
+
+- Carrd / Framer / static HTML / other
 
 ## Prompt
 
@@ -53,6 +57,12 @@ Guardrails: no fake testimonials, no purchased lead lists, no auto-texting visit
 - Auto-deploy hooks can publish before you review. Keep staging and manual promote.
 - Contact forms need spam protection (honeypot or CAPTCHA) you configure separately.
 - Check the page at phone width before publishing.
+
+## Tested
+
+Ran on Grok Bot, Oct 30, 2026: sample roofing page outlined, written and built as static HTML. A local form test saved 1 lead and blocked a bad entry and a bot. Not published.
+
+The full receipt is on https://www.aisetupsthatwork.com/setups/build-a-lead-gen-site-with-an-ai-bot/
 
 ## Source
 

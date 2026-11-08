@@ -1,6 +1,6 @@
 ---
 name: morning-routine-that-survives-kids
-description: "Build a morning routine that survives kids. Tell AI your wake-up time, the kids’ ages, and what must happen before you leave. It builds a timed morning sequence with buffer time, plus a night-before prep list that does half the work while everyone sleeps. Use when the user asks for help with this job."
+description: "Build a morning routine that survives kids. Tell AI your wake-up time, the kids’ ages, and what must happen before you leave. It builds a timed morning sequence with buffer time, plus a night-before."
 ---
 
 # Build a morning routine that survives kids

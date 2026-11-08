@@ -1,6 +1,6 @@
 ---
 name: fact-check-a-viral-claim-with-ai
-description: "Fact-check a viral claim before you share it. Paste the claim into the AI and ask it to find the original source, check fact-checker sites, and rate the evidence. You get a verdict in a minute instead of falling for a screenshot. Use when the user asks for help with this job."
+description: "Fact-check a viral claim before you share it. Paste the claim into the AI and ask it to find the original source, check fact-checker sites, and rate the evidence. You get a verdict in a minute."
 ---
 
 # Fact-check a viral claim before you share it
@@ -17,6 +17,10 @@ Anyone with a group chat full of forwarded claims they are not sure about.
 4. Ask for a verdict: true, false, misleading, or unverified, with links you can open yourself.
 5. Open at least one of those links yourself. Do not take the AI’s word for it on a contested claim.
 6. If the verdict is unverified, do not share the claim. Unverified is not the same as true.
+
+## What to ask the user for
+
+- PASTE THE CLAIM TEXT OR DESCRIBE THE IMAGE/VIDEO
 
 ## Prompt
 

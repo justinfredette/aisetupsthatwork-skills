@@ -1,6 +1,6 @@
 ---
 name: fix-your-linkedin-headline-for-recruiters
-description: "Fix your LinkedIn headline for recruiters. Your headline does not have to be just your job title. Use the formula: title, then key skills, then your value proposition, separated by vertical bars. It carries the most weight in LinkedIn search ranking, so put the terms employers actually search for. Use when the user asks for help with this job."
+description: "Fix your LinkedIn headline for recruiters. Your headline does not have to be just your job title. Use the formula: title, then key skills, then your value proposition, separated by vertical bars. It."
 ---
 
 # Fix your LinkedIn headline for recruiters
@@ -17,6 +17,11 @@ Job seekers whose LinkedIn profile reads fine to humans but never surfaces in re
 4. Rewrite the About section to tell the story behind the headline: who you help and what they can count on.
 5. Cut vague phrases like "results-driven professional." Concrete language about your role and impact wins.
 6. Update the headline in your profile and check it on mobile. Most recruiters skim on phones.
+
+## What to ask the user for
+
+- PASTE
+- PASTE LIST
 
 ## Prompt
 

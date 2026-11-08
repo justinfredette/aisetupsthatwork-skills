@@ -1,6 +1,6 @@
 ---
 name: get-your-security-deposit-back-with-chatgpt
-description: "Get Your Security Deposit Back with ChatGPT. Here's how I'd set this up in ChatGPT or Claude (not run by us yet). I'd upload my lease, my move-in and move-out photos, and the landlord's list of deductions, have the chat look up my state's deposit rules on official sites, and then send a polite demand letter myself. Use when the user asks for help with this job."
+description: "Get Your Security Deposit Back with ChatGPT. Here's how I'd set this up in ChatGPT or Claude (not run by us yet). I'd upload my lease, my move-in and move-out photos, and the landlord's list of."
 ---
 
 # Get Your Security Deposit Back with ChatGPT

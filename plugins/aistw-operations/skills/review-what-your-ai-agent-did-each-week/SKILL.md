@@ -1,6 +1,6 @@
 ---
 name: review-what-your-ai-agent-did-each-week
-description: "Review what your AI agent did each week. Once a week, export or copy what the agent did, from sent drafts and bookings to edits and errors, and have an AI sort it into done well, needed fixing and should not have happened. Tighten one rule for every problem. Use when the user asks for help with this job."
+description: "Review what your AI agent did each week. Once a week, export or copy what the agent did, from sent drafts and bookings to edits and errors, and have an AI sort it into done well, needed fixing and."
 ---
 
 # Review what your AI agent did each week
@@ -17,6 +17,11 @@ Anyone running an AI agent on email, calendar or a store who wants to stop babys
 4. Read the should-not-have-happened list first. OpenAI says a signed-in agent can access sensitive data and perform actions, so treat these seriously.
 5. For each problem, change one thing: tighten a rule, remove an app connection, or move the action behind approval.
 6. Keep the weekly reports. Fewer problems over time is how you know you can trust it with more.
+
+## What to ask the user for
+
+- PASTE RULES
+- PASTE ACTIONS, DRAFTS, SENT ITEMS, CHANGES
 
 ## Prompt
 

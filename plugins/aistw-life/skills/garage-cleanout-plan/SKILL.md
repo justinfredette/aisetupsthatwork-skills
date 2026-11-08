@@ -1,6 +1,6 @@
 ---
 name: garage-cleanout-plan
-description: "Garage Cleanout Plan (One Weekend, Four Piles). Tell ChatGPT your garage size, what is in it, and your goal (park a car, find tools, all of it). You get a weekend plan: pull everything out, sort into keep/donate/sell/toss zones, then put back only what earns its space. Use when the user asks for help with this job."
+description: "Garage Cleanout Plan (One Weekend, Four Piles). Tell ChatGPT your garage size, what is in it, and your goal (park a car, find tools, all of it). You get a weekend plan: pull everything out, sort."
 ---
 
 # Garage Cleanout Plan (One Weekend, Four Piles)

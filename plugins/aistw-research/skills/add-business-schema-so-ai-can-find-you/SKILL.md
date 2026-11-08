@@ -1,6 +1,6 @@
 ---
 name: add-business-schema-so-ai-can-find-you
-description: "Add business schema to your site. Google documents LocalBusiness structured data. name and address are required, and hours and other details are recommended. Test it with the Rich Results Test. Whether AI assistants use it: Not stated in sources. Use when the user asks for help with this job."
+description: "Add business schema to your site. Google documents LocalBusiness structured data. name and address are required, and hours and other details are recommended. Test it with the Rich Results Test."
 ---
 
 # Add business schema to your site
@@ -18,6 +18,18 @@ Owners of a local business website with a physical address and set hours. Use on
 5. Remove any comments from the JSON-LD before you publish. Google's help says the test ignores them but they can cause errors on a live page.
 6. Add the code to your page, run the test on the live URL, and fix errors first and warnings second.
 7. Google also recommends submitting a sitemap so it learns about changes. AI assistants using this markup: Not stated in sources.
+
+## What to ask the user for
+
+- NAME
+- STREET
+- CITY
+- STATE
+- ZIP
+- COUNTRY
+- PHONE
+- URL
+- DAYS AND TIMES
 
 ## Prompt
 

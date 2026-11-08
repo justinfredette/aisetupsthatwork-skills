@@ -1,6 +1,6 @@
 ---
 name: ai-business-plan-research-locations-costs-funding
-description: "How to use AI for business plan research: locations, costs and funding. Ask for location comparisons, cost ranges with sources, funding pages to check, and a simple 90-day marketing plan. Mark every number as an estimate. Use when the user asks for help with this job."
+description: "How to use AI for business plan research: locations, costs and funding. Ask for location comparisons, cost ranges with sources, funding pages to check, and a simple 90-day marketing plan. Mark every."
 ---
 
 # How to use AI for business plan research: locations, costs and funding
@@ -15,6 +15,15 @@ People who need answers on where a business should be, what it will cost, who mi
 2. Money bot: rough startup and monthly cost estimates, plus grants, loans, and other funding to look into.
 3. Marketing bot: who the first customers are, where they hang out, and a simple launch plan.
 4. Review step: checks your own CV or background against the plan and points out gaps.
+
+## What to ask the user for
+
+- BUSINESS IDEA
+- REGION
+- PLACE 1
+- PLACE 2
+- PLACE 3
+- PASTE CV OR SUMMARY
 
 ## Prompt
 

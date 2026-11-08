@@ -1,6 +1,6 @@
 ---
 name: price-a-job-without-losing-money
-description: "Price a job so you do not lose money on it. Give the AI your monthly costs, your tax estimate, and how many hours you can actually bill. It works out the lowest price you can accept, then builds a quote from there. Use when the user asks for help with this job."
+description: "Price a job so you do not lose money on it. Give the AI your monthly costs, your tax estimate, and how many hours you can actually bill. It works out the lowest price you can accept, then builds a."
 ---
 
 # Price a job so you do not lose money on it
@@ -18,6 +18,10 @@ A freelancer or contractor who prices by gut feel and ends up busy but broke
 5. Describe the job: scope, deliverables, revision rounds. The AI builds a project quote from the floor up.
 6. Add a 15 to 20 percent buffer for scope creep and revisions.
 7. Sanity-check the result against your market. The floor is math, the final price is positioning.
+
+## What to ask the user for
+
+- DESCRIBE THE JOB, DELIVERABLES, REVISION ROUNDS
 
 ## Prompt
 

@@ -1,6 +1,6 @@
 ---
 name: reputation-command-center-small-business
-description: "Your Reputation Command Center: Monitor, Respond, Improve. A monthly 30-minute system: audit your listings, check review velocity, answer stragglers, mine themes, feed fixes back to operations. Reputation as a habit, not a panic. Use when the user asks for help with this job."
+description: "Your Reputation Command Center: Monitor, Respond, Improve. A monthly 30-minute system: audit your listings, check review velocity, answer stragglers, mine themes, feed fixes back to operations."
 ---
 
 # Your Reputation Command Center: Monitor, Respond, Improve
@@ -17,6 +17,10 @@ Established small businesses with 50-plus reviews who want reputation handled sy
 4. Mine the month’s reviews for themes: top complaint, top praise, anything new.
 5. Pick one operational fix from the themes and assign it an owner and a date.
 6. Write the one-page monthly brief: numbers, themes, the fix, next month’s watch item. File it where you will find it.
+
+## What to ask the user for
+
+- Google, Yelp, Facebook, others
 
 ## Prompt
 

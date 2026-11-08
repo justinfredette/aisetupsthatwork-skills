@@ -1,6 +1,6 @@
 ---
 name: one-page-leave-behind-for-pitches
-description: "Make a one-page leave-behind for pitches. After the pitch, leave one page: the problem, your approach, proof, price shape, and next step. The AI drafts it from your notes so it is ready before you walk in. Use when the user asks for help with this job."
+description: "Make a one-page leave-behind for pitches. After the pitch, leave one page: the problem, your approach, proof, price shape, and next step. The AI drafts it from your notes so it is ready before you."
 ---
 
 # Make a one-page leave-behind for pitches
@@ -18,6 +18,16 @@ Solo operators and freelancers who pitch in person and want something to stay be
 5. Paste it all plus the prompt below into the AI.
 6. Lay the draft out on one page: headline, three to five labeled blocks, one decision block at the bottom.
 7. Print a few copies or save as PDF. Bring it to the meeting and leave it behind.
+
+## What to ask the user for
+
+- CLIENT NAME / TYPE
+- PROBLEM
+- APPROACH
+- PROOF: do not invent any part of it
+- SCOPE
+- TIMELINE
+- ASSUMPTION
 
 ## Prompt
 

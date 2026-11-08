@@ -1,6 +1,6 @@
 ---
 name: make-a-study-guide-with-ai-custom-course-ebook
-description: "How to make a study guide with AI: a custom course ebook on any topic. Tell it what you already know and your goal. It writes chapters with quizzes and sources, in Markdown you can turn into an EPUB or PDF. Use when the user asks for help with this job."
+description: "How to make a study guide with AI: a custom course ebook on any topic. Tell it what you already know and your goal. It writes chapters with quizzes and sources, in Markdown you can turn into an EPUB."
 ---
 
 # How to make a study guide with AI: a custom course ebook on any topic
@@ -15,6 +15,15 @@ Anyone whose courses on a topic are either too basic or skip the part they care 
 2. Writer bot: turns that into chapters, from basics to the hard parts, with a short quiz after each one.
 3. Formatter: exports it as an EPUB for your e-reader or a PDF. Pandoc is a free tool that can write both from a Markdown file.
 4. If your bot can run commands, ask it to finish with pandoc course.md -o course.epub. PDF output needs a PDF engine such as LaTeX installed.
+
+## What to ask the user for
+
+- TOPIC
+- NUMBER
+- WHAT YOU KNOW
+- YOUR GOAL
+- TOOL OR PROJECT 1
+- TOOL OR PROJECT 2
 
 ## Prompt
 

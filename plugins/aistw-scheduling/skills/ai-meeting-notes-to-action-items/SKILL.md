@@ -1,6 +1,6 @@
 ---
 name: ai-meeting-notes-to-action-items
-description: "Meeting notes to action items and follow-up email. Paste messy meeting notes or a transcript and get decisions, owners, due dates, and a follow-up email draft you send yourself, without the model inventing commitments that were not in the notes. Use when the user asks for help with this job."
+description: "Meeting notes to action items and follow-up email. Paste messy meeting notes or a transcript and get decisions, owners, due dates, and a follow-up email draft you send yourself, without the model."
 ---
 
 # Meeting notes to action items and follow-up email

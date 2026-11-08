@@ -1,6 +1,6 @@
 ---
 name: plan-a-career-change-in-90-days
-description: "Plan a career change in 90 days. Pick one target role, spend a month validating it, a month building proof, and a month applying. The order matters: clarity first, then positioning, then relationships, then applications. Use when the user asks for help with this job."
+description: "Plan a career change in 90 days. Pick one target role, spend a month validating it, a month building proof, and a month applying. The order matters: clarity first, then positioning, then."
 ---
 
 # Plan a career change in 90 days
@@ -17,6 +17,12 @@ Employed people planning a deliberate move into a new field within about three m
 4. Rewrite your resume around the target role, leading with transferable wins.
 5. Days 61-90: apply in batches and track what gets responses. Adjust the story, not just the volume.
 6. Keep your current income while you research, build proof, and test applications, unless you have a pressing reason to leave sooner.
+
+## What to ask the user for
+
+- CURRENT ROLE
+- TARGET ROLE
+- LIST
 
 ## Prompt
 

@@ -1,6 +1,6 @@
 ---
 name: organize-elder-care-with-ai
-description: "Organize Elder Care: Appointments, Meds, and Paperwork. This is not medical or legal advice. One shared system holds the medication list, the appointment calendar, and the key documents, so nothing falls through the cracks between providers. A professional still makes the medical and legal calls. Use when the user asks for help with this job."
+description: "Organize Elder Care: Appointments, Meds, and Paperwork. This is not medical or legal advice. One shared system holds the medication list, the appointment calendar, and the key documents, so nothing."
 ---
 
 # Organize Elder Care: Appointments, Meds, and Paperwork

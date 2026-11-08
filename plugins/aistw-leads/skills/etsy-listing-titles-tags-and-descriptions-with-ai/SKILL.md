@@ -1,6 +1,6 @@
 ---
 name: etsy-listing-titles-tags-and-descriptions-with-ai
-description: "Etsy listing titles, tags, and descriptions with AI. Etsy gives you 13 tags and a short title to get found. Put the most important keywords first in the title, use all 13 tags with varied multi-word phrases, and work keywords naturally into the first sentences of the description. Use when the user asks for help with this job."
+description: "Etsy listing titles, tags, and descriptions with AI. Etsy gives you 13 tags and a short title to get found. Put the most important keywords first in the title, use all 13 tags with varied multi-word."
 ---
 
 # Etsy listing titles, tags, and descriptions with AI
@@ -17,6 +17,10 @@ Etsy sellers who want their listings to show up in Etsy search without guessing 
 4. Write the description with relevant keywords in the first few sentences, then the details a buyer needs.
 5. Check for keyword stuffing and repeated terms. If a phrase appears in the title, it does not need to be a tag.
 6. Use all 10 image slots. The first photo drives clicks from search results.
+
+## What to ask the user for
+
+- DESCRIBE ITEM, MATERIALS, SIZE, COLORS, WHO IT IS FOR
 
 ## Prompt
 

@@ -1,6 +1,6 @@
 ---
 name: claude-projects-for-small-business
-description: "Claude Projects for small business repeat work. I keep SOPs, tone notes, and sample emails in a Claude Project so weekly jobs. Review replies, job posts, status updates. Start from the same context. Claude still does not send mail or spend money; I approve every outbound message. Anthropic documents Projects as shared instructions plus files, not autonomous sending. Use when the user asks for help with this job."
+description: "Claude Projects for small business repeat work. I keep SOPs, tone notes, and sample emails in a Claude Project so weekly jobs. Review replies, job posts, status updates. Start from the same context."
 ---
 
 # Claude Projects for small business repeat work
