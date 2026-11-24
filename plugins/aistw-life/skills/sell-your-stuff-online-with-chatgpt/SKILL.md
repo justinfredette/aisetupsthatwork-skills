@@ -1,6 +1,6 @@
 ---
 name: sell-your-stuff-online-with-chatgpt
-description: "Sell Your Stuff Online with ChatGPT. Here's how I'd set this up in ChatGPT or Claude (not run by us yet). I'd snap a few photos of each thing I want gone, upload them, and have the chat write the."
+description: "Sell Your Stuff Online with ChatGPT. Here's how I'd set this up in ChatGPT or Claude (not run by us yet)."
 ---
 
 # Sell Your Stuff Online with ChatGPT

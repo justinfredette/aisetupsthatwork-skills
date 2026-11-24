@@ -1,6 +1,6 @@
 ---
 name: birthday-party-on-a-budget
-description: "Plan a Kid’s Birthday Party on a Budget. Give ChatGPT your budget ceiling, kid’s age, guest count, and venue. You get a line-item party plan: food, cake, decor, and games that fit the number, with."
+description: "Plan a Kid’s Birthday Party on a Budget. Give ChatGPT your budget ceiling, kid’s age, guest count, and venue."
 ---
 
 # Plan a Kid’s Birthday Party on a Budget

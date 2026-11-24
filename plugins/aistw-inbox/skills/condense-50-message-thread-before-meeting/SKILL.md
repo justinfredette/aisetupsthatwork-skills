@@ -1,6 +1,6 @@
 ---
 name: condense-50-message-thread-before-meeting
-description: "Condense a 50-Message Thread Before a Meeting. Paste the thread into ChatGPT and ask for four things: decisions made, each side position, open questions, and what the meeting needs to decide. You."
+description: "Condense a 50-Message Thread Before a Meeting. Paste the thread into ChatGPT and ask for four things: decisions made, each side position, open questions, and what the meeting needs to decide."
 ---
 
 # Condense a 50-Message Thread Before a Meeting

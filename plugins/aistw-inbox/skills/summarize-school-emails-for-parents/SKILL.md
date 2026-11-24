@@ -1,6 +1,6 @@
 ---
 name: summarize-school-emails-for-parents
-description: "Turn a Week of School Emails Into One Summary. Once a week, gather the school emails you received and have AI pull out the dates, forms due, and action items into one short list. You stop rereading."
+description: "Turn a Week of School Emails Into One Summary. Once a week, gather the school emails you received and have AI pull out the dates, forms due, and action items into one short list."
 ---
 
 # Turn a Week of School Emails Into One Summary

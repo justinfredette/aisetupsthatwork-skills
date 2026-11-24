@@ -1,6 +1,6 @@
 ---
 name: catch-a-long-agent-run-drifting-off-course
-description: "Catch a long agent run drifting off course. Write the goal and what done looks like in 3 lines before the run. Every few steps, have the agent restate the goal, list what it changed, and compare."
+description: "Catch a long agent run drifting off course. Write the goal and what done looks like in 3 lines before the run."
 ---
 
 # Catch a long agent run drifting off course

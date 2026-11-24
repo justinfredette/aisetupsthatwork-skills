@@ -1,6 +1,6 @@
 ---
 name: salon-appointment-service-register-with-chatgpt
-description: "Salon Appointment Register, ChatGPT. Here's how I'd set this up in ChatGPT or Claude. By default I'd run it on made-up example rows: appointment labels with requested services and lifecycle facts."
+description: "Salon Appointment Register, ChatGPT. Here's how I'd set this up in ChatGPT or Claude."
 ---
 
 # Salon Appointment Register, ChatGPT

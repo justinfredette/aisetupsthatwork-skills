@@ -1,6 +1,6 @@
 ---
 name: build-a-lead-gen-site-with-an-ai-bot
-description: "Build a lead-gen site with an AI bot. Use an AI coding or copy assistant to draft a simple landing page and contact form for a local service business, then you approve hosting spend, publish, and."
+description: "Use an AI coding or copy assistant to draft a simple landing page and contact form for a local service business, then you approve hosting spend, publish, and wire leads to email or a sheet."
 ---
 
 # Build a lead-gen site with an AI bot

@@ -1,6 +1,6 @@
 ---
 name: school-night-routine-and-forms
-description: "School night routine and forms. Work backward from the wake-up time to a bedtime that fits the sleep range for your child's age: the CDC, citing the American Academy of Sleep Medicine, lists 9 to 12."
+description: "School night routine and forms."
 ---
 
 # School night routine and forms

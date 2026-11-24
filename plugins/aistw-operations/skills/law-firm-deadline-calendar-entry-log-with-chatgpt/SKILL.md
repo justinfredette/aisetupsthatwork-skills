@@ -1,6 +1,6 @@
 ---
 name: law-firm-deadline-calendar-entry-log-with-chatgpt
-description: "Law Firm Deadline Entry Log, ChatGPT. Here's how I'd set this up in ChatGPT or Claude. By default I'd run it on made-up example rows. From made-up calendar rows, ChatGPT or Claude builds one log."
+description: "Law Firm Deadline Entry Log, ChatGPT. Here's how I'd set this up in ChatGPT or Claude. By default I'd run it on made-up example rows."
 ---
 
 # Law Firm Deadline Entry Log, ChatGPT

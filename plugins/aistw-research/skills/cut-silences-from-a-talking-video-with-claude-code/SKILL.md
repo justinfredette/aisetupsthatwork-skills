@@ -1,6 +1,6 @@
 ---
 name: cut-silences-from-a-talking-video-with-claude-code
-description: "Cut silences from a talking video. Ask Claude Code to find the pauses with FFmpeg's silencedetect filter and list them before it cuts anything. Approve the list, then have it cut the video and sound."
+description: "Cut silences from a talking video. Ask Claude Code to find the pauses with FFmpeg's silencedetect filter and list them before it cuts anything."
 ---
 
 # Cut silences from a talking video

@@ -1,6 +1,6 @@
 ---
 name: fix-wrong-answers-from-your-own-documents
-description: "Fix wrong answers from your own documents. Before switching models, check the files: old versions, two documents that disagree, or a long file where the rule is buried. Remove outdated files, put."
+description: "Fix wrong answers from your own documents. Before switching models, check the files: old versions, two documents that disagree, or a long file where the rule is buried."
 ---
 
 # Fix wrong answers from your own documents

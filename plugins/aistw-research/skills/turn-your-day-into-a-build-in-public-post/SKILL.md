@@ -1,6 +1,6 @@
 ---
 name: turn-your-day-into-a-build-in-public-post
-description: "Turn your day into a build-in-public post. At the end of the day, dump rough notes: what you shipped, what broke, one number. Have the AI turn them into a short post in your own voice that leads."
+description: "Turn your day into a build-in-public post. At the end of the day, dump rough notes: what you shipped, what broke, one number."
 ---
 
 # Turn your day into a build-in-public post

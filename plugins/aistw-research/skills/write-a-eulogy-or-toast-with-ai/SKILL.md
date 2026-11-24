@@ -1,6 +1,6 @@
 ---
 name: write-a-eulogy-or-toast-with-ai
-description: "Write a Eulogy or Toast With AI Without Losing Your Voice. Use AI for structure and feedback only: an opening, two or three specific stories, and a closing. The stories, details, and voice must be."
+description: "Write a Eulogy or Toast With AI Without Losing Your Voice. Use AI for structure and feedback only: an opening, two or three specific stories, and a closing."
 ---
 
 # Write a Eulogy or Toast With AI Without Losing Your Voice

@@ -1,6 +1,6 @@
 ---
 name: answer-order-status-emails-with-ai
-description: "Answer order status emails with AI. Give the AI the customer's email plus the real order status and tracking from your store, and ask for a short reply that only uses those facts. It drafts; you."
+description: "Answer order status emails with AI. Give the AI the customer's email plus the real order status and tracking from your store, and ask for a short reply that only uses those facts."
 ---
 
 # Answer order status emails with AI

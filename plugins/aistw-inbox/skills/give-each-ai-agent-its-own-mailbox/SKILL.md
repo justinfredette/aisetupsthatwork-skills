@@ -1,6 +1,6 @@
 ---
 name: give-each-ai-agent-its-own-mailbox
-description: "Give each AI agent its own email. Google says a Workspace admin can add up to 30 alias addresses per user at no extra cost. Mail to an alias lands in the user's main inbox. An alias is a separate."
+description: "Give each AI agent its own email. Google says a Workspace admin can add up to 30 alias addresses per user at no extra cost. Mail to an alias lands in the user's main inbox."
 ---
 
 # Give each AI agent its own email

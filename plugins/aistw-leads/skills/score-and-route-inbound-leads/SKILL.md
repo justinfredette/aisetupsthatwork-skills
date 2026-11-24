@@ -1,6 +1,6 @@
 ---
 name: score-and-route-inbound-leads
-description: "Score inbound leads so the best ones reach you first. Define what a good lead looks like, assign points for each trait, and let the AI score every inquiry. Hot leads get your call today. Cold ones."
+description: "Score inbound leads so the best ones reach you first. Define what a good lead looks like, assign points for each trait, and let the AI score every inquiry. Hot leads get your call today."
 ---
 
 # Score inbound leads so the best ones reach you first

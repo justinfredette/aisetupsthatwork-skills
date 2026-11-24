@@ -1,6 +1,6 @@
 ---
 name: build-anki-flashcards-from-notes-with-ai
-description: "Turn Class Notes Into Anki Flashcards With AI. Have AI rewrite your notes as question-answer pairs in a tab-separated format, then import the file through Anki's File menu. Keep cards atomic: one."
+description: "Turn Class Notes Into Anki Flashcards With AI. Have AI rewrite your notes as question-answer pairs in a tab-separated format, then import the file through Anki's File menu."
 ---
 
 # Turn Class Notes Into Anki Flashcards With AI

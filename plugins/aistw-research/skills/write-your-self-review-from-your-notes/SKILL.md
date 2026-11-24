@@ -1,6 +1,6 @@
 ---
 name: write-your-self-review-from-your-notes
-description: "Write your self review from your notes. Gather your wins first, then structure the review as: opening statement, accomplishments with specifics, honest growth areas, and forward goals. Write it as."
+description: "Write your self review from your notes. Gather your wins first, then structure the review as: opening statement, accomplishments with specifics, honest growth areas, and forward goals."
 ---
 
 # Write your self review from your notes

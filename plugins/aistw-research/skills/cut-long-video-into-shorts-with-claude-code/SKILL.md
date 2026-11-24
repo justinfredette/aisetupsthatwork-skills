@@ -1,6 +1,6 @@
 ---
 name: cut-long-video-into-shorts-with-claude-code
-description: "Cut long video into shorts with Claude. Transcribe the long video with Whisper, which is free and runs on your computer. Give Claude Code the transcript and ask for 3 moments that stand on their."
+description: "Cut long video into shorts with Claude. Transcribe the long video with Whisper, which is free and runs on your computer."
 ---
 
 # Cut long video into shorts with Claude

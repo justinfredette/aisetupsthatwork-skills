@@ -1,6 +1,6 @@
 ---
 name: year-end-tax-document-checklist
-description: "Build your year-end tax document checklist. Tell the AI your business type and the AI builds a document checklist, then tracks what you have gathered and what is still missing as tax season."
+description: "Tell the AI your business type and the AI builds a document checklist, then tracks what you have gathered and what is still missing as tax season approaches."
 ---
 
 # Build your year-end tax document checklist

@@ -1,6 +1,6 @@
 ---
 name: give-each-staff-member-their-own-bot-safely
-description: "Give each staff member their own bot safely. One person, one bot, one set of sign-ins. Never let a bot use a colleague's login. Give everyone the same starter rulebook and routines, let each person."
+description: "Give each staff member their own bot safely. One person, one bot, one set of sign-ins. Never let a bot use a colleague's login."
 ---
 
 # Give each staff member their own bot safely

@@ -1,6 +1,6 @@
 ---
 name: separate-business-and-personal-money
-description: "Separate your business and personal money for good. The AI walks you through opening a separate account, sorting the mixed transactions, and setting up one simple weekly habit so they never tangle."
+description: "The AI walks you through opening a separate account, sorting the mixed transactions, and setting up one simple weekly habit so they never tangle again."
 ---
 
 # Separate your business and personal money for good

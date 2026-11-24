@@ -1,6 +1,6 @@
 ---
 name: write-home-assistant-automations-with-ai
-description: "Write Home Assistant automations with AI. Describe the automation in plain words: what should trigger it, any conditions, and what should happen. The AI writes the YAML in the current format, and."
+description: "Write Home Assistant automations with AI. Describe the automation in plain words: what should trigger it, any conditions, and what should happen."
 ---
 
 # Write Home Assistant automations with AI

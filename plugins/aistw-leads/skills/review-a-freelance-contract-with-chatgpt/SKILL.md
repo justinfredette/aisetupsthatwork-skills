@@ -1,6 +1,6 @@
 ---
 name: review-a-freelance-contract-with-chatgpt
-description: "Review a Freelance Contract with ChatGPT or Claude. Here's how I'd set this up in ChatGPT or Claude (not run by us yet). Before signing a client contract or NDA, I'd upload it, have the chat explain."
+description: "Review a Freelance Contract with ChatGPT or Claude. Here's how I'd set this up in ChatGPT or Claude (not run by us yet)."
 ---
 
 # Review a Freelance Contract with ChatGPT or Claude

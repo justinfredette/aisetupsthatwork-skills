@@ -1,6 +1,6 @@
 ---
 name: fix-your-linkedin-headline-for-recruiters
-description: "Fix your LinkedIn headline for recruiters. Your headline does not have to be just your job title. Use the formula: title, then key skills, then your value proposition, separated by vertical bars. It."
+description: "Fix your LinkedIn headline for recruiters. Your headline does not have to be just your job title. Use the formula: title, then key skills, then your value proposition, separated by vertical bars."
 ---
 
 # Fix your LinkedIn headline for recruiters

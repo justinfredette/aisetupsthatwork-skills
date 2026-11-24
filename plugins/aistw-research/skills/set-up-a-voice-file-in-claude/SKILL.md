@@ -1,6 +1,6 @@
 ---
 name: set-up-a-voice-file-in-claude
-description: "Set up a voice file in Claude. Paste 10 to 20 pieces of your own writing into Claude and have it draft a voice profile. Then make a Project: open Projects, select + New Project, click Set project."
+description: "Set up a voice file in Claude. Paste 10 to 20 pieces of your own writing into Claude and have it draft a voice profile."
 ---
 
 # Set up a voice file in Claude

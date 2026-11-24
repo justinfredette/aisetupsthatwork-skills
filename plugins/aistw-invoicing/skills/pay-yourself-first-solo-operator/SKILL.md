@@ -1,6 +1,6 @@
 ---
 name: pay-yourself-first-solo-operator
-description: "Pay yourself first as a solo operator. Give the AI your monthly revenue and it splits every payment into profit, owner pay, tax, and expense accounts using Profit First percentages, so you get paid."
+description: "Give the AI your monthly revenue and it splits every payment into profit, owner pay, tax, and expense accounts using Profit First percentages, so you get paid like an employee."
 ---
 
 # Pay yourself first as a solo operator

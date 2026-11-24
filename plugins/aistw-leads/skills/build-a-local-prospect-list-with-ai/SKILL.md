@@ -1,6 +1,6 @@
 ---
 name: build-a-local-prospect-list-with-ai
-description: "Build a local prospect list with AI help. Search your trade plus town on Google Maps, export the listings, and let the AI research each one and draft a personalized first line. Fifty real prospects."
+description: "Build a local prospect list with AI help. Search your trade plus town on Google Maps, export the listings, and let the AI research each one and draft a personalized first line."
 ---
 
 # Build a local prospect list with AI help

@@ -1,6 +1,6 @@
 ---
 name: dispute-fake-or-unfair-reviews
-description: "Dispute a Fake or Unfair Review (and Know When to Let It Go). Report real policy violations through Google’s flow with evidence, track the status, appeal once if denied. Most bad-but-honest reviews."
+description: "Dispute a Fake or Unfair Review (and Know When to Let It Go). Report real policy violations through Google’s flow with evidence, track the status, appeal once if denied."
 ---
 
 # Dispute a Fake or Unfair Review (and Know When to Let It Go)

@@ -1,6 +1,6 @@
 ---
 name: turn-how-you-work-into-a-written-sop
-description: "Turn how you work into a written SOP. An SOP is a recipe for a task: header with owner and date, numbered steps with one action each, and notes for the edge cases. Write it by doing the task once."
+description: "Turn how you work into a written SOP. An SOP is a recipe for a task: header with owner and date, numbered steps with one action each, and notes for the edge cases."
 ---
 
 # Turn how you work into a written SOP

@@ -1,6 +1,6 @@
 ---
 name: screen-spam-calls-trust-ladder
-description: "Screen spam calls with a trust ladder. Climb one rung at a time: save the numbers you need, turn on the spam filter, filter unknown callers into a list, then try Ask Reason for Calling. The list."
+description: "Screen spam calls with a trust ladder. Climb one rung at a time: save the numbers you need, turn on the spam filter, filter unknown callers into a list, then try Ask Reason for Calling."
 ---
 
 # Screen spam calls with a trust ladder

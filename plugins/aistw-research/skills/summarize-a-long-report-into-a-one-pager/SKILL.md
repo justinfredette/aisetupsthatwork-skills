@@ -1,6 +1,6 @@
 ---
 name: summarize-a-long-report-into-a-one-pager
-description: "Turn a long report into a one-page brief. Feed the report to the AI and ask for a one-page executive summary: purpose, key findings, numbers that matter, and recommended actions. You get the gist."
+description: "Turn a long report into a one-page brief. Feed the report to the AI and ask for a one-page executive summary: purpose, key findings, numbers that matter, and recommended actions."
 ---
 
 # Turn a long report into a one-page brief

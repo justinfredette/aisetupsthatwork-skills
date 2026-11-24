@@ -1,6 +1,6 @@
 ---
 name: packing-list-for-any-trip
-description: "Packing List for Any Trip (AI Builds It From Your Itinerary). Paste your destination, dates, activities, and luggage limits into ChatGPT. You get a packing list matched to the weather, the plan, and."
+description: "Packing List for Any Trip (AI Builds It From Your Itinerary). Paste your destination, dates, activities, and luggage limits into ChatGPT."
 ---
 
 # Packing List for Any Trip (AI Builds It From Your Itinerary)

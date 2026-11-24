@@ -1,6 +1,6 @@
 ---
 name: onboard-your-first-employees
-description: "Onboard your first employees. Before day one, prepare the paperwork list, a written role description with first-90-day expectations, and a simple training plan. Good onboarding is mostly."
+description: "Onboard your first employees. Before day one, prepare the paperwork list, a written role description with first-90-day expectations, and a simple training plan."
 ---
 
 # Onboard your first employees

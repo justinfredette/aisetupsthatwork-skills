@@ -1,6 +1,6 @@
 ---
 name: new-baby-prep-checklist
-description: "New Baby Prep Checklist (The Short List That Actually Matters). Tell ChatGPT your due date, living situation, and what you already own. You get a trimester-by-trimester prep plan: the real."
+description: "New Baby Prep Checklist (The Short List That Actually Matters). Tell ChatGPT your due date, living situation, and what you already own."
 ---
 
 # New Baby Prep Checklist (The Short List That Actually Matters)

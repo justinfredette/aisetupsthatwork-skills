@@ -1,6 +1,6 @@
 ---
 name: law-firm-intake-conflict-status-log-with-chatgpt
-description: "Law Firm Intake Status Log, ChatGPT. Here's how I'd set this up in ChatGPT or Claude. By default I'd run it on made-up example rows. From made-up intake rows, ChatGPT or Claude builds one log that."
+description: "Law Firm Intake Status Log, ChatGPT. Here's how I'd set this up in ChatGPT or Claude. By default I'd run it on made-up example rows."
 ---
 
 # Law Firm Intake Status Log, ChatGPT

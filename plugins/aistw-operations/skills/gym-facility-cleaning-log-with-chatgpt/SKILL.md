@@ -1,6 +1,6 @@
 ---
 name: gym-facility-cleaning-log-with-chatgpt
-description: "Gym Cleaning Log, ChatGPT. Here's how I'd set this up in ChatGPT or Claude. By default I'd run it on made-up example rows: area labels with cleaning events exactly as recorded - date, time and."
+description: "Gym Cleaning Log, ChatGPT. Here's how I'd set this up in ChatGPT or Claude."
 ---
 
 # Gym Cleaning Log, ChatGPT

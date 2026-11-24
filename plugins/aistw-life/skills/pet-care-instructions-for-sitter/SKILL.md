@@ -1,6 +1,6 @@
 ---
 name: pet-care-instructions-for-sitter
-description: "Pet Care Instructions for Your Sitter (One Sheet, No Panic Texts). Tell ChatGPT your pet’s routine: feeding, walks, meds, quirks, vet info, and house rules. You get a one-page sitter sheet with an."
+description: "Pet Care Instructions for Your Sitter (One Sheet, No Panic Texts). Tell ChatGPT your pet’s routine: feeding, walks, meds, quirks, vet info, and house rules."
 ---
 
 # Pet Care Instructions for Your Sitter (One Sheet, No Panic Texts)

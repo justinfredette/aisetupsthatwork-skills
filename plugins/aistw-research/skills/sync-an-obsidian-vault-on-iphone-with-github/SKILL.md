@@ -1,6 +1,6 @@
 ---
 name: sync-an-obsidian-vault-on-iphone-with-github
-description: "Sync an Obsidian vault on iPhone. Install Obsidian, create an empty vault stored on the iPhone (not in iCloud), add the community plugin named Git, and give it a fine-grained GitHub token that."
+description: "Install Obsidian, create an empty vault stored on the iPhone (not in iCloud), add the community plugin named Git, and give it a fine-grained GitHub token that reaches only the vault repo."
 ---
 
 # Sync an Obsidian vault on iPhone

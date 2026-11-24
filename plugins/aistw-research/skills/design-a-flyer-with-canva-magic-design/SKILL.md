@@ -1,6 +1,6 @@
 ---
 name: design-a-flyer-with-canva-magic-design
-description: "Design a flyer with Canva Magic Design. Canva's Magic Design suggests flyer layouts from a short description you type on the Canva homepage. Draft the words with the prompt below, pick a layout."
+description: "Design a flyer with Canva Magic Design. Canva's Magic Design suggests flyer layouts from a short description you type on the Canva homepage."
 ---
 
 # Design a flyer with Canva Magic Design

@@ -1,6 +1,6 @@
 ---
 name: check-your-resume-for-claims-you-cannot-back-up
-description: "Check your resume for claims you cannot back up. Keep one master file with every role, project and result, with real numbers. Before sending a tailored resume or message, have the AI compare each."
+description: "Check your resume for claims you cannot back up. Keep one master file with every role, project and result, with real numbers."
 ---
 
 # Check your resume for claims you cannot back up

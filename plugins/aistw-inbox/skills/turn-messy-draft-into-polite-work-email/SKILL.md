@@ -1,6 +1,6 @@
 ---
 name: turn-messy-draft-into-polite-work-email
-description: "Turn a messy draft into a clear, polite work email. Paste your rough or frustrated draft, name the recipient and tone, and ask ChatGPT or Claude for a concise rewrite under a word cap. Keeping your."
+description: "Turn a messy draft into a clear, polite work email. Paste your rough draft, say who it is for and how it should sound, and set a word limit."
 ---
 
 # Turn a messy draft into a clear, polite work email

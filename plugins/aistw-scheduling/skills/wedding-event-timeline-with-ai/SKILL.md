@@ -1,6 +1,6 @@
 ---
 name: wedding-event-timeline-with-ai
-description: "Plan a wedding or big event timeline with AI. Tell AI your event date, budget, and guest count. It builds a month-by-month timeline with booking deadlines for every vendor, so the photographer and."
+description: "Plan a wedding or big event timeline with AI. Tell AI your event date, budget, and guest count."
 ---
 
 # Plan a wedding or big event timeline with AI

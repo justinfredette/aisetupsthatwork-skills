@@ -1,6 +1,6 @@
 ---
 name: understand-lab-results-before-a-doctor-visit
-description: "Understand Lab Results Before Your Doctor Visit. This is not medical advice, and AI is not a doctor. Use AI to learn what a test generally measures and to build a question list for your visit. The."
+description: "Understand Lab Results Before Your Doctor Visit. This is not medical advice, and AI is not a doctor. Use AI to learn what a test generally measures and to build a question list for your visit."
 ---
 
 # Understand Lab Results Before Your Doctor Visit

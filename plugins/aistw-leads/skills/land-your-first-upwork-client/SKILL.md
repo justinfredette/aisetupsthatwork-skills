@@ -1,6 +1,6 @@
 ---
 name: land-your-first-upwork-client
-description: "Land Your First Upwork Client. Complete your profile to 100 percent with a keyword-rich title and real samples, then send 5 to 10 tailored proposals a day to entry-level jobs posted in the last 24."
+description: "Complete your profile to 100 percent with a keyword-rich title and real samples, then send 5 to 10 tailored proposals a day to entry-level jobs posted in the last 24 hours."
 ---
 
 # Land Your First Upwork Client

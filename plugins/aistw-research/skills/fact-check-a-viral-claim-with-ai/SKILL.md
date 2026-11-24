@@ -1,6 +1,6 @@
 ---
 name: fact-check-a-viral-claim-with-ai
-description: "Fact-check a viral claim before you share it. Paste the claim into the AI and ask it to find the original source, check fact-checker sites, and rate the evidence. You get a verdict in a minute."
+description: "Fact-check a viral claim before you share it. Paste the claim into the AI and ask it to find the original source, check fact-checker sites, and rate the evidence."
 ---
 
 # Fact-check a viral claim before you share it

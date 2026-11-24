@@ -1,6 +1,6 @@
 ---
 name: compare-big-purchase
-description: "Compare three options for a big purchase (laptop, TV, mattress, car seat, appliance) against the buyer's budget and must-haves. Use when someone asks \"which X should I buy\" or wants a side-by-side."
+description: "Compare three options for a big purchase (laptop, TV, mattress, car seat, appliance) against the buyer's budget and must-haves."
 ---
 
 # Compare a big purchase

@@ -1,6 +1,6 @@
 ---
 name: text-back-missed-callers-with-a-booking-link
-description: "Text back missed callers with a booking link. Turn on your phone system's missed-call auto-reply and use AI to write a short text: your business name, sorry we missed you, a booking link and a reply."
+description: "Turn on the missed-call auto-reply in your business phone system and paste in a short text: your business name, a quick sorry, your booking link and a way to reply."
 ---
 
 # Text back missed callers with a booking link

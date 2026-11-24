@@ -1,6 +1,6 @@
 ---
 name: barbershop-tool-station-sanitation-log-with-chatgpt
-description: "Barbershop Sanitation Log, ChatGPT. Here's how I'd set this up in ChatGPT or Claude. By default I'd run it on made-up example rows: tool and station labels with cleaning and disinfection events."
+description: "Barbershop Sanitation Log, ChatGPT. Here's how I'd set this up in ChatGPT or Claude."
 ---
 
 # Barbershop Sanitation Log, ChatGPT

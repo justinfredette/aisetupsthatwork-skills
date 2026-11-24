@@ -1,6 +1,6 @@
 ---
 name: will-checklist-with-ai
-description: "Will Checklist: Get Your Documents Ready Before You See a Lawyer. AI cannot write your will. It can organize everything a lawyer needs: your asset list, beneficiaries, guardianship wishes, and."
+description: "Will Checklist: Get Your Documents Ready Before You See a Lawyer. AI cannot write your will."
 ---
 
 # Will Checklist: Get Your Documents Ready Before You See a Lawyer

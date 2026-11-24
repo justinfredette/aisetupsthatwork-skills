@@ -1,6 +1,6 @@
 ---
 name: ai-promise-tracker-for-your-business
-description: "AI promise tracker for your business. Use a connected email account or pasted meeting notes, and ask the assistant for a weekly list of open promises with dates. ChatGPT's help center says scheduled."
+description: "AI promise tracker for your business. Use a connected email account or pasted meeting notes, and ask the assistant for a weekly list of open promises with dates."
 ---
 
 # AI promise tracker for your business

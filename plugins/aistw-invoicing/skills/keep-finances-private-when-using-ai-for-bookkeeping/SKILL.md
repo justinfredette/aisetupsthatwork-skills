@@ -1,6 +1,6 @@
 ---
 name: keep-finances-private-when-using-ai-for-bookkeeping
-description: "Keep finances private when using AI for books. Turn off the setting that lets your chats train the model, strip account numbers, names and tax IDs before pasting, and work from summaries or exports."
+description: "Turn off the setting that lets your chats train the model, strip account numbers, names and tax IDs before pasting, and work from summaries or exports with only the columns you need."
 ---
 
 # Keep finances private when using AI for books

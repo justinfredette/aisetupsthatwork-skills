@@ -1,6 +1,6 @@
 ---
 name: check-if-chatgpt-recommends-your-business
-description: "Check if ChatGPT recommends your business. Ask the AI assistants the exact questions a customer would, such as best roofer near Rutland, and write down who gets named and which pages they cite. Then."
+description: "Check if ChatGPT recommends your business. Ask the AI assistants the exact questions a customer would, such as best roofer near Rutland, and write down who gets named and which pages they cite."
 ---
 
 # Check if ChatGPT recommends your business

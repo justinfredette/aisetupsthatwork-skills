@@ -1,6 +1,6 @@
 ---
 name: negotiate-a-job-offer-with-ai
-description: "Negotiate a job offer with AI. Put each offer in a table: pay, bonus, benefits, time off, growth. Check public pay data such as the BLS Occupational Outlook Handbook for the role. Draft a short."
+description: "Negotiate a job offer with AI. Put each offer in a table: pay, bonus, benefits, time off, growth. Check public pay data such as the BLS Occupational Outlook Handbook for the role."
 ---
 
 # Negotiate a job offer with AI

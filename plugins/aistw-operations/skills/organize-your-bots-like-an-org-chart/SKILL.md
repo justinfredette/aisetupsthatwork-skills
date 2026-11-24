@@ -1,6 +1,6 @@
 ---
 name: organize-your-bots-like-an-org-chart
-description: "Organize your bots like an org chart. Draw it like a small company: one coordinator bot that takes requests and hands them to specialist bots, each with one job and one set of tools. You approve."
+description: "Organize your bots like an org chart. Draw it like a small company: one coordinator bot that takes requests and hands them to specialist bots, each with one job and one set of tools."
 ---
 
 # Organize your bots like an org chart

@@ -1,6 +1,6 @@
 ---
 name: research-a-used-car-before-buying-with-ai
-description: "Research a used car before you buy: reliability, price, and scams. Give the AI the exact year, make, model, and mileage, and ask for known reliability issues, fair price range, and a pre-purchase."
+description: "Give the AI the exact year, make, model, and mileage, and ask for known reliability issues, fair price range, and a pre-purchase checklist."
 ---
 
 # Research a used car before you buy: reliability, price, and scams

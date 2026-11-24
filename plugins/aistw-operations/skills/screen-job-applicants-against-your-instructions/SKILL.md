@@ -1,6 +1,6 @@
 ---
 name: screen-job-applicants-against-your-instructions
-description: "Screen job applicants against your instructions. List only job-related must-haves and the instructions in your post, such as a code word or answering one question. Have the AI check each application."
+description: "Screen job applicants against your instructions. List only job-related must-haves and the instructions in your post, such as a code word or answering one question."
 ---
 
 # Screen job applicants against your instructions

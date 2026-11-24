@@ -1,6 +1,6 @@
 ---
 name: check-a-black-friday-deal-with-claude
-description: "Check a Black Friday deal with Claude. Turn on web search from the + button in the chat, then paste the deal: store, exact model number, sale price and the \"was\" price. Ask Claude to find the same."
+description: "Check a Black Friday deal with Claude. Turn on web search from the + button in the chat, then paste the deal: store, exact model number, sale price and the \"was\" price."
 ---
 
 # Check a Black Friday deal with Claude

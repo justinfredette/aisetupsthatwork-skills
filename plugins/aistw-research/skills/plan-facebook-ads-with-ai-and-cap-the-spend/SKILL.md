@@ -1,6 +1,6 @@
 ---
 name: plan-facebook-ads-with-ai-and-cap-the-spend
-description: "Plan Facebook ads with AI and cap the spend. Let AI do the drafting: 3 angles from your real customer reviews, copy for each, and a simple test plan. You launch in Meta Ads Manager with an account."
+description: "Plan Facebook ads with AI and cap the spend. Let AI do the drafting: 3 angles from your real customer reviews, copy for each, and a simple test plan."
 ---
 
 # Plan Facebook ads with AI and cap the spend

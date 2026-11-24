@@ -1,6 +1,6 @@
 ---
 name: shared-ai-brain-with-obsidian-and-github
-description: "Shared AI brain: Obsidian and GitHub. Keep the notes in an Obsidian vault and back it up to a private GitHub repository with the Obsidian Git plugin. Claude Code reads CLAUDE.md files at the start."
+description: "Shared AI brain: Obsidian and GitHub. Keep the notes in an Obsidian vault and back it up to a private GitHub repository with the Obsidian Git plugin."
 ---
 
 # Shared AI brain: Obsidian and GitHub

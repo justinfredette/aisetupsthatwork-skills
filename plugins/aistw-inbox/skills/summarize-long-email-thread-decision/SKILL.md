@@ -1,6 +1,6 @@
 ---
 name: summarize-long-email-thread-decision
-description: "Turn a Long Email Thread Into a Decision Summary. Copy the email thread into ChatGPT or Claude and ask for three things: what was decided, what is still open, and who owns what. You get the thread's."
+description: "Turn a Long Email Thread Into a Decision Summary. Copy the email thread into ChatGPT or Claude and ask for three things: what was decided, what is still open, and who owns what."
 ---
 
 # Turn a Long Email Thread Into a Decision Summary

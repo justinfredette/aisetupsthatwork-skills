@@ -1,6 +1,6 @@
 ---
 name: law-firm-time-billing-record-log-with-chatgpt
-description: "Law Firm Time and Billing Log, ChatGPT. Here's how I'd set this up in ChatGPT or Claude. By default I'd run it on made-up example rows. From made-up time rows, ChatGPT or Claude builds one log that."
+description: "Law Firm Time and Billing Log, ChatGPT. Here's how I'd set this up in ChatGPT or Claude. By default I'd run it on made-up example rows."
 ---
 
 # Law Firm Time and Billing Log, ChatGPT

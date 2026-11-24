@@ -1,6 +1,6 @@
 ---
 name: compare-insurance-quotes-apples-to-apples
-description: "Compare insurance quotes apples to apples. Give the AI your current declarations page and each new quote, and ask it to line up identical coverage, limits, and deductibles. You find out which quote."
+description: "Compare insurance quotes apples to apples. Give the AI your current declarations page and each new quote, and ask it to line up identical coverage, limits, and deductibles."
 ---
 
 # Compare insurance quotes apples to apples

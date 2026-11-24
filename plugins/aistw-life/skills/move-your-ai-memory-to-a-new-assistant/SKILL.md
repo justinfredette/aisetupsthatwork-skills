@@ -1,6 +1,6 @@
 ---
 name: move-your-ai-memory-to-a-new-assistant
-description: "Move your AI memory to a new assistant. Claude's help center says you can bring memory from another AI service by running an export prompt there, then pasting the result into Settings > Your Claude."
+description: "Claude's help center says you can bring memory from another AI service by running an export prompt there, then pasting the result into Settings > Your Claude > Start import."
 ---
 
 # Move your AI memory to a new assistant

@@ -1,6 +1,6 @@
 ---
 name: check-etsy-listings-against-the-new-ai-rules
-description: "Check Etsy listings against the new AI rules. Etsy now requires at least one unedited photo of the actual item on a real background, photos that match what the buyer gets, an AI disclosure in the."
+description: "Check Etsy listings against the new AI rules."
 ---
 
 # Check Etsy listings against the new AI rules

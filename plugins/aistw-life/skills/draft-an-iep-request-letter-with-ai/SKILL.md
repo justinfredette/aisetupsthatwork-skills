@@ -1,6 +1,6 @@
 ---
 name: draft-an-iep-request-letter-with-ai
-description: "Write an IEP Evaluation Request Letter. This is not legal advice. Parents can request a special education evaluation in writing; the school must respond, and federal law generally requires the."
+description: "Write an IEP Evaluation Request Letter. This is not legal advice."
 ---
 
 # Write an IEP Evaluation Request Letter

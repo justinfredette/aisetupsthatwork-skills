@@ -1,6 +1,6 @@
 ---
 name: salon-sanitation-cleaning-log-with-chatgpt
-description: "Salon Cleaning Log, ChatGPT. Here's how I'd set this up in ChatGPT or Claude. By default I'd run it on made-up example rows: station labels with cleaning and disinfection events exactly as recorded."
+description: "Salon Cleaning Log, ChatGPT. Here's how I'd set this up in ChatGPT or Claude."
 ---
 
 # Salon Cleaning Log, ChatGPT

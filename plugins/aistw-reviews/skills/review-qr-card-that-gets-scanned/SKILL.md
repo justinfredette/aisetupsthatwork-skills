@@ -1,6 +1,6 @@
 ---
 name: review-qr-card-that-gets-scanned
-description: "Make a Review QR Card Customers Actually Scan. Grab your free Google review QR code from your Business Profile on a computer, pair it with two honest lines of copy, and print it as a counter card or."
+description: "Grab your free Google review QR code from your Business Profile on a computer, pair it with two honest lines of copy, and print it as a counter card or receipt insert. Hand it over; do not hover."
 ---
 
 # Make a Review QR Card Customers Actually Scan

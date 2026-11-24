@@ -1,6 +1,6 @@
 ---
 name: resignation-letter-and-exit-conversation
-description: "Resignation letter and exit conversation. Keep the letter short: state you are resigning, give your last day, thank them, and offer to help with the transition. Tell your manager first in a private."
+description: "Resignation letter and exit conversation. Keep the letter short: state you are resigning, give your last day, thank them, and offer to help with the transition."
 ---
 
 # Resignation letter and exit conversation

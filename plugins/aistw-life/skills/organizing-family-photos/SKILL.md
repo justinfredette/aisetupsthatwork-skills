@@ -1,6 +1,6 @@
 ---
 name: organizing-family-photos
-description: "Organize Family Photos (A Folder System You Will Keep Up). Describe where your photos live now: phones, old laptops, cloud accounts, shoeboxes. ChatGPT designs a simple folder system (year, then."
+description: "Organize Family Photos (A Folder System You Will Keep Up). Describe where your photos live now: phones, old laptops, cloud accounts, shoeboxes."
 ---
 
 # Organize Family Photos (A Folder System You Will Keep Up)

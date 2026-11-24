@@ -1,6 +1,6 @@
 ---
 name: tailor-resume-to-job-description-with-ai
-description: "ChatGPT Prompt for Tailoring Your Resume to a Job Description. I paste the job posting and my current resume into ChatGPT, ask for a gap table and bullet rewrites that use only my real experience."
+description: "The prompt that works best gives the AI three things: the full job posting, your current resume, and a rule that it may only use facts from your resume."
 ---
 
 # ChatGPT Prompt for Tailoring Your Resume to a Job Description

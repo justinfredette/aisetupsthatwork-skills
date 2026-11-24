@@ -1,6 +1,6 @@
 ---
 name: check-your-agent-did-the-follow-up-it-promised
-description: "Check your agent did the follow-up it promised. An agent saying it will watch for something is not the same as a scheduled job doing it. Turn every promise into a dated task, have a daily check list."
+description: "Check your agent did the follow-up it promised. An agent saying it will watch for something is not the same as a scheduled job doing it."
 ---
 
 # Check your agent did the follow-up it promised

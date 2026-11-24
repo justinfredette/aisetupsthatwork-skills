@@ -1,6 +1,6 @@
 ---
 name: research-a-neighborhood-before-you-move
-description: "Research a neighborhood before you move. Give the AI your must-haves and a few candidate neighborhoods, and ask for a comparison of safety data, schools, commute, walkability, and home values. You."
+description: "Research a neighborhood before you move. Give the AI your must-haves and a few candidate neighborhoods, and ask for a comparison of safety data, schools, commute, walkability, and home values."
 ---
 
 # Research a neighborhood before you move

@@ -1,6 +1,6 @@
 ---
 name: reply-to-one-star-reviews-with-ai
-description: "Reply to 1-Star Reviews Without Sounding Like a Robot. Paste the 1-star review and your real policies into ChatGPT, get a calm short reply that apologizes once and moves the conversation offline."
+description: "Paste the 1-star review and your real policies into ChatGPT, get a calm short reply that apologizes once and moves the conversation offline, then post it yourself. Never argue in public."
 ---
 
 # Reply to 1-Star Reviews Without Sounding Like a Robot

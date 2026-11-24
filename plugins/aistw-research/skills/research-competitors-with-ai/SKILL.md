@@ -1,6 +1,6 @@
 ---
 name: research-competitors-with-ai
-description: "Research competitors through your customer’s eyes. Build a competitor comparison from public websites, ads, and reviews. Positioning, pricing, strengths, and the one question they answer better than."
+description: "Research competitors through your customer’s eyes. Build a competitor comparison from public websites, ads, and reviews."
 ---
 
 # Research competitors through your customer’s eyes

@@ -1,6 +1,6 @@
 ---
 name: follow-up-on-quotes-gone-cold
-description: "Follow up on quotes that went cold. Use ChatGPT or Claude plus a sheet to draft quote follow-ups you approve. For quote follow up automation, compare your quoting tool's built-in reminders with."
+description: "Follow up on quotes that went cold. Use ChatGPT or Claude plus a sheet to draft quote follow-ups you approve."
 ---
 
 # Follow up on quotes that went cold

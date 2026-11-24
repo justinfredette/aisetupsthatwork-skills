@@ -1,6 +1,6 @@
 ---
 name: barbershop-chair-rental-agreement-register-with-chatgpt
-description: "Chair Rental Register, ChatGPT. Here's how I'd set this up in ChatGPT or Claude. By default I'd run it on made-up example rows: agreement labels with terms exactly as recorded - parties by role."
+description: "Chair Rental Register, ChatGPT. Here's how I'd set this up in ChatGPT or Claude."
 ---
 
 # Chair Rental Register, ChatGPT

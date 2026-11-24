@@ -1,6 +1,6 @@
 ---
 name: backwards-project-deadlines-from-launch
-description: "Plan project deadlines backwards from launch. Give AI your launch date and the phases of the project. It works backwards, assigns real dates to each phase, and tells you when you must start. If that."
+description: "Plan project deadlines backwards from launch. Give AI your launch date and the phases of the project. It works backwards, assigns real dates to each phase, and tells you when you must start."
 ---
 
 # Plan project deadlines backwards from launch

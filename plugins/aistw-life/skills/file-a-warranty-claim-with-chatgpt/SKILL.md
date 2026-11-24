@@ -1,6 +1,6 @@
 ---
 name: file-a-warranty-claim-with-chatgpt
-description: "File a Warranty Claim with ChatGPT. Here's how I'd set this up in ChatGPT or Claude (not run by us yet). When something breaks, I'd upload the warranty, my receipt, and photos of the problem, and."
+description: "File a Warranty Claim with ChatGPT. Here's how I'd set this up in ChatGPT or Claude (not run by us yet)."
 ---
 
 # File a Warranty Claim with ChatGPT

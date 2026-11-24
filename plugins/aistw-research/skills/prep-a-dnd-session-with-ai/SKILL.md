@@ -1,6 +1,6 @@
 ---
 name: prep-a-dnd-session-with-ai
-description: "Prep a D&D session with AI. Give the AI where your players are headed and what happened last session. It turns that into the six prep buckets DMs actually use: locations, characters, scenes."
+description: "Prep a D&D session with AI. Give the AI where your players are headed and what happened last session."
 ---
 
 # Prep a D&D session with AI

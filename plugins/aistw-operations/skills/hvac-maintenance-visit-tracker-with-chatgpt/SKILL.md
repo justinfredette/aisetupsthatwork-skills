@@ -1,6 +1,6 @@
 ---
 name: hvac-maintenance-visit-tracker-with-chatgpt
-description: "HVAC Maintenance Tracker, ChatGPT. Here's how I'd set this up in ChatGPT or Claude. By default I'd run it on made-up example rows. From made-up visit rows, ChatGPT or Claude builds one tracker that."
+description: "HVAC Maintenance Tracker, ChatGPT. Here's how I'd set this up in ChatGPT or Claude. By default I'd run it on made-up example rows."
 ---
 
 # HVAC Maintenance Tracker, ChatGPT

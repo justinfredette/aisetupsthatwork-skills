@@ -1,6 +1,6 @@
 ---
 name: barber-client-cut-preference-record-with-chatgpt
-description: "Barber Client Cut Record, ChatGPT. Here's how I'd set this up in ChatGPT or Claude. By default I'd run it on made-up example rows: client labels with cut and preference records exactly as recorded."
+description: "Barber Client Cut Record, ChatGPT. Here's how I'd set this up in ChatGPT or Claude."
 ---
 
 # Barber Client Cut Record, ChatGPT

@@ -1,6 +1,6 @@
 ---
 name: payment-terms-that-protect-you
-description: "Write payment terms that actually protect you. Describe how you bill and the AI drafts payment terms covering deposits, due dates, late fees, and what happens if a project stalls. You put them on."
+description: "Write payment terms that actually protect you. Describe how you bill and the AI drafts payment terms covering deposits, due dates, late fees, and what happens if a project stalls."
 ---
 
 # Write payment terms that actually protect you

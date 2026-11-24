@@ -1,6 +1,6 @@
 ---
 name: salon-client-formula-history-register-with-chatgpt
-description: "Salon Client Formula Log, ChatGPT. Here's how I'd set this up in ChatGPT or Claude. By default I'd run it on made-up example rows: client labels with formulas and patch-test records exactly as."
+description: "Salon Client Formula Log, ChatGPT. Here's how I'd set this up in ChatGPT or Claude."
 ---
 
 # Salon Client Formula Log, ChatGPT

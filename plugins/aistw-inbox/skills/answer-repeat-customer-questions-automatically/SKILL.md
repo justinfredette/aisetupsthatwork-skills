@@ -1,6 +1,6 @@
 ---
 name: answer-repeat-customer-questions-automatically
-description: "Answer repeat customer questions automatically. Write down the ten questions you answer over and over, put the approved answers in one place, and let a simple chatbot or FAQ page handle them. You."
+description: "Answer repeat customer questions automatically. Write down the ten questions you answer over and over, put the approved answers in one place, and let a simple chatbot or FAQ page handle them."
 ---
 
 # Answer repeat customer questions automatically

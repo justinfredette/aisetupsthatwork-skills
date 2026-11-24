@@ -1,6 +1,6 @@
 ---
 name: auto-clip-long-videos-into-shorts-with-ai
-description: "Clip long videos into shorts. OpusClip's help center says you import a long video, add optional instructions, and get clips back on a results page. Review every clip, then schedule it in YouTube."
+description: "Clip long videos into shorts. OpusClip's help center says you import a long video, add optional instructions, and get clips back on a results page."
 ---
 
 # Clip long videos into shorts

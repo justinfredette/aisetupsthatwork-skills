@@ -1,6 +1,6 @@
 ---
 name: compare-colleges-side-by-side-with-ai
-description: "Compare colleges side by side: cost, grad rates, and outcomes. Give the AI your shortlist of schools plus your family income range, and ask for a table of net price, graduation rate, median debt."
+description: "Give the AI your shortlist of schools plus your family income range, and ask for a table of net price, graduation rate, median debt, and earnings. You compare real outcomes instead of brochure gloss."
 ---
 
 # Compare colleges side by side: cost, grad rates, and outcomes

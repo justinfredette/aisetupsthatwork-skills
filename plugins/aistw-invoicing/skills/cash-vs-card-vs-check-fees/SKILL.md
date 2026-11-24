@@ -1,6 +1,6 @@
 ---
 name: cash-vs-card-vs-check-fees
-description: "Decide whether to take cards, cash, or checks. Tell the AI your average sale size and monthly volume. It does the fee math for cards, ACH, and checks so you can decide what to accept based on."
+description: "Decide whether to take cards, cash, or checks. Tell the AI your average sale size and monthly volume."
 ---
 
 # Decide whether to take cards, cash, or checks

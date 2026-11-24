@@ -1,6 +1,6 @@
 ---
 name: data-broker-opt-out-recheck-log
-description: "Data broker opt-out recheck log. This is not legal advice. Keep a log of each people search site and data broker you opted out of, with dates, and recheck it on a schedule you set. The FTC says your."
+description: "Data broker opt-out recheck log. This is not legal advice. Keep a log of each people search site and data broker you opted out of, with dates, and recheck it on a schedule you set."
 ---
 
 # Data broker opt-out recheck log

@@ -1,6 +1,6 @@
 ---
 name: hvac-service-call-job-log-with-chatgpt
-description: "HVAC Service Call Log, ChatGPT. Here's how I'd set this up in ChatGPT or Claude. By default I'd run it on made-up example rows. From made-up call rows, ChatGPT or Claude builds one log that keeps."
+description: "HVAC Service Call Log, ChatGPT. Here's how I'd set this up in ChatGPT or Claude. By default I'd run it on made-up example rows."
 ---
 
 # HVAC Service Call Log, ChatGPT

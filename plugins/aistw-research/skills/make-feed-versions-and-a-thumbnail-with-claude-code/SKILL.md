@@ -1,6 +1,6 @@
 ---
 name: make-feed-versions-and-a-thumbnail-with-claude-code
-description: "Make feed versions and a thumbnail. Ask Claude Code to make a 1080x1920 (9:16), a 1080x1350 (4:5) and a 1080x1080 (1:1) version of your video with FFmpeg, using a blurred copy of the video behind it."
+description: "Ask Claude Code to make a 1080x1920 (9:16), a 1080x1350 (4:5) and a 1080x1080 (1:1) version of your video with FFmpeg, using a blurred copy of the video behind it so nothing is cropped off."
 ---
 
 # Make feed versions and a thumbnail

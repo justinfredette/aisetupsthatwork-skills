@@ -1,6 +1,6 @@
 ---
 name: openrouter-free-models-stretch-ai-bot-usage
-description: "How to use OpenRouter free models to stretch your AI bot's usage. Keep planning on your main bot. Hand summaries, sorting, boilerplate, and first drafts to Pi on an OpenRouter free model and to."
+description: "How to use OpenRouter free models to stretch your AI bot's usage. Keep planning on your main bot."
 ---
 
 # How to use OpenRouter free models to stretch your AI bot's usage

@@ -1,6 +1,6 @@
 ---
 name: add-captions-from-speech-with-claude-code
-description: "Add captions from speech with Claude. Install Whisper, a free speech-to-text tool that runs on your computer, and ask Claude Code to transcribe your video into a caption file (.srt). Give it the."
+description: "Add captions from speech with Claude. Install Whisper, a free speech-to-text tool that runs on your computer, and ask Claude Code to transcribe your video into a caption file (.srt)."
 ---
 
 # Add captions from speech with Claude

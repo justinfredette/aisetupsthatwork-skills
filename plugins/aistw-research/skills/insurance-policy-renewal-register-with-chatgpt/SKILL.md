@@ -1,6 +1,6 @@
 ---
 name: insurance-policy-renewal-register-with-chatgpt
-description: "Policy Renewal Register with ChatGPT. Here's how I'd set this up in ChatGPT or Claude. By default I'd run it on made-up example rows: policy labels with renewal dates and statuses exactly as."
+description: "Policy Renewal Register with ChatGPT. Here's how I'd set this up in ChatGPT or Claude."
 ---
 
 # Policy Renewal Register with ChatGPT

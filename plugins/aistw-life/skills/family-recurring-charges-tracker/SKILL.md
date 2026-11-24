@@ -1,6 +1,6 @@
 ---
 name: family-recurring-charges-tracker
-description: "Family recurring charges tracker. Make one shared list of every recurring charge in the family: what it is, who uses it, the amount, the renewal date and how to cancel. Review it on a set day each."
+description: "Family recurring charges tracker. Make one shared list of every recurring charge in the family: what it is, who uses it, the amount, the renewal date and how to cancel."
 ---
 
 # Family recurring charges tracker

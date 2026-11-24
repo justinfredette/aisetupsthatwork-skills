@@ -1,6 +1,6 @@
 ---
 name: connect-your-bot-to-a-crm-the-safe-way
-description: "Connect your bot to a CRM the safe way. Pick the safest route your app offers: an official connector or API, then a scheduled export, then a limited user login for the bot. Never paste your own."
+description: "Connect your bot to a CRM the safe way. Pick the safest route your app offers: an official connector or API, then a scheduled export, then a limited user login for the bot."
 ---
 
 # Connect your bot to a CRM the safe way

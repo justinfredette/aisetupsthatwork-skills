@@ -1,6 +1,6 @@
 ---
 name: customer-survey-that-gets-responses
-description: "Write a Short Customer Survey People Actually Finish. Keep it under 5 minutes or about 10 to 15 questions, lead with your most important questions, and write every question simple, specific, and."
+description: "Keep it under 5 minutes or about 10 to 15 questions, lead with your most important questions, and write every question simple, specific, and short."
 ---
 
 # Write a Short Customer Survey People Actually Finish
