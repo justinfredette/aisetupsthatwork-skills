@@ -1,6 +1,6 @@
 ---
 name: cap-what-your-ai-agent-can-spend
-description: "Cap what your AI agent can spend. Give each agent its own project or workspace with its own key, set a monthly spend limit below what you can afford to lose, and add an alert at half. Anthropic and."
+description: "Cap what your AI agent can spend. Give each agent its own project or workspace with its own key, set a monthly spend limit below what you can afford to lose, and add an alert at half."
 ---
 
 # Cap what your AI agent can spend

@@ -1,6 +1,6 @@
 ---
 name: compare-software-tools-for-your-team
-description: "Compare software tools for your team without the sales calls. Define your required features and budget, then have the AI build a scored comparison from review sites like G2 and Capterra. You get a."
+description: "Compare software tools for your team without the sales calls. Define your required features and budget, then have the AI build a scored comparison from review sites like G2 and Capterra."
 ---
 
 # Compare software tools for your team without the sales calls

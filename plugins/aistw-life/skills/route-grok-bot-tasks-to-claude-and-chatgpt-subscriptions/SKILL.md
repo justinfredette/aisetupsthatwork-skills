@@ -1,6 +1,6 @@
 ---
 name: route-grok-bot-tasks-to-claude-and-chatgpt-subscriptions
-description: "Route Grok Bot tasks to your Claude and ChatGPT subscriptions. Install Claude Code and OpenAI Codex CLIs on Grok Bot’s shared cloud computer, sign in with your own Anthropic and OpenAI."
+description: "Route Grok Bot tasks to your Claude and ChatGPT subscriptions."
 ---
 
 # Route Grok Bot tasks to your Claude and ChatGPT subscriptions

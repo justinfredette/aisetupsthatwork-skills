@@ -1,6 +1,6 @@
 ---
 name: make-a-product-launch-video-with-claude-code-and-remotion
-description: "Make a product launch video from code. Write a one-page brief with five parts: the goal, what to deliver, the layout, a timeline of named events by frame, and the motion rules. Give it to Claude."
+description: "Make a product launch video from code. Write a one-page brief with five parts: the goal, what to deliver, the layout, a timeline of named events by frame, and the motion rules."
 ---
 
 # Make a product launch video from code

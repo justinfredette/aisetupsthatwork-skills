@@ -1,6 +1,6 @@
 ---
 name: plan-a-career-change-in-90-days
-description: "Plan a career change in 90 days. Pick one target role, spend a month validating it, a month building proof, and a month applying. The order matters: clarity first, then positioning, then."
+description: "Plan a career change in 90 days. Pick one target role, spend a month validating it, a month building proof, and a month applying."
 ---
 
 # Plan a career change in 90 days

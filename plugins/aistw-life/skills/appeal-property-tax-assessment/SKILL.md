@@ -1,6 +1,6 @@
 ---
 name: appeal-property-tax-assessment
-description: "Appeal a property tax assessment. Who hears appeals, the deadline and the form vary by state and often by local office, so confirm yours first. As examples only, Washington's Department of Revenue."
+description: "Appeal a property tax assessment. Who hears appeals, the deadline and the form vary by state and often by local office, so confirm yours first."
 ---
 
 # Appeal a property tax assessment

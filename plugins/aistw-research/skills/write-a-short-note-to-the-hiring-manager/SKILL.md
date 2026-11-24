@@ -1,6 +1,6 @@
 ---
 name: write-a-short-note-to-the-hiring-manager
-description: "Write a short note to the hiring manager. Pick one real trigger, such as a launch, funding, a new team or a post they wrote. Give the AI the trigger, one result of yours that fits the role, and the."
+description: "Write a short note to the hiring manager. Pick one real trigger, such as a launch, funding, a new team or a post they wrote."
 ---
 
 # Write a short note to the hiring manager

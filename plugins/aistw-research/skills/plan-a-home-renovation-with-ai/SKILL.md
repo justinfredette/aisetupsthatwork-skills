@@ -1,6 +1,6 @@
 ---
 name: plan-a-home-renovation-with-ai
-description: "Plan a Home Renovation With AI: Scope, Budget, and Contractor Quotes. Use AI to turn a vague project idea into a defined scope with line items, then get at least three written itemized bids and."
+description: "Use AI to turn a vague project idea into a defined scope with line items, then get at least three written itemized bids and compare them side by side."
 ---
 
 # Plan a Home Renovation With AI: Scope, Budget, and Contractor Quotes

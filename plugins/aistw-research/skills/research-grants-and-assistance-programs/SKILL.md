@@ -1,6 +1,6 @@
 ---
 name: research-grants-and-assistance-programs
-description: "Research grants and assistance programs you actually qualify for. Describe your business, location, and funding need, and ask the AI to build a list of matching grant and assistance programs with."
+description: "Describe your business, location, and funding need, and ask the AI to build a list of matching grant and assistance programs with eligibility rules and deadlines."
 ---
 
 # Research grants and assistance programs you actually qualify for

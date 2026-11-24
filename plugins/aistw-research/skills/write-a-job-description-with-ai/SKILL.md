@@ -1,6 +1,6 @@
 ---
 name: write-a-job-description-with-ai
-description: "AI to Write a Job Description (Copy-Paste Prompt for Hiring). I paste the role title, required skills, pay band, and company tone into ChatGPT, get a draft job post with responsibilities and."
+description: "Paste the role title, required skills, pay band and company tone into ChatGPT and get a draft job post with responsibilities and requirements to edit. You publish it yourself in your ATS or Indeed."
 ---
 
 # AI to Write a Job Description (Copy-Paste Prompt for Hiring)

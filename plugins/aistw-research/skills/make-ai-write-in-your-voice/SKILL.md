@@ -1,6 +1,6 @@
 ---
 name: make-ai-write-in-your-voice
-description: "Make AI write in your voice. AI drafts sound generic because the bot has never seen how you write. Fix it in two parts. First, paste 10 to 20 pieces of your own writing and have the bot draft a."
+description: "Make AI write in your voice. AI drafts sound generic because the bot has never seen how you write. Fix it in two parts."
 ---
 
 # Make AI write in your voice

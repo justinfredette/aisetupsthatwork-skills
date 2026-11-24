@@ -1,6 +1,6 @@
 ---
 name: price-a-job-without-losing-money
-description: "Price a job so you do not lose money on it. Give the AI your monthly costs, your tax estimate, and how many hours you can actually bill. It works out the lowest price you can accept, then builds a."
+description: "Price a job so you do not lose money on it. Give the AI your monthly costs, your tax estimate, and how many hours you can actually bill."
 ---
 
 # Price a job so you do not lose money on it

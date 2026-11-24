@@ -1,6 +1,6 @@
 ---
 name: limit-what-staff-and-bots-can-see-in-your-books
-description: "Limit what staff and bots can see in your books. List who and what touches your books, then give each the smallest role that does the job. QuickBooks Online has limited and reports-only roles, and."
+description: "Limit what staff and bots can see in your books. List who and what touches your books, then give each the smallest role that does the job."
 ---
 
 # Limit what staff and bots can see in your books

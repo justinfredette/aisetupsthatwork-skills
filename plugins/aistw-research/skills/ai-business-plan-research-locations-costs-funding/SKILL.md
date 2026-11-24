@@ -1,6 +1,6 @@
 ---
 name: ai-business-plan-research-locations-costs-funding
-description: "How to use AI for business plan research: locations, costs and funding. Ask for location comparisons, cost ranges with sources, funding pages to check, and a simple 90-day marketing plan. Mark every."
+description: "How to use AI for business plan research: locations, costs and funding. Ask for location comparisons, cost ranges with sources, funding pages to check, and a simple 90-day marketing plan."
 ---
 
 # How to use AI for business plan research: locations, costs and funding

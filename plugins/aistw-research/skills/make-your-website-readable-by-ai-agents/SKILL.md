@@ -1,6 +1,6 @@
 ---
 name: make-your-website-readable-by-ai-agents
-description: "Make your website readable by AI. Two things matter most: your robots.txt must let the AI crawlers you want in, and your key pages should be plain readable text. The llms.txt file is a proposal: an."
+description: "Make your website readable by AI. Two things matter most: your robots.txt must let the AI crawlers you want in, and your key pages should be plain readable text."
 ---
 
 # Make your website readable by AI

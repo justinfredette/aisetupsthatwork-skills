@@ -1,6 +1,6 @@
 ---
 name: extract-data-from-pdf-to-google-sheets-with-ai
-description: "How to extract data from a PDF to Google Sheets with an AI bot. Give an AI bot the file and a list of fields, and ask for one row per record with the page number. Spot-check rows against the PDF."
+description: "How to extract data from a PDF to Google Sheets with an AI bot. Give an AI bot the file and a list of fields, and ask for one row per record with the page number."
 ---
 
 # How to extract data from a PDF to Google Sheets with an AI bot

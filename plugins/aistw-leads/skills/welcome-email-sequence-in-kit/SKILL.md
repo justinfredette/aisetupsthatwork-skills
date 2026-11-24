@@ -1,6 +1,6 @@
 ---
 name: welcome-email-sequence-in-kit
-description: "Welcome email sequence in Kit. Kit's Email Sequences send a set of emails in order after someone joins, with delays and send days you choose. Draft the emails with the prompt below, publish the."
+description: "Welcome email sequence in Kit. Kit's Email Sequences send a set of emails in order after someone joins, with delays and send days you choose."
 ---
 
 # Welcome email sequence in Kit

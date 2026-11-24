@@ -1,6 +1,6 @@
 ---
 name: mock-behavioral-interview-with-ai
-description: "Mock behavioral interview with AI. Tell the AI to act as your interviewer, answer its questions out loud from real experience, then ask where your answer needed more detail. Practice answers at."
+description: "Mock behavioral interview with AI. Tell the AI to act as your interviewer, answer its questions out loud from real experience, then ask where your answer needed more detail."
 ---
 
 # Mock behavioral interview with AI

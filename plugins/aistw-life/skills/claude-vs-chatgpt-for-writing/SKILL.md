@@ -1,6 +1,6 @@
 ---
 name: claude-vs-chatgpt-for-writing
-description: "Claude vs ChatGPT for everyday writing (honest comparison). For everyday writing I pick ChatGPT when I want Tasks, browsing, and a Project on the OpenAI side; I pick Claude when I want long context."
+description: "For everyday writing I pick ChatGPT when I want Tasks, browsing, and a Project on the OpenAI side; I pick Claude when I want long context in Projects and Artifacts for side-by-side drafts."
 ---
 
 # Claude vs ChatGPT for everyday writing (honest comparison)

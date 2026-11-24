@@ -1,6 +1,6 @@
 ---
 name: cancel-subscriptions-and-get-refunds-with-chatgpt
-description: "Cancel Subscriptions and Ask for Refunds with ChatGPT. Here's how I'd set this up in ChatGPT or Claude (not run by us yet). I'd paste the recurring charges from my card statement, have the chat sort."
+description: "Cancel Subscriptions and Ask for Refunds with ChatGPT. Here's how I'd set this up in ChatGPT or Claude (not run by us yet)."
 ---
 
 # Cancel Subscriptions and Ask for Refunds with ChatGPT

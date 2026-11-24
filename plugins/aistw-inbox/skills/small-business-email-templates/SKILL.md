@@ -1,6 +1,6 @@
 ---
 name: small-business-email-templates
-description: "Build a Template Bank for Repeat Business Emails. Most small business emails are repeats: quote follow-ups, payment nudges, booked-out replies, review requests. Write each one once with AI, save it."
+description: "Build a Template Bank for Repeat Business Emails. Most small business emails are repeats: quote follow-ups, payment nudges, booked-out replies, review requests."
 ---
 
 # Build a Template Bank for Repeat Business Emails

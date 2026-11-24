@@ -1,6 +1,6 @@
 ---
 name: check-for-an-existing-reply-before-an-agent-answers-a-lead
-description: "Check for an existing reply before an agent answers. Add one rule before every lead reply: search sent mail and the lead's notes for anything sent in the last 7 days. If a teammate already answered."
+description: "Check for an existing reply before an agent answers. Add one rule before every lead reply: search sent mail and the lead's notes for anything sent in the last 7 days."
 ---
 
 # Check for an existing reply before an agent answers

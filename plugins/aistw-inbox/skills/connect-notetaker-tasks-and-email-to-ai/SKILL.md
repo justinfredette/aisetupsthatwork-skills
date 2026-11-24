@@ -1,6 +1,6 @@
 ---
 name: connect-notetaker-tasks-and-email-to-ai
-description: "Connect notes, tasks and email to AI. Both Claude and ChatGPT let you connect apps such as Gmail, Google Calendar and Google Drive. Claude's help center says it asks for your approval by default."
+description: "Connect notes, tasks and email to AI. Both Claude and ChatGPT let you connect apps such as Gmail, Google Calendar and Google Drive."
 ---
 
 # Connect notes, tasks and email to AI

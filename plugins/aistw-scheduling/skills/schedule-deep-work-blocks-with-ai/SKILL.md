@@ -1,6 +1,6 @@
 ---
 name: schedule-deep-work-blocks-with-ai
-description: "Schedule deep-work blocks that actually hold. AI studies your meeting pattern and finds your best focus windows, then drafts protected 60 to 90 minute deep-work blocks with a shutdown ritual. The."
+description: "Schedule deep-work blocks that actually hold. AI studies your meeting pattern and finds your best focus windows, then drafts protected 60 to 90 minute deep-work blocks with a shutdown ritual."
 ---
 
 # Schedule deep-work blocks that actually hold

@@ -1,6 +1,6 @@
 ---
 name: build-a-business-knowledge-base-your-ai-answers-from
-description: "Build a knowledge base your AI answers from. Create one project, upload your real documents (prices, policies, service areas, how-tos), and add instructions that it must answer only from those files."
+description: "Create one project, upload your real documents (prices, policies, service areas, how-tos), and add instructions that it must answer only from those files and say when the answer is not there."
 ---
 
 # Build a knowledge base your AI answers from

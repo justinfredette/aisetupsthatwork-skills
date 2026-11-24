@@ -1,6 +1,6 @@
 ---
 name: declutter-one-room-keep-toss-plan
-description: "Declutter One Room With a Keep / Toss / Donate Plan. Pick one room, tell ChatGPT what is in it and what overwhelms you. You get a zone-by-zone sorting plan with keep, toss, and donate rules plus."
+description: "Declutter One Room With a Keep / Toss / Donate Plan. Pick one room, tell ChatGPT what is in it and what overwhelms you."
 ---
 
 # Declutter One Room With a Keep / Toss / Donate Plan

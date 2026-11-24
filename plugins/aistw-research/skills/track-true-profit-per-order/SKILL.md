@@ -1,6 +1,6 @@
 ---
 name: track-true-profit-per-order
-description: "Track true profit per order. Export your orders, list your product costs, shipping, platform fees and ad spend, and have the AI calculate profit per order and per product with the math shown. Check."
+description: "Track true profit per order. Export your orders, list your product costs, shipping, platform fees and ad spend, and have the AI calculate profit per order and per product with the math shown."
 ---
 
 # Track true profit per order

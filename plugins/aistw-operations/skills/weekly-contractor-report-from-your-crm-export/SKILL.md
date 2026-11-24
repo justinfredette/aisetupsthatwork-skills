@@ -1,6 +1,6 @@
 ---
 name: weekly-contractor-report-from-your-crm-export
-description: "Weekly contractor report from your job app export. Export jobs, quotes and invoices as CSV from your field-service or CRM app once a week. Upload them and ask for a one-page report: revenue, jobs."
+description: "Weekly contractor report from your job app export. Export jobs, quotes and invoices as CSV from your field-service or CRM app once a week."
 ---
 
 # Weekly contractor report from your job app export

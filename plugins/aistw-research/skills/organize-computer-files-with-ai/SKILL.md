@@ -1,6 +1,6 @@
 ---
 name: organize-computer-files-with-ai
-description: "Can I Use AI to Organize My Computer Files? (Safe Draft-Only Plan). I describe my messy folders, or paste a file tree export, and ask ChatGPT for a naming scheme and folder map I approve before I."
+description: "Can I Use AI to Organize My Computer Files? (Safe Draft-Only Plan)."
 ---
 
 # Can I Use AI to Organize My Computer Files? (Safe Draft-Only Plan)

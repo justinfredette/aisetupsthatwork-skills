@@ -1,6 +1,6 @@
 ---
 name: file-an-fsa-or-hsa-claim-with-chatgpt
-description: "File an FSA or HSA Claim with ChatGPT. Here's how I'd set this up in ChatGPT or Claude (not run by us yet). I'd gather my medical receipts and explanation of benefits statements, black out my member."
+description: "File an FSA or HSA Claim with ChatGPT. Here's how I'd set this up in ChatGPT or Claude (not run by us yet)."
 ---
 
 # File an FSA or HSA Claim with ChatGPT

@@ -1,6 +1,6 @@
 ---
 name: find-which-bot-routine-burns-your-usage
-description: "Find which bot routine burns your usage. Most usage goes to a few routines: browser clicking loops, long always-loaded instructions, retries and bots sharing big context. List every scheduled."
+description: "Find which bot routine burns your usage. Most usage goes to a few routines: browser clicking loops, long always-loaded instructions, retries and bots sharing big context."
 ---
 
 # Find which bot routine burns your usage

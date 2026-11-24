@@ -1,6 +1,6 @@
 ---
 name: sync-an-obsidian-vault-on-a-computer-with-github
-description: "Sync an Obsidian vault on a computer. Install GitHub Desktop, sign in through the browser, and clone the vault repo into a normal folder, not inside iCloud Drive, OneDrive or Dropbox. Open that."
+description: "Sync an Obsidian vault on a computer. Install GitHub Desktop, sign in through the browser, and clone the vault repo into a normal folder, not inside iCloud Drive, OneDrive or Dropbox."
 ---
 
 # Sync an Obsidian vault on a computer

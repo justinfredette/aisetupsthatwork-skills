@@ -1,6 +1,6 @@
 ---
 name: make-a-study-guide-with-ai-custom-course-ebook
-description: "How to make a study guide with AI: a custom course ebook on any topic. Tell it what you already know and your goal. It writes chapters with quizzes and sources, in Markdown you can turn into an EPUB."
+description: "How to make a study guide with AI: a custom course ebook on any topic. Tell it what you already know and your goal."
 ---
 
 # How to make a study guide with AI: a custom course ebook on any topic

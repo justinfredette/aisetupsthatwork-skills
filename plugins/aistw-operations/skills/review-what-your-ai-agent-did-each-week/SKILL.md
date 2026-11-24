@@ -1,6 +1,6 @@
 ---
 name: review-what-your-ai-agent-did-each-week
-description: "Review what your AI agent did each week. Once a week, export or copy what the agent did, from sent drafts and bookings to edits and errors, and have an AI sort it into done well, needed fixing and."
+description: "Once a week, export or copy what the agent did, from sent drafts and bookings to edits and errors, and have an AI sort it into done well, needed fixing and should not have happened."
 ---
 
 # Review what your AI agent did each week

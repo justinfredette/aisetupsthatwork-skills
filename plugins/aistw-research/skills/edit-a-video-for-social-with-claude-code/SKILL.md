@@ -1,6 +1,6 @@
 ---
 name: edit-a-video-for-social-with-claude-code
-description: "Edit a video for social with Claude. Claude in the chat app can plan your edit but cannot hand you an edited video file. Claude Code can, because it runs tools on a computer. Install FFmpeg, put."
+description: "Edit a video for social with Claude. Claude in the chat app can plan your edit but cannot hand you an edited video file. Claude Code can, because it runs tools on a computer."
 ---
 
 # Edit a video for social with Claude

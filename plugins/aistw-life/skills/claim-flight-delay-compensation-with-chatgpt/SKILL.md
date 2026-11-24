@@ -1,6 +1,6 @@
 ---
 name: claim-flight-delay-compensation-with-chatgpt
-description: "Claim Flight Delay Compensation with ChatGPT. Here's how I'd set this up in ChatGPT or Claude (not run by us yet). I'd paste my booking and what went wrong, have the chat check whether EU rules or."
+description: "Claim Flight Delay Compensation with ChatGPT. Here's how I'd set this up in ChatGPT or Claude (not run by us yet)."
 ---
 
 # Claim Flight Delay Compensation with ChatGPT

@@ -1,6 +1,6 @@
 ---
 name: estimate-to-invoice-in-quickbooks
-description: "Estimate to invoice in QuickBooks. QuickBooks Online converts an accepted estimate into an invoice and copies the details across, so nothing gets retyped or dropped. Draft the estimate wording with."
+description: "Estimate to invoice in QuickBooks. QuickBooks Online converts an accepted estimate into an invoice and copies the details across, so nothing gets retyped or dropped."
 ---
 
 # Estimate to invoice in QuickBooks

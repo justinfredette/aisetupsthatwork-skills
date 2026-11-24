@@ -1,6 +1,6 @@
 ---
 name: catch-up-months-of-books-before-your-bookkeeper
-description: "Catch up months of books before your bookkeeper. Export each month of bank and card transactions as CSV, remove account numbers, and have the AI suggest categories, flag duplicates and list what."
+description: "Export each month of bank and card transactions as CSV, remove account numbers, and have the AI suggest categories, flag duplicates and list what needs a receipt."
 ---
 
 # Catch up months of books before your bookkeeper

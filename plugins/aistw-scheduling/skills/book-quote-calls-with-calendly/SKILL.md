@@ -1,6 +1,6 @@
 ---
 name: book-quote-calls-with-calendly
-description: "Book quote calls with Calendly. One Calendly event type for quote calls ends the back-and-forth: connect your calendar so only free times show, add buffers and a daily limit, and turn on reminder."
+description: "One Calendly event type for quote calls ends the back-and-forth: connect your calendar so only free times show, add buffers and a daily limit, and turn on reminder emails."
 ---
 
 # Book quote calls with Calendly

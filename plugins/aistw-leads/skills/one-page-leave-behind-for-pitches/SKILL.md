@@ -1,6 +1,6 @@
 ---
 name: one-page-leave-behind-for-pitches
-description: "Make a one-page leave-behind for pitches. After the pitch, leave one page: the problem, your approach, proof, price shape, and next step. The AI drafts it from your notes so it is ready before you."
+description: "Make a one-page leave-behind for pitches. After the pitch, leave one page: the problem, your approach, proof, price shape, and next step."
 ---
 
 # Make a one-page leave-behind for pitches

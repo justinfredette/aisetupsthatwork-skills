@@ -1,6 +1,6 @@
 ---
 name: make-a-promo-reel-with-ai-from-code
-description: "Make a promo reel with AI, from code. Ask a coding AI to draw every frame as a function of time in one HTML file, screenshot each frame with a headless browser, then join the frames and a music."
+description: "Ask a coding AI to draw every frame as a function of time in one HTML file, screenshot each frame with a headless browser, then join the frames and a music track with FFmpeg."
 ---
 
 # Make a promo reel with AI, from code

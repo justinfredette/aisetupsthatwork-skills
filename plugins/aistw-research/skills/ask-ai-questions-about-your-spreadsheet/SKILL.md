@@ -1,6 +1,6 @@
 ---
 name: ask-ai-questions-about-your-spreadsheet
-description: "Ask AI questions about your spreadsheet. Export the sheet as CSV or Excel, upload it, and ask one plain question at a time. Ask the AI to show the rows and math behind each answer, and spot-check."
+description: "Ask AI questions about your spreadsheet. Export the sheet as CSV or Excel, upload it, and ask one plain question at a time."
 ---
 
 # Ask AI questions about your spreadsheet

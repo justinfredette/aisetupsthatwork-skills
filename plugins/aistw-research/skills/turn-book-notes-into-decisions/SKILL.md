@@ -1,6 +1,6 @@
 ---
 name: turn-book-notes-into-decisions
-description: "Turn book notes into decisions instead of a highlight graveyard. Paste your book notes into the AI and ask it to extract the three to five ideas worth acting on, each as a concrete next step. Your."
+description: "Turn book notes into decisions instead of a highlight graveyard. Paste your book notes into the AI and ask it to extract the three to five ideas worth acting on, each as a concrete next step."
 ---
 
 # Turn book notes into decisions instead of a highlight graveyard

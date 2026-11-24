@@ -1,6 +1,6 @@
 ---
 name: summarize-reviews-to-find-complaints
-description: "Read 100 Reviews in 20 Minutes: Find What Customers Really Complain About. Paste 50 to 100 reviews into Claude or ChatGPT and ask for the top complaint themes with counts and example quotes. Fix the."
+description: "Read 100 Reviews in 20 Minutes: Find What Customers Really Complain About. Paste 50 to 100 reviews into Claude or ChatGPT and ask for the top complaint themes with counts and example quotes."
 ---
 
 # Read 100 Reviews in 20 Minutes: Find What Customers Really Complain About

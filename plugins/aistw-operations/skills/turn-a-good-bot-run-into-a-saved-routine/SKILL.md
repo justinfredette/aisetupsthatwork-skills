@@ -1,6 +1,6 @@
 ---
 name: turn-a-good-bot-run-into-a-saved-routine
-description: "Turn a good bot run into a saved routine. Right after a run that worked, ask the bot to write down exactly what it did as a step-by-step routine. Test that routine on a different input. If it works."
+description: "Turn a good bot run into a saved routine. Right after a run that worked, ask the bot to write down exactly what it did as a step-by-step routine. Test that routine on a different input."
 ---
 
 # Turn a good bot run into a saved routine

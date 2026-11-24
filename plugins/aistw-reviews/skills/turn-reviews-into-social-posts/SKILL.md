@@ -1,6 +1,6 @@
 ---
 name: turn-reviews-into-social-posts
-description: "Turn Good Reviews Into Social Media Posts. Pull your best review quotes into a weekly social post: quote graphic, short caption, your hashtag. One 5-star review is one post. You already have the."
+description: "Turn Good Reviews Into Social Media Posts. Pull your best review quotes into a weekly social post: quote graphic, short caption, your hashtag. One 5-star review is one post."
 ---
 
 # Turn Good Reviews Into Social Media Posts

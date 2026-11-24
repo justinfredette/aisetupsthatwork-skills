@@ -1,6 +1,6 @@
 ---
 name: points-or-cash-for-travel-with-chatgpt
-description: "Points or Cash for Travel? Decide with ChatGPT. Here's how I'd set this up in ChatGPT or Claude (not run by us yet). Before booking, I'd paste in the cash price, the points price, the taxes and fees."
+description: "Points or Cash for Travel? Decide with ChatGPT. Here's how I'd set this up in ChatGPT or Claude (not run by us yet)."
 ---
 
 # Points or Cash for Travel? Decide with ChatGPT

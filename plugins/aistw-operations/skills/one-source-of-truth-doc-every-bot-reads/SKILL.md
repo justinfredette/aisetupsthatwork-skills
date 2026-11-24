@@ -1,6 +1,6 @@
 ---
 name: one-source-of-truth-doc-every-bot-reads
-description: "One source-of-truth doc every bot reads. Keep one short document with today's facts: prices, policies, open promises and recent decisions, each with a date. Tell every bot to read it before starting."
+description: "One source-of-truth doc every bot reads. Keep one short document with today's facts: prices, policies, open promises and recent decisions, each with a date."
 ---
 
 # One source-of-truth doc every bot reads

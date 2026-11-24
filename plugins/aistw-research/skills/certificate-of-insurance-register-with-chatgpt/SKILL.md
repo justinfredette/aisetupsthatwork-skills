@@ -1,6 +1,6 @@
 ---
 name: certificate-of-insurance-register-with-chatgpt
-description: "Certificate Register with ChatGPT. Here's how I'd set this up in ChatGPT or Claude. By default I'd run it on made-up example rows: certificate entries with holder labels, lines, limits and dates."
+description: "Certificate Register with ChatGPT. Here's how I'd set this up in ChatGPT or Claude."
 ---
 
 # Certificate Register with ChatGPT

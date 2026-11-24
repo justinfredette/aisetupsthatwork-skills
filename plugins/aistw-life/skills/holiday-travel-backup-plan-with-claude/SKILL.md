@@ -1,6 +1,6 @@
 ---
 name: holiday-travel-backup-plan-with-claude
-description: "Holiday travel plan B with Claude. Make a Claude Project for the trip, add the confirmations to its knowledge, and turn on web search. Optionally connect Google Calendar so Claude can read the trip."
+description: "Holiday travel plan B with Claude. Make a Claude Project for the trip, add the confirmations to its knowledge, and turn on web search."
 ---
 
 # Holiday travel plan B with Claude

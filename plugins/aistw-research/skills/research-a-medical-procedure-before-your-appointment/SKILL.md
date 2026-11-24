@@ -1,6 +1,6 @@
 ---
 name: research-a-medical-procedure-before-your-appointment
-description: "Research a medical procedure before your appointment. Ask the AI to explain the procedure in plain language, list the standard questions to ask your surgeon, and summarize recovery timelines. You."
+description: "Research a medical procedure before your appointment. Ask the AI to explain the procedure in plain language, list the standard questions to ask your surgeon, and summarize recovery timelines."
 ---
 
 # Research a medical procedure before your appointment

@@ -1,6 +1,6 @@
 ---
 name: track-holiday-returns-with-claude
-description: "Track holiday returns with Claude. Connect Gmail and Google Calendar to Claude, then ask it to search the mail for holiday order confirmations and build a table of last return days, checked against."
+description: "Connect Gmail and Google Calendar to Claude, then ask it to search the mail for holiday order confirmations and build a table of last return days, checked against each store's policy page."
 ---
 
 # Track holiday returns with Claude

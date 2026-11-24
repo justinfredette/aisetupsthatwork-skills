@@ -1,6 +1,6 @@
 ---
 name: keep-your-agent-from-getting-your-account-locked
-description: "Keep your agent from getting your account locked. Platforms watch for automated activity. Meta's terms forbid collecting data by automated means without permission, even when logged in. Use official."
+description: "Keep your agent from getting your account locked. Platforms watch for automated activity. Meta's terms forbid collecting data by automated means without permission, even when logged in."
 ---
 
 # Keep your agent from getting your account locked

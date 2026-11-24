@@ -1,6 +1,6 @@
 ---
 name: build-your-case-for-a-raise-or-promotion
-description: "Build your case for a raise or promotion. Research the market range for your role and location, bring a one-page brag sheet of what you achieved, and ask for a specific number, not a range. If the."
+description: "Build your case for a raise or promotion. Research the market range for your role and location, bring a one-page brag sheet of what you achieved, and ask for a specific number, not a range."
 ---
 
 # Build your case for a raise or promotion

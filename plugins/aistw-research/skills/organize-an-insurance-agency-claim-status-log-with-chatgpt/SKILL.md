@@ -1,6 +1,6 @@
 ---
 name: organize-an-insurance-agency-claim-status-log-with-chatgpt
-description: "Claim Status Log with ChatGPT. Here's how I'd set this up in ChatGPT or Claude. By default I'd run it on made-up example rows: claim labels with status updates exactly as recorded, out comes one."
+description: "Claim Status Log with ChatGPT. Here's how I'd set this up in ChatGPT or Claude."
 ---
 
 # Claim Status Log with ChatGPT

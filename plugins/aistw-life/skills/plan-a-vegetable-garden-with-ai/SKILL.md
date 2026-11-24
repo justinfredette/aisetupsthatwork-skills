@@ -1,6 +1,6 @@
 ---
 name: plan-a-vegetable-garden-with-ai
-description: "Plan a vegetable garden with AI. Give the AI your zip code or last frost date and how much space you have. It builds a planting calendar: what to start indoors, what goes straight in the ground, and."
+description: "Plan a vegetable garden with AI. Give the AI your zip code or last frost date and how much space you have."
 ---
 
 # Plan a vegetable garden with AI

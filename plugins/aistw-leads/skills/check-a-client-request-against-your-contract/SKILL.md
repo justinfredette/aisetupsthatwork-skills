@@ -1,6 +1,6 @@
 ---
 name: check-a-client-request-against-your-contract
-description: "Check a Client Request Against Your Contract. Paste the request next to your contract’s scope section and ask AI to sort it: covered, gray area, or new work. You decide, and you agree on price and."
+description: "Check a Client Request Against Your Contract. Paste the request next to your contract’s scope section and ask AI to sort it: covered, gray area, or new work."
 ---
 
 # Check a Client Request Against Your Contract

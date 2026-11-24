@@ -1,6 +1,6 @@
 ---
 name: estimate-quarterly-taxes-freelancer
-description: "Estimate your quarterly taxes without the panic. Give the AI last year's total tax and this year's income so far. It figures your quarterly payment using the IRS safe harbor rule, which protects you."
+description: "Estimate your quarterly taxes without the panic. Give the AI last year's total tax and this year's income so far."
 ---
 
 # Estimate your quarterly taxes without the panic

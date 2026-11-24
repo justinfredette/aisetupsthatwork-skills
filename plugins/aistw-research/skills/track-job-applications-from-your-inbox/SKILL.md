@@ -1,6 +1,6 @@
 ---
 name: track-job-applications-from-your-inbox
-description: "Track job applications from your inbox. Have the AI build a tracker with one row per application, then fill it from your application confirmation emails. Anything with no reply after 7 days gets."
+description: "Track job applications from your inbox. Have the AI build a tracker with one row per application, then fill it from your application confirmation emails."
 ---
 
 # Track job applications from your inbox

@@ -1,6 +1,6 @@
 ---
 name: ai-meal-plan-and-grocery-list
-description: "AI meal plan and grocery list. Turn “what should we eat this week?” into a written meal plan and a grocery list grouped by store section, using diet, budget, household size, and what you already."
+description: "Turn “what should we eat this week?” into a written meal plan and a grocery list grouped by store section, using diet, budget, household size, and what you already have in the pantry."
 ---
 
 # AI meal plan and grocery list

@@ -1,6 +1,6 @@
 ---
 name: spot-a-fake-client-inquiry-with-ai
-description: "Spot a fake client inquiry with AI. Paste the inquiry and have the AI list red flags, such as a check for more than the price with a request to send money back, a fee to get started, or a rush to."
+description: "Paste the inquiry and have the AI list red flags, such as a check for more than the price with a request to send money back, a fee to get started, or a rush to move off-platform."
 ---
 
 # Spot a fake client inquiry with AI

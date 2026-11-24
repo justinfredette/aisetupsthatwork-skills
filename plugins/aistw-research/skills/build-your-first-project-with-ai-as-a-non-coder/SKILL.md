@@ -1,6 +1,6 @@
 ---
 name: build-your-first-project-with-ai-as-a-non-coder
-description: "Build your first project with AI as a non-coder. Pick one tiny, useful outcome and describe it to an AI app builder in plain words. Then run a loop: test what it built, ask for one focused fix at a."
+description: "Build your first project with AI as a non-coder. Pick one tiny, useful outcome and describe it to an AI app builder in plain words."
 ---
 
 # Build your first project with AI as a non-coder

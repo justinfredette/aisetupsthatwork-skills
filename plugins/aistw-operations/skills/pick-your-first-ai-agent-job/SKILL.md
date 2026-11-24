@@ -1,6 +1,6 @@
 ---
 name: pick-your-first-ai-agent-job
-description: "Pick your first AI agent job. List your repetitive weekly tasks, score each for hours spent, how often it repeats and how bad a mistake would be, and start with the one that is frequent, slow and."
+description: "Pick your first AI agent job."
 ---
 
 # Pick your first AI agent job

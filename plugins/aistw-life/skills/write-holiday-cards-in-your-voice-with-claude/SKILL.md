@@ -1,6 +1,6 @@
 ---
 name: write-holiday-cards-in-your-voice-with-claude
-description: "Write holiday cards with Claude. Make a Claude Project called Holiday cards. Add 3 to 5 cards, notes or texts you wrote yourself to the project knowledge, and paste the instructions from the prompt."
+description: "Write holiday cards with Claude. Make a Claude Project called Holiday cards."
 ---
 
 # Write holiday cards with Claude

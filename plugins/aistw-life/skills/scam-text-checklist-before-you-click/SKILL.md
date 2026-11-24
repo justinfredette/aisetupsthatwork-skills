@@ -1,6 +1,6 @@
 ---
 name: scam-text-checklist-before-you-click
-description: "Scam text checklist before you click. The FTC says not to click links in an unexpected text that asks for personal or financial information, because legitimate companies will not ask for account."
+description: "The FTC says not to click links in an unexpected text that asks for personal or financial information, because legitimate companies will not ask for account details by text."
 ---
 
 # Scam text checklist before you click

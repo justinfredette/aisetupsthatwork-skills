@@ -1,6 +1,6 @@
 ---
 name: turn-a-stack-of-documents-into-one-brief
-description: "Turn a stack of documents into one brief. Upload the files to one chat or project and ask for a brief that cites which document each point came from, lists conflicts between documents, and keeps."
+description: "Upload the files to one chat or project and ask for a brief that cites which document each point came from, lists conflicts between documents, and keeps numbers exactly as written."
 ---
 
 # Turn a stack of documents into one brief

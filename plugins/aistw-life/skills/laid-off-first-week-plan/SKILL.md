@@ -1,6 +1,6 @@
 ---
 name: laid-off-first-week-plan
-description: "Laid off: first-week plan. This is not legal or financial advice; check with a licensed professional for your situation, and do not paste identifying details into a chatbot. In week one: file for."
+description: "Laid off: first-week plan. This is not legal or financial advice; check with a licensed professional for your situation, and do not paste identifying details into a chatbot."
 ---
 
 # Laid off: first-week plan

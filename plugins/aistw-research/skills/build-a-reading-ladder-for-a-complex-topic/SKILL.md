@@ -1,6 +1,6 @@
 ---
 name: build-a-reading-ladder-for-a-complex-topic
-description: "Build a reading ladder to learn a complex topic fast. Tell the AI the topic and your current level, and ask for a sequenced reading ladder: accessible explainers first, then the real sources. You."
+description: "Build a reading ladder to learn a complex topic fast. Tell the AI the topic and your current level, and ask for a sequenced reading ladder: accessible explainers first, then the real sources."
 ---
 
 # Build a reading ladder to learn a complex topic fast

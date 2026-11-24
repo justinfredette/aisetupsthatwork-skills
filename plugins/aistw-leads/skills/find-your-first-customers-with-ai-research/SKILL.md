@@ -1,6 +1,6 @@
 ---
 name: find-your-first-customers-with-ai-research
-description: "Find your first customers with AI research. Pick one narrow kind of customer, have the AI research where they gather online and what they complain about, then draft a short, specific first message."
+description: "Pick one narrow kind of customer, have the AI research where they gather online and what they complain about, then draft a short, specific first message for each place."
 ---
 
 # Find your first customers with AI research

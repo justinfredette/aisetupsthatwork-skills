@@ -1,6 +1,6 @@
 ---
 name: flight-cancelled-what-to-do-with-claude
-description: "Flight cancelled? Next steps, Claude. Check the airline's app first; it may already show a new flight. Then ask Claude, with web search on and Gmail connected, to find the cancellation email and."
+description: "Flight cancelled? Next steps, Claude. Check the airline's app first; it may already show a new flight."
 ---
 
 # Flight cancelled? Next steps, Claude

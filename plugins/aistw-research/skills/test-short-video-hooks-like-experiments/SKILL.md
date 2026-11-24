@@ -1,6 +1,6 @@
 ---
 name: test-short-video-hooks-like-experiments
-description: "Test short video hooks like experiments. For each video, make 3 openings and keep the rest the same. Post them as tests, wait 3 days, and score each as views divided by your usual views. Track."
+description: "Test short video hooks like experiments. For each video, make 3 openings and keep the rest the same. Post them as tests, wait 3 days, and score each as views divided by your usual views."
 ---
 
 # Test short video hooks like experiments

@@ -1,6 +1,6 @@
 ---
 name: answer-customers-with-shopify-inbox
-description: "Answer customers with Shopify Inbox. Shopify Inbox is a free chat app in your Shopify admin. Its opt-in Inbox agent answers customer questions using your product catalog, store policies and."
+description: "Answer customers with Shopify Inbox. Shopify Inbox is a free chat app in your Shopify admin."
 ---
 
 # Answer customers with Shopify Inbox

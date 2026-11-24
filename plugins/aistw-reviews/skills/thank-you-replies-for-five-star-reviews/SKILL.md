@@ -1,6 +1,6 @@
 ---
 name: thank-you-replies-for-five-star-reviews
-description: "Thank-You Replies for 5-Star Reviews That Do Not Sound Canned. Reply with their name, one specific detail from their review, and a short thanks. Use AI to draft varied replies so you stop posting."
+description: "Thank-You Replies for 5-Star Reviews That Do Not Sound Canned. Reply with their name, one specific detail from their review, and a short thanks."
 ---
 
 # Thank-You Replies for 5-Star Reviews That Do Not Sound Canned

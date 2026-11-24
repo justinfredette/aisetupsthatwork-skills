@@ -1,6 +1,6 @@
 ---
 name: reply-to-google-reviews-with-ai
-description: "How to Use AI to Reply to Google Reviews (Even the Bad Ones). I paste the review text, my business facts, and the tone I want into ChatGPT, get a short reply draft for one-star and five-star cases."
+description: "Paste the review text, your business facts and the tone you want into ChatGPT and get a short reply draft for one-star and five-star cases. You post it in Google Business Profile. Never auto-publish."
 ---
 
 # How to Use AI to Reply to Google Reviews (Even the Bad Ones)

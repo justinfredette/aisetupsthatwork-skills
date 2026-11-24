@@ -1,6 +1,6 @@
 ---
 name: weekly-newsletter-triage
-description: "Triage Your Newsletters Once a Week. Auto-filter newsletters into a folder during the week, then spend 15 minutes once a week having AI score which ones are worth opening. Read the winners, delete."
+description: "Triage Your Newsletters Once a Week. Auto-filter newsletters into a folder during the week, then spend 15 minutes once a week having AI score which ones are worth opening."
 ---
 
 # Triage Your Newsletters Once a Week

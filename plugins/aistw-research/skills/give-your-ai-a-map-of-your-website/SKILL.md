@@ -1,6 +1,6 @@
 ---
 name: give-your-ai-a-map-of-your-website
-description: "Give your AI a map of your website. When an AI assistant answers without your site's specifics, its SEO advice stays generic. Fix it with one markdown file: every important page, the search phrase."
+description: "Give your AI a map of your website. When an AI assistant answers without your site's specifics, its SEO advice stays generic."
 ---
 
 # Give your AI a map of your website

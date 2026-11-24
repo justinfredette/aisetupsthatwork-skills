@@ -1,6 +1,6 @@
 ---
 name: learn-a-new-skill-with-ai-study-plan
-description: "Learn a new skill with an AI study plan. Turn \"I want to learn X\" into a week-by-week plan with daily tasks, quizzes, and beginner projects. Built around the hours you actually have, not fantasy."
+description: "Learn a new skill with an AI study plan. Turn \"I want to learn X\" into a week-by-week plan with daily tasks, quizzes, and beginner projects."
 ---
 
 # Learn a new skill with an AI study plan

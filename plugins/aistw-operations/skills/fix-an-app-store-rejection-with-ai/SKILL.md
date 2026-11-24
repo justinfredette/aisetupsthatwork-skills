@@ -1,6 +1,6 @@
 ---
 name: fix-an-app-store-rejection-with-ai
-description: "Fix an App Store rejection with AI. Copy the full rejection message and the guideline number it cites. Have the AI quote that guideline, explain in plain words what App Review wants, and list the."
+description: "Fix an App Store rejection with AI. Copy the full rejection message and the guideline number it cites."
 ---
 
 # Fix an App Store rejection with AI

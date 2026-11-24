@@ -1,6 +1,6 @@
 ---
 name: target-price-adjustment-watch
-description: "Target price adjustment watch. Target's policy matches a lower price at Target (Target.com, Target stores or a Target Circle deal), not at other retailers. Ask at purchase or within 14 days, with."
+description: "Target price adjustment watch. Target's policy matches a lower price at Target (Target.com, Target stores or a Target Circle deal), not at other retailers."
 ---
 
 # Target price adjustment watch

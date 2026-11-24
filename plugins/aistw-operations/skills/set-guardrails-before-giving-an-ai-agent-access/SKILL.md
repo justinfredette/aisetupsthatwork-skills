@@ -1,6 +1,6 @@
 ---
 name: set-guardrails-before-giving-an-ai-agent-access
-description: "Set guardrails before an AI agent gets access. Write down, before you connect anything, what the agent may read, what it may only draft, and what it may never do without you. Give it its own account."
+description: "Set guardrails before an AI agent gets access. Write down, before you connect anything, what the agent may read, what it may only draft, and what it may never do without you."
 ---
 
 # Set guardrails before an AI agent gets access

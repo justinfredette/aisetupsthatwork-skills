@@ -1,6 +1,6 @@
 ---
 name: insurance-client-communication-log-with-chatgpt
-description: "Client Communication Log with ChatGPT. Here's how I'd set this up in ChatGPT or Claude. By default I'd run it on made-up example rows: client labels with contact entries and requests exactly as."
+description: "Client Communication Log with ChatGPT. Here's how I'd set this up in ChatGPT or Claude."
 ---
 
 # Client Communication Log with ChatGPT

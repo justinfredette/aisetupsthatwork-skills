@@ -1,6 +1,6 @@
 ---
 name: digitize-handwritten-notes-with-ai
-description: "Turn Handwritten Notes Into Searchable Text. Snap a photo of the page and run it through free OCR: Google Drive’s \"Open with Google Docs\" on desktop, or Apple Live Text on iPhone. Handwriting."
+description: "Turn Handwritten Notes Into Searchable Text. Snap a photo of the page and run it through free OCR: Google Drive’s \"Open with Google Docs\" on desktop, or Apple Live Text on iPhone."
 ---
 
 # Turn Handwritten Notes Into Searchable Text

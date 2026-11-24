@@ -1,6 +1,6 @@
 ---
 name: triage-trade-show-leads-fast
-description: "Sort trade show leads before they go cold. Photograph the business cards with your notes, sort leads into hot, warm, and cold the same night, and let the AI draft the right first message for each."
+description: "Photograph the business cards with your notes, sort leads into hot, warm, and cold the same night, and let the AI draft the right first message for each tier."
 ---
 
 # Sort trade show leads before they go cold

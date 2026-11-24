@@ -1,6 +1,6 @@
 ---
 name: vet-a-contractor-before-you-hire
-description: "Vet a contractor before you hire them. Give the AI the contractor’s name, license number, and quote details. It builds a vetting checklist covering license, insurance, reviews, and red flags, and."
+description: "Vet a contractor before you hire them. Give the AI the contractor’s name, license number, and quote details."
 ---
 
 # Vet a contractor before you hire them

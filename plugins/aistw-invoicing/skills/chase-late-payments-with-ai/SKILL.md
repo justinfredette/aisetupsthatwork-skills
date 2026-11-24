@@ -1,6 +1,6 @@
 ---
 name: chase-late-payments-with-ai
-description: "Chase late payments without the awkward email. Tell the AI the invoice details and how late it is. It writes a firm but polite reminder email. You read it, fix anything that sounds off, and send it."
+description: "Chase late payments without the awkward email. Tell the AI the invoice details and how late it is. It writes a firm but polite reminder email."
 ---
 
 # Chase late payments without the awkward email

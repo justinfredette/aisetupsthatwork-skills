@@ -1,6 +1,6 @@
 ---
 name: costco-price-adjustment-watch
-description: "Costco price adjustment watch. Costco's price match page for costco.com orders says a purchase that drops in price within 30 days can be eligible, for non-resale members. For a warehouse purchase it."
+description: "Costco price adjustment watch. Costco's price match page for costco.com orders says a purchase that drops in price within 30 days can be eligible, for non-resale members."
 ---
 
 # Costco price adjustment watch

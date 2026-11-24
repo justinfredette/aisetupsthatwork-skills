@@ -1,6 +1,6 @@
 ---
 name: answer-airbnb-guest-questions-with-ai
-description: "Answer Airbnb guest questions with AI. Write a reply for each question guests ask most, such as check-in, house rules and parking. Save them as Airbnb quick replies. Airbnb's help center says you."
+description: "Answer Airbnb guest questions with AI. Write a reply for each question guests ask most, such as check-in, house rules and parking. Save them as Airbnb quick replies."
 ---
 
 # Answer Airbnb guest questions with AI

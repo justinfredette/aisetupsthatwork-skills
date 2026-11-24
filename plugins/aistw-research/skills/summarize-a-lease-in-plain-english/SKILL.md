@@ -1,6 +1,6 @@
 ---
 name: summarize-a-lease-in-plain-english
-description: "Understand Your Lease in Plain English. This is not legal advice. Photograph or scan your lease, have AI pull out the key terms in plain language, then check the warning signs yourself before you."
+description: "Understand Your Lease in Plain English. This is not legal advice."
 ---
 
 # Understand Your Lease in Plain English

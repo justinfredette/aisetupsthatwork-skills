@@ -1,6 +1,6 @@
 ---
 name: appeal-a-denied-health-insurance-claim-with-chatgpt
-description: "Appeal a Denied Health Insurance Claim with ChatGPT. Here's how I'd set this up in ChatGPT or Claude (not run by us yet). I'd upload the denial letter and the plan pages it cites, have the chat."
+description: "Appeal a Denied Health Insurance Claim with ChatGPT. Here's how I'd set this up in ChatGPT or Claude (not run by us yet)."
 ---
 
 # Appeal a Denied Health Insurance Claim with ChatGPT

@@ -1,6 +1,6 @@
 ---
 name: etsy-listing-titles-tags-and-descriptions-with-ai
-description: "Etsy listing titles, tags, and descriptions with AI. Etsy gives you 13 tags and a short title to get found. Put the most important keywords first in the title, use all 13 tags with varied multi-word."
+description: "Etsy listing titles, tags, and descriptions with AI. Etsy gives you 13 tags and a short title to get found."
 ---
 
 # Etsy listing titles, tags, and descriptions with AI

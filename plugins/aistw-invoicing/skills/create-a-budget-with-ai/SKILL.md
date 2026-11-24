@@ -1,6 +1,6 @@
 ---
 name: create-a-budget-with-ai
-description: "How to Use AI to Create a Budget (Copy-Paste Prompt). I paste my monthly take-home, fixed bills, and debt minimums into ChatGPT, ask for a zero-based or 50/30/20 draft with line items I can edit in."
+description: "Paste your monthly take-home, fixed bills and debt minimums into ChatGPT and get a zero-based or 50/30/20 draft with line items to edit in a spreadsheet."
 ---
 
 # How to Use AI to Create a Budget (Copy-Paste Prompt)

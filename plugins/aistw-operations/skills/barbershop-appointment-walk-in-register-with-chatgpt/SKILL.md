@@ -1,6 +1,6 @@
 ---
 name: barbershop-appointment-walk-in-register-with-chatgpt
-description: "Barbershop Walk-In Register, ChatGPT. Here's how I'd set this up in ChatGPT or Claude. By default I'd run it on made-up example rows: visit labels with lifecycle facts exactly as recorded - booked."
+description: "Barbershop Walk-In Register, ChatGPT. Here's how I'd set this up in ChatGPT or Claude."
 ---
 
 # Barbershop Walk-In Register, ChatGPT

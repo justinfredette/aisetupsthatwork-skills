@@ -1,6 +1,6 @@
 ---
 name: measure-the-real-time-ai-drafts-save
-description: "Measure the real time AI drafts save. Time the whole job, not just the step the AI touched: drafting, review, fixes and rework, for 5 tasks done the old way and 5 with AI. If review time grew more."
+description: "Measure the real time AI drafts save. Time the whole job, not just the step the AI touched: drafting, review, fixes and rework, for 5 tasks done the old way and 5 with AI."
 ---
 
 # Measure the real time AI drafts save

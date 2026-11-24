@@ -1,6 +1,6 @@
 ---
 name: draft-difficult-emails-with-ai
-description: "Draft the Hard Emails: Saying No and Following Up Twice. AI drafts polite declines and firm follow-ups in seconds: thank them, say no clearly, offer an alternative. You always review and rewrite in."
+description: "Draft the Hard Emails: Saying No and Following Up Twice. AI drafts polite declines and firm follow-ups in seconds: thank them, say no clearly, offer an alternative."
 ---
 
 # Draft the Hard Emails: Saying No and Following Up Twice

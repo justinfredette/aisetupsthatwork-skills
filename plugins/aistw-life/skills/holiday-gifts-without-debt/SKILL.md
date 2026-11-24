@@ -1,6 +1,6 @@
 ---
 name: holiday-gifts-without-debt
-description: "Plan Holiday Gifts Without the January Debt Hangover. List everyone you buy for and what you can spend total. ChatGPT builds a per-person gift plan inside that number, with cheaper alternatives for."
+description: "Plan Holiday Gifts Without the January Debt Hangover. List everyone you buy for and what you can spend total."
 ---
 
 # Plan Holiday Gifts Without the January Debt Hangover

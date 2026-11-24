@@ -1,6 +1,6 @@
 ---
 name: gym-membership-check-in-register-with-chatgpt
-description: "Gym Check-in Register, ChatGPT. Here's how I'd set this up in ChatGPT or Claude. By default I'd run it on made-up example rows: member labels with facts exactly as recorded - membership status."
+description: "Gym Check-in Register, ChatGPT. Here's how I'd set this up in ChatGPT or Claude."
 ---
 
 # Gym Check-in Register, ChatGPT

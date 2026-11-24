@@ -1,6 +1,6 @@
 ---
 name: ask-happy-customers-for-reviews
-description: "Ask Happy Customers for Reviews at the Right Moment. Ask right after a good moment: the job is done, the problem is fixed, the compliment is given. One short message with a direct link. Ask."
+description: "Ask Happy Customers for Reviews at the Right Moment. Ask right after a good moment: the job is done, the problem is fixed, the compliment is given. One short message with a direct link."
 ---
 
 # Ask Happy Customers for Reviews at the Right Moment

@@ -1,6 +1,6 @@
 ---
 name: share-a-client-portal-page-in-notion
-description: "Share a client portal page in Notion. One Notion page per client, shared as a guest link, answers the what is happening emails before they are sent. Notion's permission levels let clients see or."
+description: "Share a client portal page in Notion. One Notion page per client, shared as a guest link, answers the what is happening emails before they are sent."
 ---
 
 # Share a client portal page in Notion

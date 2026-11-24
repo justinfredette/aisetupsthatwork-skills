@@ -1,6 +1,6 @@
 ---
 name: make-a-family-cookbook-with-ai
-description: "Make a family cookbook with AI. Collect the recipes however they exist: photos, handwritten cards, memory. AI transcribes and standardizes them into one consistent format, you add the stories behind."
+description: "Make a family cookbook with AI. Collect the recipes however they exist: photos, handwritten cards, memory."
 ---
 
 # Make a family cookbook with AI

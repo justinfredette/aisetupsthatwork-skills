@@ -1,6 +1,6 @@
 ---
 name: due-diligence-on-a-job-offer-with-ai
-description: "Do due diligence on a job offer before you sign. Paste the offer details into the AI and ask for a total-compensation breakdown: salary, bonus, equity, benefits value, and red flags. You see what."
+description: "Do due diligence on a job offer before you sign. Paste the offer details into the AI and ask for a total-compensation breakdown: salary, bonus, equity, benefits value, and red flags."
 ---
 
 # Do due diligence on a job offer before you sign

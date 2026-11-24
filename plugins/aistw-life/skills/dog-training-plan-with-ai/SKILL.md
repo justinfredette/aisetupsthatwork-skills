@@ -1,6 +1,6 @@
 ---
 name: dog-training-plan-with-ai
-description: "Build a Dog Training Plan With AI. Describe the specific behavior and your dog's age and temperament, and get a week-by-week plan built on positive reinforcement: short sessions, rewards within."
+description: "Build a Dog Training Plan With AI. Yes. ChatGPT or Claude can build a personalized dog training plan from your dog's daily routine."
 ---
 
 # Build a Dog Training Plan With AI

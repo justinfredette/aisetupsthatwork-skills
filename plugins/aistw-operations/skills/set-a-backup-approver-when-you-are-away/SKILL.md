@@ -1,6 +1,6 @@
 ---
 name: set-a-backup-approver-when-you-are-away
-description: "Set a backup approver when you are away. Decide in advance who approves what while you are away, what simply waits, and what the customer hears in the meantime. Put it in the agent's instructions."
+description: "Set a backup approver when you are away. Decide in advance who approves what while you are away, what simply waits, and what the customer hears in the meantime."
 ---
 
 # Set a backup approver when you are away

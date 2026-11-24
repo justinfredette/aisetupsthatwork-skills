@@ -1,6 +1,6 @@
 ---
 name: reply-to-an-unreasonable-refund-request
-description: "Reply to an unreasonable refund request. Do not argue the policy. Acknowledge the frustration, decline the refund clearly, and offer a concrete alternative. A short script keeps you professional and."
+description: "Reply to an unreasonable refund request. Do not argue the policy. Acknowledge the frustration, decline the refund clearly, and offer a concrete alternative."
 ---
 
 # Reply to an unreasonable refund request

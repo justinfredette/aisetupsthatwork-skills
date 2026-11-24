@@ -1,6 +1,6 @@
 ---
 name: research-a-company-before-you-apply
-description: "Research a company before you apply. Paste the job post and the company's website into an AI with web search, and ask for a one-page brief: what they sell, who pays, recent launches or hires, and."
+description: "Research a company before you apply."
 ---
 
 # Research a company before you apply

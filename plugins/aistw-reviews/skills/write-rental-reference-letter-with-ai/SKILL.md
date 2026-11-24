@@ -1,6 +1,6 @@
 ---
 name: write-rental-reference-letter-with-ai
-description: "Write a Rental Reference Letter With AI. Give AI the facts: tenant name, dates, rent history, property condition. Get back a clean one-page letter. Stick to rental facts only, because Fair Housing."
+description: "Write a Rental Reference Letter With AI. Give AI the facts: tenant name, dates, rent history, property condition. Get back a clean one-page letter."
 ---
 
 # Write a Rental Reference Letter With AI

@@ -1,6 +1,6 @@
 ---
 name: thanksgiving-cooking-timeline-with-ai
-description: "Thanksgiving Cooking Timeline with AI: Free Prompt for a One-Oven Kitchen. Thanksgiving is Thursday, November 26 this year, and the hard part is timing. The turkey owns the oven all afternoon, three."
+description: "Thanksgiving Cooking Timeline with AI: Free Prompt for a One-Oven Kitchen. Thanksgiving is Thursday, November 26 this year, and the hard part is timing."
 ---
 
 # Thanksgiving Cooking Timeline with AI: Free Prompt for a One-Oven Kitchen

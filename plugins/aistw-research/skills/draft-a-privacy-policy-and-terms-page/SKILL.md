@@ -1,6 +1,6 @@
 ---
 name: draft-a-privacy-policy-and-terms-page
-description: "Draft a Privacy Policy and Terms Page for Your Site. This is not legal advice. A privacy policy must honestly describe what data you collect and what you do with it; terms set the rules for using."
+description: "Draft a Privacy Policy and Terms Page for Your Site. This is not legal advice."
 ---
 
 # Draft a Privacy Policy and Terms Page for Your Site

@@ -1,6 +1,6 @@
 ---
 name: compare-phone-and-internet-plans-with-ai
-description: "Compare phone and internet plans without the fine-print headache. Tell the AI your monthly data use, speed needs, and budget, then paste in the plan details. It builds a true-cost table so you."
+description: "Compare phone and internet plans without the fine-print headache. Tell the AI your monthly data use, speed needs, and budget, then paste in the plan details."
 ---
 
 # Compare phone and internet plans without the fine-print headache

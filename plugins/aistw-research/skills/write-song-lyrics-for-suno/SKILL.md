@@ -1,6 +1,6 @@
 ---
 name: write-song-lyrics-for-suno
-description: "Write Song Lyrics That Work in Suno. Use Suno's Custom mode: enter your own lyrics, and (in the Suno app) put the genre, mood, and instruments in the Styles entry. Tip: mark sections like [Verse]."
+description: "Write Song Lyrics That Work in Suno. Use Suno's Custom mode: enter your own lyrics, and (in the Suno app) put the genre, mood, and instruments in the Styles entry."
 ---
 
 # Write Song Lyrics That Work in Suno

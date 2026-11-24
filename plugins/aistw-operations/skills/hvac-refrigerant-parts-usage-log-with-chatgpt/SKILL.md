@@ -1,6 +1,6 @@
 ---
 name: hvac-refrigerant-parts-usage-log-with-chatgpt
-description: "HVAC Refrigerant Parts Log, ChatGPT. Here's how I'd set this up in ChatGPT or Claude. By default I'd run it on made-up example rows. From made-up usage rows, ChatGPT or Claude builds one log that."
+description: "HVAC Refrigerant Parts Log, ChatGPT. Here's how I'd set this up in ChatGPT or Claude. By default I'd run it on made-up example rows."
 ---
 
 # HVAC Refrigerant Parts Log, ChatGPT

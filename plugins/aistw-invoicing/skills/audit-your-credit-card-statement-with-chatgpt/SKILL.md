@@ -1,6 +1,6 @@
 ---
 name: audit-your-credit-card-statement-with-chatgpt
-description: "Audit Your Credit Card Statement with ChatGPT. Here's how I'd set this up in ChatGPT or Claude (not run by us yet). I'd download my last few statements, black out the card number, upload them, and."
+description: "Audit Your Credit Card Statement with ChatGPT. Here's how I'd set this up in ChatGPT or Claude (not run by us yet)."
 ---
 
 # Audit Your Credit Card Statement with ChatGPT

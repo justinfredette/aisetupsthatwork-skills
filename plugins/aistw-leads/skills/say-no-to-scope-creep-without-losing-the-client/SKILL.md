@@ -1,6 +1,6 @@
 ---
 name: say-no-to-scope-creep-without-losing-the-client
-description: "Say no to scope creep without losing the client. When a client asks for \"one more thing,\" pause and name it as new work instead of folding it in for free. A short script plus a written change order."
+description: "Say no to scope creep without losing the client. When a client asks for \"one more thing,\" pause and name it as new work instead of folding it in for free."
 ---
 
 # Say no to scope creep without losing the client

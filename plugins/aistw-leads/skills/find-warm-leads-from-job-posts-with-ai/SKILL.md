@@ -1,6 +1,6 @@
 ---
 name: find-warm-leads-from-job-posts-with-ai
-description: "Find warm leads from job posts with AI. Search job listings for roles your service can cover, open the ones that have been up a while, and paste the responsibilities into an AI to name the likely."
+description: "Search job listings for roles your service can cover, open the ones that have been up a while, and paste the responsibilities into an AI to name the likely problems."
 ---
 
 # Find warm leads from job posts with AI
